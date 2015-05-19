@@ -19,7 +19,7 @@ Extensions that **change via vQmod/OCmod** the following parts *won't work* dire
 * Front - Checkout page (1)
 * Front - Header search
 
-(1) One-Page-Checkout extensions works fine as they don't change but replace the checkout page.
+(1) One-Page-Checkout extensions work fine as they don't change but replace the checkout page.
 
 Extensions that **add or remove** features to the following parts *won't work* directly with Arastta:
 

@@ -145,3 +145,4 @@
 	* [Event System](developers/event-system)
 	* [Modules](developers/modules)
 	* [Product Feeds](developers/product-feeds)
+	* [OpenCart Compatibility](developers/opencart-compatibility)

@@ -15,6 +15,8 @@ Arastta can be downloaded from the [Download](http://arastta.org/download) page.
 
 The downloaded ZIP file contains all the files needed to upload Arastta to a web server. The "LICENSE.txt" file contains the license agreement regarding the use of Arastta on your site. When you are ready, you can extract the files from the ZIP file to a location of your choice on your computer.
 
+![Arastta package](_images/arastta-package.png)
+
 Uploading Arastta
 -----------------
 
@@ -24,7 +26,7 @@ At this step you should have a web server established and the Arastta archive ex
 
 We recommend using Filezilla as your FTP client. Filezilla is a free FTP client that will transfer the Arastta files to any web server specified. The FileZilla client (not the server) can be downloaded from [http://filezilla-project.org/](http://filezilla-project.org/) and installed onto a computer.
 
-When you open Filezilla you should see your computer's file directory on the left side. The next step is to locate where you saved the uncompressed Arastta archive and click on the "upload" folder, and the files should appear below it. The directory needs to be left open as we continue. The right hand side is blank at the moment because the target website hasn't been connected to. When connected it will display the file directory of the web server.
+When you open Filezilla you should see your computer's file directory on the left side. The next step is to unzip and locate where you saved the uncompressed Arastta archive. The directory needs to be left open as we continue. The right hand side is blank at the moment because the target website hasn't been connected to. When connected it will display the file directory of the web server.
 
 ![filezilla disconnect](_images/filezilla-disconnect.png)
 
@@ -44,13 +46,13 @@ Under the “File” menu, “Site Manager” should be opened in Filezilla. A w
 
 ### Uploading Arastta's files
 
-If you haven't already located the Arastta upload folder on the left side, you need to do so now and keep it open. In the Remote Site directory (right side), you need to open the folder that the Arastta shop will be located in. The location of shop varies based on whether the you want the shop to be seen on the main page, a sub-folder, a subdomain, etc. If you want to make Arastta the main page, you would need to upload files to the root folder of their website.
+If you haven't already located the Arastta package on the left side, you need to do so now and keep it open. In the Remote Site directory (right side), you need to open the folder that the Arastta shop will be located in. The location of shop varies based on whether the you want the shop to be seen on the main page, a sub-folder, a subdomain, etc. If you want to make Arastta the main page, you would need to upload files to the root folder of their website.
 
 > Be aware that some hosting services require public files to be upload to a public directory, such as public_html, if they are to be visible on the website. You should check with your hosting provider to see where you can upload public files.
 
-Once the location of the Arastta shop has been determined, all the content within the “upload” folder on the computer's (left) side of Filezilla must be selected, right-clicked, and uploaded. Uploading all the files might take a few minutes on the FTP client.
+Once the location of the Arastta shop has been determined, all the content within the package folder on the computer's (left) side of Filezilla must be selected, right-clicked, and uploaded. Uploading all the files might take a few minutes on the FTP client.
 
-> If you want the shop to be on the main page, for example www.shopnow.com, you must upload the contents of the “upload” folder, but not the “upload” folder itself. Including the “upload” folder will create a sub-folder, making the shop available only on www.shopnow.com/upload.
+> If you want the shop to be on the main page, for example www.shopnow.com, you must upload the contents of the package folder, but not the package folder itself. Including the package folder will create a sub-folder, making the shop available only on www.shopnow.com/upload.
 
 After Filezilla finishes uploading the files to the location specified, you should see the same files on both the left side(computer) and on the right side (the website); as seen in the screenshot below:
 
@@ -66,7 +68,7 @@ The next step is to create a database on the MySQL server for Arastta to store a
 Launch the auto-installer
 -------------------------
 
-With a new database freshly created, we are now ready to install Arastta directly onto a website. You should open up a web browser and enter in the web address of where they uploaded Arastta. If the "install" folder in "upload" was uploaded correctly, you should be automatically greeted by the following page:
+With a new database freshly created, we are now ready to install Arastta directly onto a website. You should open up a web browser and enter in the web address of where they uploaded Arastta.
 
 This page is the installation page. The following steps will help you complete the installation process for Arastta.
 

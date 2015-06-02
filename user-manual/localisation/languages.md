@@ -35,3 +35,8 @@ Language determination in store front
 -------------------------------------
 
 Arastta will try to determine the store front language based on the visitor's browser settings and your installed languages. If not able to match, the one set from the Settings => Local page will be loaded as per default.
+
+Contribute
+----------
+
+Language translations are managed and downloaded live from [Crowdin](https://crowdin.com/project/arastta) platform. You're always welcome to join and help the translation of Arastta.

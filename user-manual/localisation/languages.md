@@ -23,11 +23,11 @@ Settings
 Languages can be set up from Localisation > Languages page. The following information will be needed to save the language:
 
 - **Name**: The name in native language.
-- **Code: **The ISO language code. [W3Schools](http://www.w3schools.com/tags/ref_language_codes.asp) has a complete list of ISO codes.
-- **Image: **The image used to represent the language, that will be displayed in the header area of the store.
-- **Directory: **The location of the language pack based on [language subtag](http://www.w3.org/International/articles/language-tags/#region) (do not include the catalog/language path).
-- **Status: **Enables or disables the language in the store front.
-- **Sort Order: **Determines the position of the language among multiple languages in the header.
+- **Code**: The ISO language code. [W3Schools](http://www.w3schools.com/tags/ref_language_codes.asp) has a complete list of ISO codes.
+- **Image**: The image used to represent the language, that will be displayed in the header area of the store.
+- **Directory**: The language folder name based on [language subtag](http://www.w3.org/International/articles/language-tags/#region).
+- **Status**: Enables or disables the language in the store front.
+- **Sort Order**: Determines the position of the language among multiple languages in the header.
 
 ![Language settings](_images/languages-settings.png)
 

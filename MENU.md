@@ -9,7 +9,6 @@
 		* [Overview](user-manual/admin/overview)
 		* [Multi-Store](user-manual/admin/multi-store)
 		* [Filter](user-manual/admin/filter)
-		* [Language](user-manual/admin/language)
 		* [Image Manager](user-manual/admin/image-manager)
 		* [SSL](user-manual/admin/ssl)
 		* [Moving Arastta](user-manual/admin/moving-server)

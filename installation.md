@@ -6,7 +6,7 @@ Installing Arastta
 
 This guide will walk you through how to successfully install and uninstall Arastta.
 
-<iframe width="740" height="530" src="https://www.youtube.com/embed/T9xXVGJsmrk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="495" src="https://www.youtube.com/embed/T9xXVGJsmrk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Learn how to install Arastta eCommerce on your local or remote server in just minutes. For more please visit [Tutorials](http://arastta.org/tutorials).
 

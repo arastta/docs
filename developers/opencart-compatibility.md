@@ -35,7 +35,6 @@ Compatible
 The following addons *will work* directly with Arastta:
 
 * Themes
-* Languages (OC 2.0.2)
 * Payment gateways
 * Shipping methods
 * Modules

@@ -10,11 +10,13 @@ Not Compatible
 
 Extensions that **change via vQmod/OCmod** the following parts *won't work* directly with Arastta:
 
+* Admin - index.php file
 * Admin - Login page
 * Admin - Dashboard page
 * Admin - Left side menu
 * Admin - Extension Installer page
 * Admin - Layouts page
+* Front - index.php file
 * Front - Account page
 * Front - Checkout page (1)
 * Front - Header search

@@ -13,12 +13,12 @@ vQmod
 OCmod
 =====
 
-OCmod (aka OpenCart mod) was created by OpenCart's developer as a simplified cut down version of vQmod.
+OCmod (aka OpenCart mod) was created by OpenCart's developer as a simplified cut down version of vQmod. Unlike the original OCmod, the one within Arastta doesn't store XML files into database but in the *system/xml* folder.
 
 How it works
 ============
 
-Modification System allows you to alter source files without actually editing them. The system reads XML files which contains how and which file should be changed. All changes are saved in a temporary file which is substituted for the original during execution. Both vQmod and OCmod temporary files are stored under the ***system/modification*** folder.
+Modification System allows you to alter source files without actually editing them. The system reads XML files which contains how and which file should be changed. All changes are saved in a temporary file which is substituted for the original during execution. Both vQmod and OCmod temporary files are stored under the *system/modification* folder.
 
 Scripting
 =========

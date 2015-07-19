@@ -12,12 +12,17 @@ Delete the install folder
 
 Arastta will automatically delete the install folder after the installation is done, but if it still exists then you're strongly advised to delete it immediately. Arastta will warn you in the admin side about this.
 
+Database prefix
+---------------
+
+The database prefix of Arastta is being generated randomly which makes hard for a hacker to try an SQL Injection attack.
+
 Security settings
 -----------------
 
-Arastta ships with a lot of settings that increases the security of your online store. You can enter a custom URL key while accessing the admin panel and let the system send you an email when someone logs into the admin panel. The firewall included into Arastta protects you against SQLi, XSS, RFI and LFI attacks. The database prefix of Arastta is also being generated randomly which makes hard for a hacker to try an SQL Injection attack.
+Arastta ships with a lot of settings that increases the security of your online store. You can enter an admin URL key and let the system send you an email when someone logs into the admin panel. The firewall included into Arastta protects you against SQLi, XSS, RFI and LFI attacks.
 
-![security settings](_images/security-settings.png)
+[Here](docs/user-manual/system/settings/security) you can find more about how to enable/disable these features.
 
 Directory protection
 --------------------

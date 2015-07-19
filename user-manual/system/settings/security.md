@@ -6,7 +6,7 @@ Security Tab
 
 The security tab under settings displays the following fields: Common, Firewal, Uploads, Google reCAPTCHA:
 
-### Common & Firewal
+### Common & Firewall
 
 ![settings security tab](_images/settings-security-1-tab.png)
 
@@ -14,7 +14,6 @@ The security tab under settings displays the following fields: Common, Firewal, 
 - **Encryption Key:** Enter a combination of numbers and letters to encrypt private information.
 - **Email on Admin Login:** Enter an email address to be notified upon a successful login of anyone in your admin panel. Leave blank to not be sent a notification.
 - **Keyword for Admin Panel:** Enter a keyword to access the admin panel such as 'mypanel' so that the system will require it to be in the link like domain.com/admin?mypanel. Leave blank to disable it.
-
 - **LFI Protection:** (Local File Inclusion) This feature will try to protect against directory traversal techniques (such as route=../../../etc/passwd) that might allow an attacker to read sensitive files.
 - **RFI Protection:** (Remote File Inclusion) This feature will try to protect against access to URLs (such as route=http://www.malicious-site.com/exploit.txt) that might allow an attacker to download and run malicious scripts.
 - **SQLi Protection:** (SQL Injection) This feature will try to protect against common SQL injection attacks (such as SELECT xyx FROM users) that might allow an attacker to get sensitive data from your database.

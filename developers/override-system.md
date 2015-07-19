@@ -12,11 +12,11 @@ Default theme structure
 
 ![override system folders](_images/override-system-folders.png)
 
-1. **image**: As you've likely guessed, all the image files related to the theme go here.
+* **image**: As you've likely guessed, all the image files related to the theme go here.
 
-2. **stylesheet**: Skinning related code, which is likely to be CSS files, will go here.
+* **stylesheet**: Skinning related code, which is likely to be CSS files, will go here.
 
-3. **template**: As the name suggests, you can find all the store front template files here. All the template files are organized in a modular way to keep things neat and clean.
+* **template**: As the name suggests, you can find all the store front template files here. All the template files are organized in a modular way to keep things neat and clean.
 
 Creating a new theme
 --------------------
@@ -32,8 +32,8 @@ Overriding the default theme
 
 Copy the followings in order to override the output:
 
-* catalog/view/theme/default/stylesheet/*.* 
-* catalog/view/theme/default/image/*.*
+* catalog/view/theme/default/stylesheet/ALL_FILES 
+* catalog/view/theme/default/image/ALL_FILES
 * catalog/view/theme/default/template/common/header.tpl
 
 Open the `catalog/view/theme/mycustomtheme/template/common/header.tpl` file, find and replace all references to `default` with `mycustomtheme` in that file.

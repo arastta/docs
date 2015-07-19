@@ -1,13 +1,11 @@
 How to change core files?
 =========================
 
-While strictly modules, product feeds and extensions should be standalone and modular, some require modifications to the Arastta core. Modifying Arastta core files greatly reduces your ability to update your store to later versions, and can affect other modules and extensions.
+While strictly modules, product feeds and extensions should be standalone and modular, some may require modifications to the Arastta core. Modifying Arastta core files greatly reduces your ability to update your store to later versions, and can affect other extensions/themes.
 
-Therefore, Arastta comes with 3 systems:
-1. [Override System](docs/developers/override-system)
-2. [Event System](docs/developers/event-system)
-3. [Modification System](docs/developers/modification-system)
+Therefore, Arastta ships with 3 systems:
+1. [Override System](docs/developers/override-system) for HTML/CSS changes
+2. [Event System](docs/developers/event-system) for PHP changes
+3. [Modification System](docs/developers/modification-system) for PHP changes
 
-You should use:
-* Override System for HTML and/or CSS changes
-* Event System (recommended) and/or Modification System for PHP changes
+We strongly recommend to use the Event System for PHP changes because with Modifications, if two or more extensions/themes want to change the same code, you will run into conflicts very easily.

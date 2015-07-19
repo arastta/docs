@@ -136,6 +136,7 @@
 * Designers
 	* [Customizer](designers/customizer)
 * Developers
+	* [Quick Start](developers/quick-start)
 	* [MVC Structure](developers/mvc-structure)
 	* [Loading Files](developers/loading-files)
 	* [Override System](developers/override-system)

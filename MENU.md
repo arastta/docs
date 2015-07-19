@@ -10,7 +10,6 @@
 		* [Multi-Store](user-manual/admin/multi-store)
 		* [Filter](user-manual/admin/filter)
 		* [Image Manager](user-manual/admin/image-manager)
-		* [SSL](user-manual/admin/ssl)
 		* [Moving Arastta](user-manual/admin/moving-server)
 		* [vQmod](user-manual/admin/vqmod)
 	* Catalog
@@ -129,10 +128,11 @@
 		* [Uploads](user-manual/tools/uploads)
 		* [Error Logs](user-manual/tools/error-logs)
 * How To
-	* [Migrating from OpenCart 2](how-to/how-to-migrate-from-opencart-2)
-	* [Changing language text](how-to/how-to-change-language-text)
-	* [Overriding the output](how-to/how-to-override-the-output)
-	* [Increasing the security](how-to/how-to-increase-the-security)
+	* [Migrate from OpenCart 2](how-to/how-to-migrate-from-opencart-2)
+	* [Change language text](how-to/how-to-change-language-text)
+	* [Override the output](how-to/how-to-override-the-output)
+	* [Increase the security](how-to/how-to-increase-the-security)
+	* [Activate SSL](how-to/how-to-activate-ssl)
 * FAQ
 	* [Customers vs Users](faq/customers-vs-users)
 	* ["Permission Denied" error](faq/permission-denied-error)

@@ -1,28 +1,19 @@
 Modification System
 ===================
 
-While strictly modules, product feeds and extensions should be standalone and modular, some require modifications to the Arastta core. Modifying Arastta core files greatly reduces your ability to update your store to later versions, and can affect other modules and extensions.
+Arastta ships with an advanced Modification System, able to read/parse both vQmod and OCmod XML files in the core. Extensions written for both can be uploaded from the Extension Installer page and maintained via the Modifications page (from Marketplace).
 
-Therefore, Arastta comes with 2 systems: [Event System](docs/developers/event-system) and Modification System. We strongly recommend developers to use the Event System as much as possible.
+![modifications](_images/modifications.png)
 
 vQmod
 =====
 
-[vQmod](https://github.com/vqmod/vqmod) (aka virtual Quick mod) is a 3rd party system developed by Qphoria and JAY6390.
+[vQmod](https://github.com/vqmod/vqmod) (aka virtual Quick mod) is a 3rd party system developed by Qphoria and JAY6390. While Arastta can read vQmod files, you can also install vQmod engine separately and in such a case, temporary files created by vQmod will be saved by its own mechanism.
 
 OCmod
 =====
 
 OCmod (aka OpenCart mod) was created by OpenCart's developer as a simplified cut down version of vQmod.
-
-Arastta Modification System
-===========================
-
-Arastta ships with an advanced Modification System, able to read/parse both vQmod and OCmod XML files in the core. Extensions written for both can be uploaded from the Extension Installer page and maintained via the Modifications page (from Marketplace).
-
-![modifications](_images/modifications.png)
-
-You can also install vQmod engine separately and in such a case, temporary files created by vQmod will be saved by its own mechanism.
 
 How it works
 ============

@@ -124,6 +124,7 @@
 * How To
 	* [Migrate from OpenCart 2](how-to/how-to-migrate-from-opencart-2)
 	* [Change language text](how-to/how-to-change-language-text)
+	* [Change core files](how-to/how-to-change-core-files)
 	* [Override the output](how-to/how-to-override-the-output)
 	* [Increase the security](how-to/how-to-increase-the-security)
 	* [Activate SSL](how-to/how-to-activate-ssl)
@@ -137,6 +138,7 @@
 * Developers
 	* [MVC Structure](developers/mvc-structure)
 	* [Loading Files](developers/loading-files)
+	* [Override System](developers/override-system)
 	* [Event System](developers/event-system)
 	* [Modification System](developers/modification-system)
 	* [Modules](developers/modules)

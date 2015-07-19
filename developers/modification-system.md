@@ -27,9 +27,9 @@ You can also install vQmod engine separately and in such a case, temporary files
 How it works
 ============
 
-Modification System allows you to alter source files without actually editing them. The system reads XML files which contains how and which file should be changed. All changes are saved in a temporary file which is substituted for the original during execution. Both vQmod and OCmod temporary files are stored under the system/modification folder.
+Modification System allows you to alter source files without actually editing them. The system reads XML files which contains how and which file should be changed. All changes are saved in a temporary file which is substituted for the original during execution. Both vQmod and OCmod temporary files are stored under the ***system/modification*** folder.
 
 Scripting
 =========
 
-Here you can find how the [vQmod](https://github.com/vqmod/vqmod/wiki/Scripting) and (OCmod)[https://github.com/opencart/opencart/wiki/Modification-System] XML scripting language works.
+Here you can find how the [vQmod](https://github.com/vqmod/vqmod/wiki/Scripting) and [OCmod](https://github.com/opencart/opencart/wiki/Modification-System) XML scripting language works.

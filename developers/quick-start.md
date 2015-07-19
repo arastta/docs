@@ -110,7 +110,9 @@ Understanding the database object
 
 Queries are run using
 
-`$result = $this->db->query("SELECT * FROM `" . DB_PREFIX . "table`");`
+```
+$result = $this->db->query("SELECT * FROM " . DB_PREFIX . "table");
+```
 
 `DB_PREFIX` as the name suggests is a constant containing the database prefix if one exists
 

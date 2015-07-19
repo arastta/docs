@@ -1,5 +1,5 @@
-How to increase the security
-============================
+How to increase the security?
+=============================
 
 Customer information, business data and payment details are all highly sensitive, confidential commodities that are traded or shared as part of an e-commerce transaction. The press often reports on businesses that have fallen victim to hacking and data breaches, due to insufficient security measures, leading to legal and financial liability, as well as a negative impact on the company's reputation.
 
@@ -20,9 +20,7 @@ The database prefix of Arastta is being generated randomly which makes hard for 
 Security settings
 -----------------
 
-Arastta ships with a lot of settings that increases the security of your online store. You can enter an admin URL key and let the system send you an email when someone logs into the admin panel. The firewall included into Arastta protects you against SQLi, XSS, RFI and LFI attacks.
-
-[Here](docs/user-manual/system/settings/security) you can find more about how to enable/disable these features.
+Arastta ships with [a lot of settings](docs/user-manual/system/settings/security) that increases the security of your online store. You can enter an admin URL key and let the system send you an email when someone logs into the admin panel. The firewall included into Arastta protects you against SQLi, XSS, RFI and LFI attacks.
 
 Directory protection
 --------------------
@@ -56,7 +54,7 @@ This will deny access to all template, php, and txt files.
 File permissions
 ----------------
 
-Thanks to the Filesystem component of Symfony used by Arastta, your store is safe against the 777 file/folder permission attacks. also, the following files can be set to 444 to prevent anyone else from writing to them:
+Thanks to the Filesystem component of Symfony used by Arastta, your store is safe against the 777 file/folder permission attacks. Also, the following files can be set to 444 to prevent anyone else from writing to them:
 
 - config.php
 - index.php

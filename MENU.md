@@ -5,13 +5,7 @@
 * [Getting Started](getting-started)
 * User Manual
 	* [Store Front](user-manual/store-front)
-	* Admin Panel
-		* [Overview](user-manual/admin/overview)
-		* [Multi-Store](user-manual/admin/multi-store)
-		* [Filter](user-manual/admin/filter)
-		* [Image Manager](user-manual/admin/image-manager)
-		* [Moving Arastta](user-manual/admin/moving-server)
-		* [vQmod](user-manual/admin/vqmod)
+	* [Admin Panel](user-manual/admin-panel)
 	* Catalog
 		* Categories
 			* [Overview](user-manual/catalog/categories/overview)

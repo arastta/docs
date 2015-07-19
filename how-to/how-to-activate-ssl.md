@@ -5,4 +5,4 @@ With sensitive customer and payment information being handled by your store, it 
 
 Once the SSL certificate has been installed, go to the [Security](docs/user-manual/system/settings/security) tab under your store's settings in your admin panel and find the **Use SSL** option. It allows you to enable SSL in your Account & Checkout pages, catalog wide and all of the store.
 
-![settings ssl tab](_images/sssl-settings.png)
+![ssl settings](_images/ssl-settings.png)

@@ -1,5 +1,5 @@
-Quick start for beginners
-=========================
+Developer quick start for beginners
+===================================
 
 This guide is written for developers already familiar with PHP, OOP and the MVC architecture
 
@@ -29,17 +29,23 @@ Languages are stored in `/catalog/language/` folder in the your language subfold
 
 To load the language in a controller, you use
 
-`$this->language->load('product/search');`
+```
+$this->language->load('product/search');
+```
 
 Then you can use the language library function get to retrieve specific language texts, such as
 
-`$some_variable = $this->language->get('heading_title');`
+```
+$some_variable = $this->language->get('heading_title');
+```
 
 The language variables are assigned in the language file using a special variable `$_` which is an array of keys and text values. In your `/catalog/language/en-GB/product/search.php` you should find something similar to
 
-`$_['heading_title']     = 'Search';`
+```
+$_['heading_title']     = 'Search';
+```
 
-The values in the global language file `en-GB/default.php` are automatically loaded and available to use without the $this->language->load method
+The values in the global language file `en-GB/default.php` are automatically loaded and available to use without the `$this->language->load` method.
 
 Understanding controllers
 -------------------------
@@ -55,11 +61,15 @@ Understanding Models
 
 Model's in Arastta are found in the `/catalog/model/` folder and are grouped based on function not the route, and therefore you will need to load them in your controller via
 
-`$this->load->model('xxx/yyy');`
+```
+$this->load->model('xxx/yyy');
+```
 
 This will load the file in the subfolder `xxx` called `yyy.php`. It is then available to use via the object
 
-`$this->model_xxx_yyy`
+```
+$this->model_xxx_yyy
+```
 
 and as with controllers you can only call it's public methods. For instance, to resize an image, you would use the tool/image model and call it's resize method as follows
 
@@ -73,7 +83,9 @@ Understanding variable assignment in views from the controller
 
 In order to pass values to the view from the controller, you simply need to assign your data to the $this->data variable, which is essentially an array of key => value pairs. As an example
 
-`$data['example_var'] = 123;`
+```
+$data['example_var'] = 123;
+```
 
 Accessing this in a view is a little should be easy to understand if you're familiar with the extract() method which converts each key into a variable. So the `example_var` key becomes `$example_var` and can be accessed as such in the view
 
@@ -139,4 +151,5 @@ All of the others can be accessed using `$this->request` and have been "cleaned"
 
 `$_SERVER` becomes `$this->request->server`
 
+<br/><br/>
 **Credits**: Jay Gilford

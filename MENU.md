@@ -138,6 +138,7 @@
 	* [MVC Structure](developers/mvc-structure)
 	* [Loading Files](developers/loading-files)
 	* [Event System](developers/event-system)
+	* [Modification System](developers/modification-system)
 	* [Modules](developers/modules)
 	* [Product Feeds](developers/product-feeds)
 	* [OpenCart Compatibility](developers/opencart-compatibility)

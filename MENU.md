@@ -127,6 +127,7 @@
 	* [Override the output](how-to/how-to-override-the-output)
 	* [Increase the security](how-to/how-to-increase-the-security)
 	* [Activate SSL](how-to/how-to-activate-ssl)
+	* [Move to a new server](how-to/how-to-move-to-a-new-server)
 * FAQ
 	* [Customers vs Users](faq/customers-vs-users)
 	* ["Permission Denied" error](faq/permission-denied-error)

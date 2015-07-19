@@ -1,9 +1,6 @@
 Installation
 ============
 
-Installing Arastta
-------------------
-
 This guide will walk you through how to successfully install and uninstall Arastta.
 
 <iframe width="740" height="493" src="https://www.youtube.com/embed/T9xXVGJsmrk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -64,15 +61,10 @@ After Filezilla finishes uploading the files to the location specified, you shou
 
 The Filezilla window should look similar to the above image (minus some directory details). This means that the Arastta files were successfully transferred the target site. The site now contains the files necessary to setup an Arastta shop.
 
-Creating a database for the shop
---------------------------------
+Launch the Installer
+--------------------
 
-The next step is to create a database on the MySQL server for Arastta to store a shop's data on. You should log into the site’s control panel and locate MySQL Databases. Using MySQL Databases, you can create a new database by entering a database name and a username/password to access this database. The user that was just created needs to be added to the database, along with enabling all of the necessary permissions. We will use this database information later when we are configuring Arastta using the auto-installer.
-
-Launch the auto-installer
--------------------------
-
-With a new database freshly created, we are now ready to install Arastta directly onto a website. You should open up a web browser and enter in the web address of where they uploaded Arastta.
+We are now ready to install Arastta directly onto a website. You should open up a web browser and enter in the web address of where they uploaded Arastta.
 
 This page is the installation page. The following steps will help you complete the installation process for Arastta.
 
@@ -80,7 +72,7 @@ This page is the installation page. The following steps will help you complete t
 
 ![arastta step1](_images/installation-step-1.png)
 
-You need to fill in the spaces by adding the database connection details (Hostname, Username/Password, Database Name and Table Prefix) established when you created the store's database using MySQL Databases.
+You need to fill in the spaces by adding the database connection details (Hostname, Username/Password, Database Name and Table Prefix). You can use any already created database or let Arastta create it for you during the installation.
 
 ### Step 2. Settings
 
@@ -88,21 +80,11 @@ You need to fill in the spaces by adding the database connection details (Hostna
 
 This step allows you to add the Store Name & E-mail also to create a new Admin E-mail, Username and Password for administration access to the Arastta shop.
 
-Completing the installation
----------------------------
-
 ### Step 3. Finished
 
-Now that installation is complete, the "install" folder is no longer required and it will be removed automatically by the system. You now have the option to browse the frontend of your shop or choose to log into the administration side.
+Now that installation is complete, the "install" folder is no longer required and it will be removed automatically by the system. You now have the option to browse the store front or choose to log into the admin panel.
 
 ![arastta step3](_images/installation-step-3.png)
-
-After the install, you should make the necessary steps towards improving the security of your server and Arastta store directory. These steps are detailed in [Basic security practices](docs/user-manual/admin/security).
-
-Installing vQmod
-----------------
-
-vQmod for Arastta lets you add modules to your store without modifying the core Arastta code. It is added inside the package so you don't have to install it manually. See [vQmod](docs/user-manual/admin/vqmod) for more information for your store.
 
 Updating Arastta
 ----------------
@@ -114,7 +96,7 @@ Uninstalling Arastta
 
 Uninstalling Arastta is a quick and simple process.
 
-1. Delete the files/folders in the location you uploaded them to in Filezilla. 
+1. Delete the files/folders in the location you uploaded them to in Filezilla.
 2. Delete the Arastta database from MySQL Databases or phpMyAdmin.
 
 > Once Arastta is uninstalled, all product and customer information will be lost. You can save a backup database file in case you want to reinstall Arastta at a later time. See [Backup/Restore](docs/user-manual/tools/backup-restore) for more information.
@@ -122,4 +104,4 @@ Uninstalling Arastta is a quick and simple process.
 Support
 -------
 
-If there are any issues regarding your store's installation or update, please visit the [Installation, Upgrade, & Config Support](forum/categories/listings/installation-upgrade) section of the Arastta community forum.
+If there are any issues regarding your store's installation or update, please visit the [Installation, Upgrade, & Config Support](forum/categories/listings/installation-upgrade) section of the Arastta community forum.

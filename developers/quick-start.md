@@ -1,9 +1,9 @@
 Developer quick start for beginners
 ===================================
 
-This guide is written for developers already familiar with PHP, OOP and the MVC architecture
+This guide is written for developers already familiar with PHP, OOP and the [MVC architecture](docs/developers/mvc-structure).
 
-In the following, you'll see examples for the catalog side of the cart. The admin side is identical in function with the exception of the views which is noted in the relevant section
+In the following, you'll see examples for the catalog side of the cart. The admin side is identical in function with the exception of the views which is noted in the relevant section.
 
 Understanding Libraries
 -----------------------

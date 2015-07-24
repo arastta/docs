@@ -15,7 +15,7 @@ Commonly used items
 * `user.php` - Admin user related functions
 * `cart.php` - Cart related functions
 * `config.php` - All settings are loaded from this
-* `router.php` - URL generation functions
+* `url.php` - URL generation functions
 
 Understanding the route parameter
 ---------------------------------

@@ -144,4 +144,5 @@
 	* [Modification System](developers/modification-system)
 	* [Modules](developers/modules)
 	* [Product Feeds](developers/product-feeds)
+	* [Admin Menu](developers/admin-menu)
 	* [OpenCart Compatibility](developers/opencart-compatibility)

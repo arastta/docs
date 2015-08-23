@@ -27,3 +27,7 @@ class EventAppDemo extends Event {
 	}
 }
 ```
+
+Live
+----
+Here you can see a [live extension](http://extensions.arastta.pro/tools/opencart-2-migration) with this feature applied.

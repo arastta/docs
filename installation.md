@@ -68,23 +68,29 @@ We are now ready to install Arastta directly onto a website. You should open up 
 
 This page is the installation page. The following steps will help you complete the installation process for Arastta.
 
-### Step 1. Database
+### Step 1. Language
 
 ![arastta step1](_images/installation-step-1.png)
 
-You need to fill in the spaces by adding the database connection details (Hostname, Username/Password, Database Name and Table Prefix). You can use any already created database or let Arastta create it for you during the installation.
+The first step is choosing which language you want to use. This is a good way for all who want to use a different language as default.
 
-### Step 2. Settings
+### Step 2. Database
 
 ![arastta step2](_images/installation-step-2.png)
 
-This step allows you to add the Store Name & E-mail also to create a new Admin E-mail, Username and Password for administration access to the Arastta shop.
+You need to fill in the spaces by adding the database connection details (Hostname, Username/Password, Database Name and Table Prefix). Also the Advanced part (Driver) allows you to choose the database type. You can use any already created database or let Arastta create it for you during the installation.
 
-### Step 3. Finished
+### Step 3. Settings
+
+![arastta step3](_images/installation-step-3.png)
+
+This step allows you to add the Store Name & E-mail also to create a new Admin E-mail, Username and Password for administration access to the Arastta shop. And the Advanced part allows you to set the Admin First & Last name, also you can install or not the demo data.
+
+### Step 4. Finished
 
 Now that installation is complete, the "install" folder is no longer required and it will be removed automatically by the system. You now have the option to browse the store front or choose to log into the admin panel.
 
-![arastta step3](_images/installation-step-3.png)
+![arastta step4](_images/installation-step-4.png)
 
 Updating Arastta
 ----------------

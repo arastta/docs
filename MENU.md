@@ -82,8 +82,8 @@
 		* [Payments](user-manual/marketplace/payments)
 		* [Shipping](user-manual/marketplace/shipping)
 		* [Order Totals](user-manual/marketplace/order-totals)
-		* [Feeds](user-manual/marketplace/feeds)
 		* [Facebook Store](user-manual/marketplace/facebook-store)
+		* [Feeds](user-manual/marketplace/feeds)
 	* Localisation
 		* [Languages](user-manual/localisation/languages)
 		* [Currencies](user-manual/localisation/currencies)

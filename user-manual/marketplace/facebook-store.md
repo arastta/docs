@@ -14,7 +14,7 @@ When adding new products, changing prices, images or even product titles; everyt
 
 ### Before you begin
 
-To create a Facebook Store with Shopify you'll need to make sure that:
+To create a Facebook Store with Arastta you'll need to make sure that:
 * You have a business page created in Facebook.
 * Your personal Facebook account has Editor or Admin access to your business' Facebook page.
 * You have created a Facebook App.
@@ -27,7 +27,7 @@ To create a Facebook Store with Shopify you'll need to make sure that:
 3. Choose a subcategory and enter the required information.
 4. Click **Get Started** to accept the [Facebook Pages Terms](https://www.facebook.com/page_guidelines.php) and continue.
 5. (Optional) Complete the page set up by offering more information to Facebook:
-![facebook-page](facebook-setup-1.jpg)
+![facebook-stup-1](_images/facebook-setup-1.jpg)
 
 **To create a Facebook App:**
 

@@ -27,7 +27,11 @@ To create a Facebook Store with Arastta you'll need to make sure that:
 3. Choose a subcategory and enter the required information.
 4. Click **Get Started** to accept the [Facebook Pages Terms](https://www.facebook.com/page_guidelines.php) and continue.
 5. (Optional) Complete the page set up by offering more information to Facebook:
+<<<<<<< HEAD
 ![facebook-page](_images/facebook-setup-1.jpg)
+=======
+![facebook-setup-1](_images/facebook-setup-1.jpg)
+>>>>>>> origin/master
 
 **To create a Facebook App:**
 

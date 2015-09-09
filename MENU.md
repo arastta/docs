@@ -122,6 +122,7 @@
 		* [File Manager](user-manual/tools/file-manager)
 		* [Uploads](user-manual/tools/uploads)
 		* [Error Logs](user-manual/tools/error-logs)
+		* [System Information](user-manual/tools/system-information)
 * How To
 	* [Migrate from OpenCart 2](how-to/how-to-migrate-from-opencart-2)
 	* [Change language text](how-to/how-to-change-language-text)

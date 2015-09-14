@@ -1,6 +1,9 @@
 Campaigns
 =========
 
+Marketing Tracking
+--------------
+
 Arastta has a build-in module for creating tracking links for your marketing campaigns. Tracking links are links to your store which include a special tracking code. Any visit via your tracking links will be recorded in the Arastta admin dashboard so you can monitor your marketing campaigns traffic and conversion rate.
  
 To create your first marketing tracking link, please login your Arastta admin dashboard and refer to the Marketing section via the main navigation menu.
@@ -19,10 +22,10 @@ From the Marketing Tracking List page click on the Add icon to proceed with the 
 
 Last, you can copy the example of your tracking links. For example, if you would like to point a link to your Arastta home page and track the referrals and orders via it, you may use:
 
-> http://mydomain.com/?tracking=ID
+> `http://mydomain.com/?tracking=ID`
 
 or point to a specific page or product using the full URL to it and add the tracking tag and ID like this:
 
-> http://mydomain.com/index.php?route=common/home&tracking=ID
+> `http://mydomain.com/index.php?route=common/home&tracking=ID`
 
 Make sure you replace 'mydomain.com' with your actual domain name and the 'ID' with your campaign tracking code unique tracking code ID.

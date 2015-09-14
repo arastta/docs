@@ -23,7 +23,7 @@ The option tab under settings displays the following fields: Common, Products, V
 ![product count](_images/settings-option-tab-category-menu.png)
 
 - **Default Items Per Page (Catalog):** The number of Catalog items that can be displayed in the store front. For example, a '5' will set a default view of 5 products to be displayed at a time per Product Category page or Manufacturer page. The customer can customize how many products can be viewed at a time in "Show" above the product list or grid. In the store front, this number of items per page will alter how many products are viewed in the Product Category page, the Manufacturer Page, and the Search page.
-- **List Description Limit (Catalog):**
+- **List Description Limit (Catalog):** In the list view, short description character limit (categories, special etc).
 - **Default Items Per Page (Admin):** The number of Admin items that can be displayed in the administration. For example, a '10' will limit the number of customers listed under Customers > Customers to 10 displayed per page. This setting will affect the number items per page under:
   Catalog > Products, Recurring Profiles, Attributes, Options, Manufacturers, Downloads, Reviews, Information;
   Sales > Orders, Returns;
@@ -31,6 +31,14 @@ The option tab under settings displays the following fields: Common, Products, V
   Appearance > Customizer, Layouts, Menus, Banners;
   Reports > Sales, Products, Customers, Marketing.
   The only way to change how many items viewed per page is under this tab.
+
+### Reviews
+
+![option reviews](_images/settings-option-tab-reviews.png)
+
+- **Allow Reviews:** Enable/Disable new review entry and display of existing reviews.
+- **Allow Guest Reviews:** Allow or do not allow guests to post reviews.
+- **New Review Alert Mail:** Send an email to the store owner when a new review is created.
 
 ### Vouchers
 

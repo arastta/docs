@@ -44,7 +44,7 @@
 		* [Fields](user-manual/customers/fields)
 		* [Banned IPs](user-manual/customers/banned-ips)
 	* Marketing
-		* [Campaings](user-manual/marketing/campaings)
+		* [Campaigns](user-manual/marketing/campaigns)
 		* [Affiliates](user-manual/marketing/affiliates)
 		* [Coupons](user-manual/marketing/coupons)
 		* [Gift Vouchers](user-manual/marketing/gift-vouchers)
@@ -65,7 +65,7 @@
 			* [Reward Points](user-manual/reports/customers/rewards)
 			* [Credit](user-manual/reports/customers/credit)
 		* Marketing
-			* [Campaings](user-manual/reports/marketing/campaings)
+			* [Campaigns](user-manual/reports/marketing/campaigns)
 			* [Affiliates](user-manual/reports/marketing/affiliates)
 	* Appearance
 		* [Customizer](user-manual/appearance/customizer)

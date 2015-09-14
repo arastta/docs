@@ -53,7 +53,6 @@
 		* Sales
 			* [Orders](user-manual/reports/sales/orders)
 			* [Tax](user-manual/reports/sales/tax)
-			* [Orders](user-manual/reports/sales/orders)
 			* [Shipping](user-manual/reports/sales/shipping)
 			* [Returns](user-manual/reports/sales/returns)
 			* [Coupons](user-manual/reports/sales/coupons)

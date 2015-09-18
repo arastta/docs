@@ -27,7 +27,7 @@ How to use filters?
 3.  **Assign Filters to Products**. Go to "**Arastta => Catalog => Products**" and click on **Edit** on your product line. Then go to **Links** tab and write your filter name on "Filters:" textbox (don't use group name but filter name). Filters will appear on screen with autocomplete, please select your filter from the list then save (you can add many filters for each product with rewriting values).
 ![filters 3](_images/filters-3.png)
 
-4.  **Install the module**. Go to "**Arastta => Appearance => Layouts => Modules**" and activate the Filters module by clicking on the Install link.
+4.  **Enable the module**. Go to "**Arastta => Appearance => Layouts**" and the Edit button will appear when you come over the Filters module. Click on Edit button and set the status as enabled.
 ![filters 4](_images/filters-4.png)
 
 5.  **Assign Filters module to Layouts**. Go to "**Arastta => Appearance => Layouts**". Select "Category" or "Product" as layout page and set whatever position and sort order you would like.

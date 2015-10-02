@@ -10,4 +10,4 @@ The Orders Report can be accessed through Reports>Sales>Oders. Order information
 - **Tax**: The amount of taxes paid by customers between the date start and end.
 - **Total**: The total amount of money made from transcations between the date start and end.
 
-The Filter option can display the order information within a certain space of time using Date Start or End, or by order status.
+The Filter option can display the order information within a certain space of time using Date Start or End, or by Order Status.

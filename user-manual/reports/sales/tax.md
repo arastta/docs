@@ -11,4 +11,4 @@ The Tax Report displays the following information:
 - **No. of Orders**: The number of orders made through the store between the date start and end.
 - **Total**: The total amount of money paid for taxes by customers between the date start and end.
 
-The Filter option can display the order information within a certain space of time using Date Start or End, or by order status.
+The Filter option can display the tax information within a certain space of time using Date Start or End, or by Order Status.

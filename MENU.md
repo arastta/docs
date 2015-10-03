@@ -67,6 +67,7 @@
 		* Marketing
 			* [Campaigns](user-manual/reports/marketing/campaigns)
 			* [Affiliates](user-manual/reports/marketing/affiliates)
+			* [Affiliate Activity](user-manual/reports/marketing/affiliate-activity)
 	* Appearance
 		* [Customizer](user-manual/appearance/customizer)
 		* [Layouts](user-manual/appearance/layouts)

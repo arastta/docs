@@ -1,7 +1,7 @@
 Customer Credit Report
 ======================
 
-The Order Report section can be accessed under Reports > Customers > Credit.
+The Order Report section can be accessed under **Reports > Customers > Credit**.
 
 The following information will be displayed about customer store credit:
 

@@ -1,7 +1,7 @@
 Customer Reward Points Report
 =============================
 
-The Order Report section can be accessed under Reports > Customers > Reward Points.
+The Order Report section can be accessed under **Reports > Customers > Reward Points**.
 
 The following information will be displayed about customer reward point usage:
 

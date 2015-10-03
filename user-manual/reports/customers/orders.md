@@ -1,7 +1,7 @@
 Customer Order Reports
 ======================
 
-The Order Report section can be accessed under Reports>Customers>Orders.
+The Order Report section can be accessed under **Reports > Customers > Orders**.
 
 The following information will be displayed about customer orders:
 

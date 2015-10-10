@@ -4,7 +4,7 @@ Overview
 Managing customers
 ------------------
 
-Shop owners should know who their customers are and how to manage their information. In the administration, customer information will need to be stored efficiently to remember any credits made with their account. To access customer information, you can log into the administration panel of the Arastta store. The Customer management sections are located under Sales > Customers. There are three sections used to manage customer information: Customers, Customer Groups, Custom Fields and Banned IP.
+Shop owners should know who their customers are and how to manage their information. In the administration, customer information will need to be stored efficiently to remember any credits made with their account. To access customer information, you can log into the administration panel of the Arastta store. The Customer management sections are located under **Sales > Customers**. There are three sections used to manage customer information: Customers, Customer Groups, Custom Fields and Banned IP.
 
 ![customers backend](_images/customers.png)
 
@@ -23,13 +23,13 @@ When a customer creates an account or completes the checkout process, Arastta wi
 
 ### Searching for a customer
 
-In the case of locating a specific customer, type in the necessary customer information in the spaces below. Clicking "Filter" will locate specific customers matching the information typed in. This saves you the time of sorting through pages of customers to find a specific person. See Filter for more information on the [filter ](docs/user-manual/catalog/filters)tool.
+In the case of locating a specific customer, type in the necessary customer information in the spaces below. Clicking "**Filter**" will locate specific customers matching the information typed in. This saves you the time of sorting through pages of customers to find a specific person.
 
 ![customer filter](_images/customers-1.png)
 
 ### Manually adding a new customer
 
-Customer accounts usually don't need to be created in the administration panel, since account information is stored automatically upon user creation in the store front. You might find yourself needing to manually input customer information into Customers. Clicking the "Insert" button on the Customer page will lead you to a form where customer information can be filled in.
+Customer accounts usually don't need to be created in the administration panel, since account information is stored automatically upon user creation in the store front. You might find yourself needing to manually input customer information into Customers. Clicking the "**Insert**" button on the Customer page will lead you to a form where customer information can be filled in.
 
 ### General tab
 
@@ -72,4 +72,4 @@ An [IP Address](http://en.wikipedia.org/wiki/IP_address) will reveal the locatio
 Approving new customers
 -----------------------
 
-Customer accounts need to be approved before they can access their account in the store. In the [Dashboard](docs/user-manual/admin/overview/) page, the amount of customers needing approval is tabulated in the Overview section. Go to Sales > Customers > Customers, and find any customers that list "No" under the Approved column. Check those customers, and click the "Approve" button in the right corner.
+Customer accounts need to be approved before they can access their account in the store. In the [Dashboard](docs/user-manual/admin/overview/) page, the amount of customers needing approval is tabulated in the Overview section. Go to **Sales > Customers > Customers**, and find any customers that list "No" under the Approved column. Check those customers, and click the "Approve" button in the right corner.

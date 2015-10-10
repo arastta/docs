@@ -9,7 +9,7 @@ When a customer goes through checkout, the information on their order is automat
 Viewing order details
 ---------------------
 
-The Orders section is located under Sales > Orders. On this page, every order ever made from the store is listed in detail.
+The Orders section is located under **Sales > Orders**. On this page, every order ever made from the store is listed in detail.
 
 The following details are displayed for each order on the list:
 
@@ -74,4 +74,13 @@ The sections seen above (such as Coupon, Voucher, Rewards) are extensions that w
 Printing invoices
 -----------------
 
-To print an invoice, go back to the Orders page under Sales > Orders. Above the order list on the top right corner is the "Print Invoice" button. Select the order to be printed, and click "Print Invoice". This action will direct you to a printable page of the invoice. The invoice can be printed out and included in with the shipping.
+To print an invoice, go back to the Orders page under **Sales > Orders**. Above the order list on the top right corner is the "Print Invoice" button. Select the order to be printed, and click "Print Invoice". This action will direct you to a printable page of the invoice. The invoice can be printed out and included in with the shipping.
+
+PDF Invoices
+-----------------
+
+As an online store owner you should be aware of the importance and necessity of an efficient invoicing system and management in your eCommerce solution. So we have implemented PDF Invoice feature and from now on you and your customers can manage and download the invoices as PDF files.
+
+Go to the Orders page under **Sales > Orders**. Above the order list on the top right corner is the "PDF Invoice" button. Select the order to be printed, and click "PDF Invoice". This action will download a PDF file including details of the selected order.
+
+![pdf invoice](_images/pdf-invoice.png)

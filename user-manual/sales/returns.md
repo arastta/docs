@@ -1,10 +1,28 @@
 Returns
 =======
 
+Viewing Product Returns details
+---------------------
+
+The Returns section is located under **Sales > Returns**. On this page, every return ever made from the store is listed in detail.
+
+The following details are displayed for each return on the list:
+
+- **Return ID**: a number assigned to a return by Arastta during the return confirmation.
+- **Order ID**: a number assigned to an order by Arastta during the checkout confirmation.
+- **Customer**: the name of the customer that made the order.
+- **Product**: the name of the product for the return.
+- **Model**: the model of the product.
+- **Status**: update of the status of the return. After the return is initially created the status will be "Pending". The default options are Awaiting Products, Complete, and Pending.
+- **Date Added**
+- **Date Modified**
+
+![product returns](_images/returns.png)
+
 Adding a new return
 -------------------
 
-The Return section under Sales > Returns lets you manage merchandise returns. You must manually enter the product and return information to create a new return. To insert a new return, click the "Insert" button in the right corner above the returns list.
+The Return section under **Sales > Returns** lets you manage merchandise returns. You must manually enter the product and return information to create a new return. To insert a new return, click the "Insert" button in the right corner above the returns list.
 
 ### Return details
 

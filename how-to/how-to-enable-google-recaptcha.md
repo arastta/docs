@@ -5,7 +5,7 @@ Arastta is fully compatible with Google’s  reCAPTCHA and we encourage you to e
 
 To enable and configure reCAPTCHA for your store, follow the steps provided below:
 
-**STEP 1**: **Generate the Public and Private keys**
+###STEP 1: Generate the Public and Private keys
 
 In order to activate reCAPTCHA you will need to generate two keys. They are randomly generated strings called **Public** and **Private key**.  You can generate them on the official [reCAPTCHA](http://www.google.com/recaptcha) website.
 
@@ -27,7 +27,7 @@ This will direct you to a registration form that you must fill to continue:
 
 Once you have entered the correct information hit the **Register** button. Now you will be presented with the newly created keys.
 
-**STEP 2**: **Enable reCAPTCHA**
+###STEP 2: Enable reCAPTCHA
 
 Login to the admin dashboard of your Arastta website and navigate to the **System>Settings** section of the main admin panel.
 

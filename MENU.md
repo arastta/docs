@@ -130,6 +130,7 @@
 	* [Change core files](how-to/how-to-change-core-files)
 	* [Override the output](how-to/how-to-override-the-output)
 	* [Increase the security](how-to/how-to-increase-the-security)
+	* [Enable Google Analytics](how-to/how-to-enable-google-analytics)
 	* [Enable Google reCAPTCHA](how-to/how-to-enable-google-recaptcha)
 	* [Activate SSL](how-to/how-to-activate-ssl)
 	* [Move to a new server](how-to/how-to-move-to-a-new-server)

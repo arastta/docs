@@ -132,6 +132,7 @@
 	* [Increase the security](how-to/how-to-increase-the-security)
 	* [Enable Google Analytics](how-to/how-to-enable-google-analytics)
 	* [Enable Google reCAPTCHA](how-to/how-to-enable-google-recaptcha)
+	* [Enable Live Chat](how-to/how-to-enable-live-chat)
 	* [Activate SSL](how-to/how-to-activate-ssl)
 	* [Move to a new server](how-to/how-to-move-to-a-new-server)
 	* [Build a Multi-Store](how-to/how-to-build-a-multi-store)

@@ -4,6 +4,8 @@ Security
 Security Tab
 ------------
 
+Security should be a top priority for every website especially if there is sensitive information involved. As most online stores work with payment and shipping details and even credit card information it is very important to have the maximum security possible. Here Arassta excels compared to its predecessor OpenCart by implementing new security features and firewall methods that can stop most malicious attempts towards your store.
+
 The security tab under settings displays the following fields: Common, Firewal, Uploads, Google reCAPTCHA:
 
 ### Common & Firewall

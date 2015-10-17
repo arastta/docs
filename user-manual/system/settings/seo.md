@@ -4,6 +4,8 @@ SEO
 SEO Tab
 -------
 
+One of the most basic search engine optimization techniques is the SEO-friendly URLs. These shorter and simpler URLs will help your website’s indexation as well as your clients when navigating through your website. In Arastta, SEO-friendly URLs are enabled by default but you might need to change some of the settings associated with them. This tutorial will explain the possible options and how they affect your website.
+
 The SEO tab under Settings displays the following fields:
 
 ### SEO URLs

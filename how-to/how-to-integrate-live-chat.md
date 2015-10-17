@@ -1,4 +1,4 @@
-How to integrate Zopim Live Chat with Arastta??
+How to integrate Zopim Live Chat with Arastta?
 =================
 
 If you implement live chat to your Arastta store your customers will be able to contact you via it. This is very important as it enables you to provide them with support and help them choose products from your store. Zopim Live Chat has a free Lite version that we offer as an addon product and it can provide you with all features needed for a great customer support.

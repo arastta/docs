@@ -1,5 +1,8 @@
-How to enable Google Analytics?
+Integrate Google Analytics Tracking
 ===============================
+
+How to obtain and configure Google Analytics tracking code with Arastta?
+-------------------------------------------------
 
 Google analytics helps you track the activity on your website. You can get a better idea of the traffic and conversion rate of your website. To start tracking your website’s traffic in-depth you will need a tracking ID. You can obtain this tracking ID by registering on the official [website](http://www.google.com/analytics/).
 

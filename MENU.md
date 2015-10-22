@@ -133,6 +133,7 @@
 	* [Integrate Live Chat](how-to/how-to-integrate-live-chat)
 	* [Integrate Google Analytics](how-to/how-to-integrate-google-analytics)
 	* [Enable Google reCAPTCHA](how-to/how-to-enable-google-recaptcha)
+	* [Activate Debug Mode](how-to/how-to-activate-debug-mode)
 	* [Activate SSL](how-to/how-to-activate-ssl)
 	* [Move to a new server](how-to/how-to-move-to-a-new-server)
 	* [Build a Multi-Store](how-to/how-to-build-a-multi-store)

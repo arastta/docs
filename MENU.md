@@ -139,6 +139,7 @@
 	* [Move to a new server](how-to/how-to-move-to-a-new-server)
 	* [Build a Multi-Store](how-to/how-to-build-a-multi-store)
 * FAQ
+	* [Installation on your Computer](faq/installing-arastta-on-computer)
 	* [Migration to a New Server](faq/migration-to-new-a-server)
 	* [Customers vs Users](faq/customers-vs-users)
 	* ["Permission Denied" error](faq/permission-denied-error)

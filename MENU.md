@@ -134,6 +134,7 @@
 	* [Integrate Google Analytics](how-to/how-to-integrate-google-analytics)
 	* [Enable Google reCAPTCHA](how-to/how-to-enable-google-recaptcha)
 	* [Activate Debug Mode](how-to/how-to-activate-debug-mode)
+	* [Activate Marketplace](how-to/how-to-activate-marketplace)
 	* [Activate SSL](how-to/how-to-activate-ssl)
 	* [Ban Visitors by IP](how-to/how-to-ban-visitors-by-ip)
 	* [Move to a new server](how-to/how-to-move-to-a-new-server)

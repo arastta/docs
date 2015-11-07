@@ -48,7 +48,7 @@ The "Choose" Type lets the customer select specific option values. Among these c
 - **Checkbox**: Multiple option values can be checked at once.
 - **Image**: Gives a radio selection next to small uploaded images.
 
-In our stock we have different colors of classic iPods: black, silver, and white. The Option Name to describe these colors will be "Color". We decided that we want to use a radio type option to display the color options. We want this option to be the first option in the list, so we gave it a sort order of 1. We added 3 option value names for our colors: Black, White, Silver. If we wanted to, we could have uploaded an image of the iPods in their different colors next to their respective value names using the [Image manager](docs/user-manual/admin/image-manager).
+In our stock we have different colors of classic iPods: black, silver, and white. The Option Name to describe these colors will be "Color". We decided that we want to use a radio type option to display the color options. We want this option to be the first option in the list, so we gave it a sort order of 1. We added 3 option value names for our colors: Black, White, Silver. If we wanted to, we could have uploaded an image of the iPods in their different colors next to their respective value names using the [Image Manager](faq/image-manager).
 
 ![option color](_images/adding-options.png)
 

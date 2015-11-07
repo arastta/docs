@@ -145,6 +145,7 @@
 	* [Migration to a New Server](faq/migration-to-new-a-server)
 	* [Customers vs Users](faq/customers-vs-users)
 	* ["Permission Denied" error](faq/permission-denied-error)
+	* [Image Manager](faq/image-manager)
 * Designers
 	* [Customizer](designers/customizer)
 * Developers

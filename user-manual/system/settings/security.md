@@ -6,7 +6,7 @@ Security Tab
 
 Security should be a top priority for every website especially if there is sensitive information involved. As most online stores work with payment and shipping details and even credit card information it is very important to have the maximum security possible. Here Arassta excels compared to its predecessor OpenCart by implementing new security features and firewall methods that can stop most malicious attempts towards your store.
 
-The security tab under settings displays the following fields: Common, Firewal, Uploads, Google reCAPTCHA:
+The security tab under settings displays the following fields: Common, Firewall, Uploads, Google reCAPTCHA:
 
 ### Common & Firewall
 
@@ -26,7 +26,7 @@ The security tab under settings displays the following fields: Common, Firewal, 
 
 ![settings security tab](_images/settings-security-2-tab.png)
 
-- **Max File Size:** The maximum image file size you can upload in Image Manager. Enter as byte.
+- **Max File Size:** The maximum image file size you can upload in [Image Manager](faq/image-manager). Enter as byte.
 - **Allowed File Extensions:** Add which file extensions are allowed to be uploaded. Use a new line for each value.
 - **Allowed File Mime Types:** Add which file mime types are allowed to be uploaded. Use a new line for each value.
 - **Site key:** Go to [Google reCAPTCHA](https://www.google.com/recaptcha/intro/index.html) page and register your website.

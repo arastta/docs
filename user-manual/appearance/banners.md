@@ -11,7 +11,7 @@ If you want to create a new carousel banner displaying all the manufacturer logo
 
 - **Title:** when the customer hovers their mouse over the icon, the title will be displayed.
 - **Link:** the address of the page that the customer will be directed to when clicking on the icon in the banner. In this case, you would want to link the image to a banner page. The link doesn't need the "www.store.com" portion of the link.
-- **Image:** add an image using the [Image Manager](faq/image-manager).
+- **Image:** add an image using the [Image Manager](docs/faq/image-manager).
 
 
 ![banners](_images/banners.png)

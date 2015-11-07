@@ -12,7 +12,7 @@ The data tab includes all the product criteria that will be included on the prod
 
 Fill in the spaces above with the following information:
 
-- **Image**: clicking "Browse Folders" will lead the administrator to the [Image Manager](faq/image-manager) to upload a new image.
+- **Image**: clicking "Browse Folders" will lead the administrator to the [Image Manager](docs/faq/image-manager) to upload a new image.
 - **Model**: create a model number for the product using a combination of letters and numbers. (required)
 - **SKU (stock keeping unit)**: a random code for the product.
 - **UPC (universal product code)**: the product's unique barcode.

@@ -146,6 +146,7 @@
 	* [Customers vs Users](faq/customers-vs-users)
 	* ["Permission Denied" error](faq/permission-denied-error)
 	* [Image Manager](faq/image-manager)
+	* [Images not Uploading](faq/images-not-uploading)
 * Designers
 	* [Customizer](designers/customizer)
 * Developers

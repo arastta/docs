@@ -1,7 +1,7 @@
 Export / Import
 ===============
 
-The Import/Export Tool allows the admin user to do a bulk export of all the categories, products, options and attributes to an Excel spreadsheet file. The spreadsheet file can be edited offline and then be re-imported to the OpenCart database.
+The Import/Export Tool allows the admin user to do a bulk export of all the categories, products, options and attributes to an Excel spreadsheet file. The spreadsheet file can be edited offline and then be re-imported to the Arastta database.
 
 ![import backend](_images/export-import-2.png)
 

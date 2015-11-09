@@ -4,7 +4,7 @@ Design
 Design Tab
 ----------
 
-The design tab consists of the "Layout Override" feature. In this feature, you can choose to override a layout, such as the 'Account' page, to include the category on that page. For more information on layouts, see [Modules](docs/user-manual/extensions/modules/overview). You can just leave it blank for the meantime.
+The design tab consists of the "Layout Override" feature. In this feature, you can choose to override a layout, such as the 'Account' page, to include the category on that page. For more information on layouts, see [Modules](docs/user-manual/appearance/modules/overview). You can just leave it blank for the meantime.
 
 ![categories design](_images/categories-design.png)
 

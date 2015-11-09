@@ -104,6 +104,7 @@
 			* [Local](user-manual/system/settings/local)
 			* [Design](user-manual/system/settings/design)
 			* [Option](user-manual/system/settings/option)
+			* [Image](user-manual/system/settings/image)
 			* [Mail](user-manual/system/settings/mail)
 			* [SEO](user-manual/system/settings/seo)
 			* [Cache](user-manual/system/settings/cache)

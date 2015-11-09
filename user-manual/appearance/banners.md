@@ -17,7 +17,7 @@ If you want to create a new carousel banner displaying all the manufacturer logo
 ![banners](_images/banners.png)
 
 
-You may add as many banners to the banner as necessary. Under [Modules](docs/user-manual/extensions/modules/overview), you can edit the Carousel to display the "Manufacturers Banner". The image below is the screenshot of the home page after the Carousel was assigned the Manufacturers banner. All the manufacturer logos that were added to the Manufacturers banner in the administration can be scrolled through in the store front.
+You may add as many banners to the banner as necessary. Under [Modules](docs/user-manual/appearance/modules/overview), you can edit the Carousel to display the "Manufacturers Banner". The image below is the screenshot of the home page after the Carousel was assigned the Manufacturers banner. All the manufacturer logos that were added to the Manufacturers banner in the administration can be scrolled through in the store front.
 
 
 ![Carousel frond end](_images/banners-front.png)

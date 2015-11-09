@@ -39,4 +39,4 @@ The location of the layout pages in the default theme is visible under /catalog/
 
 After the new layout page is uploaded to the location above, it can added to the store by clicking the "Insert" button under Appearance > Layouts. The new layout will require a layout name, the store the layout will be added to, and a route. The route is the folder name that the layout files are included in. Arastta knows to search for the folder under /catalog/view/theme/default/template/ in the store directory, so only the folder name is required.
 
-Clicking "Add Route", then "Save" will make the new layout available in the store. See [Modules ](docs/user-manual/extensions/modules/overview)for more information on how to add a module to a specific layout page.
+Clicking "Add Route", then "Save" will make the new layout available in the store. See [Modules ](docs/user-manual/appearance/modules/overview)for more information on how to add a module to a specific layout page.

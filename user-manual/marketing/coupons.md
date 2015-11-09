@@ -45,7 +45,7 @@ Adding and editing coupons in the administration affect the use of coupons in th
 Shopping cart
 -------------
 
-To enable the use of Coupons in the store front, the coupon extension must be enabled by you under the [Order Totals](docs/user-manual/extensions/order-totals) extension. For the customer to use the "-10.00 Discount" coupon, they must first add the product to their cart from the product page, then enter the code in the Shopping Cart. They can select "Use Coupon Code", enter the coupon code in the space provided, then add "Apply Coupon".
+To enable the use of Coupons in the store front, the coupon extension must be enabled by you under the [Order Totals](docs/user-manual/marketplace/order-totals) extension. For the customer to use the "-10.00 Discount" coupon, they must first add the product to their cart from the product page, then enter the code in the Shopping Cart. They can select "Use Coupon Code", enter the coupon code in the space provided, then add "Apply Coupon".
 
 ![coupon acer](_images/coupons-3.png)
 

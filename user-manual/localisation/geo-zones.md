@@ -7,4 +7,4 @@ The geo zone below is used to combine the west cost states of the United States 
 
 ![geo zones backend](_images/geo-zones.png)
 
-See [Shipping ](docs/user-manual/extensions/shipping)for more information on how geo zones are used.
+See [Shipping ](docs/user-manual/marketplace/shipping)for more information on how geo zones are used.

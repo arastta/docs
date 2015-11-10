@@ -12,7 +12,7 @@ Downloading and unzipping Arastta archive
 
 Arastta can be downloaded from the [Download](http://arastta.org/download) page. The download page offers access to the latest and previous versions of Arastta.
 
-<p class="uk-alert uk-alert-success"><i class="uk-icon-check-circle"> If you don't have a program on your computer that can extract files from a ZIP file, [WinRAR](http://www.win-rar.com/download.html?&L=0) can be downloaded for free. Unzipping the ZIP file will uncompress the Arastta archive so the files can be accessed by a web server.</i></p>
+<p class="uk-alert uk-alert-success"><i class="uk-icon-check-circle"> If you don't have a program on your computer that can extract files from a ZIP file, <a href="http://www.win-rar.com/download.html?&L=0">WinRAR</a> can be downloaded for free. Unzipping the ZIP file will uncompress the Arastta archive so the files can be accessed by a web server.</i></p>
 
 The downloaded ZIP file contains all the files needed to upload Arastta to a web server. The "LICENSE.txt" file contains the license agreement regarding the use of Arastta on your site. When you are ready, you can extract the files from the ZIP file to a location of your choice on your computer.
 
@@ -105,7 +105,7 @@ Uninstalling Arastta is a quick and simple process.
 1. Delete the files/folders in the location you uploaded them to in Filezilla.
 2. Delete the Arastta database from MySQL Databases or phpMyAdmin.
 
-<p class="uk-alert uk-alert-danger"><i class="uk-icon-exclamation-circle"> Once Arastta is uninstalled, all product and customer information will be lost. You can save a backup database file in case you want to reinstall Arastta at a later time. See [Backup/Restore](docs/user-manual/tools/backup-restore) for more information.</i></p>
+<p class="uk-alert uk-alert-danger"><i class="uk-icon-exclamation-circle"> Once Arastta is uninstalled, all product and customer information will be lost. You can save a backup database file in case you want to reinstall Arastta at a later time. See <a href="docs/user-manual/tools/backup-restore">Backup/Restore</a> for more information.</i></p>
 
 Support
 -------

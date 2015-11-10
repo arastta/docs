@@ -12,7 +12,7 @@ Downloading and unzipping Arastta archive
 
 Arastta can be downloaded from the [Download](http://arastta.org/download) page. The download page offers access to the latest and previous versions of Arastta.
 
-> If you don't have a program on your computer that can extract files from a ZIP file, [WinRAR](http://www.win-rar.com/download.html?&L=0) can be downloaded for free. Unzipping the ZIP file will uncompress the Arastta archive so the files can be accessed by a web server.
+<p class="uk-alert uk-alert-success"><i class="uk-icon-check-circle"> If you don't have a program on your computer that can extract files from a ZIP file, [WinRAR](http://www.win-rar.com/download.html?&L=0) can be downloaded for free. Unzipping the ZIP file will uncompress the Arastta archive so the files can be accessed by a web server.</i></p>
 
 The downloaded ZIP file contains all the files needed to upload Arastta to a web server. The "LICENSE.txt" file contains the license agreement regarding the use of Arastta on your site. When you are ready, you can extract the files from the ZIP file to a location of your choice on your computer.
 
@@ -49,11 +49,11 @@ Under the “File” menu, “Site Manager” should be opened in Filezilla. A w
 
 If you haven't already located the Arastta package on the left side, you need to do so now and keep it open. In the Remote Site directory (right side), you need to open the folder that the Arastta shop will be located in. The location of shop varies based on whether the you want the shop to be seen on the main page, a sub-folder, a subdomain, etc. If you want to make Arastta the main page, you would need to upload files to the root folder of their website.
 
-> Be aware that some hosting services require public files to be upload to a public directory, such as public_html, if they are to be visible on the website. You should check with your hosting provider to see where you can upload public files.
+<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> Be aware that some hosting services require public files to be upload to a public directory, such as public_html, if they are to be visible on the website. You should check with your hosting provider to see where you can upload public files.</i></p>
 
 Once the location of the Arastta shop has been determined, all the content within the package folder on the computer's (left) side of Filezilla must be selected, right-clicked, and uploaded. Uploading all the files might take a few minutes on the FTP client.
 
-> If you want the shop to be on the main page, for example www.shopnow.com, you must upload the contents of the package folder, but not the package folder itself. Including the package folder will create a sub-folder, making the shop available only on www.shopnow.com/upload.
+<p class="uk-alert uk-alert-danger"><i class="uk-icon-exclamation-circle"> If you want the shop to be on the main page, for example www.shopnow.com, you must upload the contents of the package folder, but not the package folder itself. Including the package folder will create a sub-folder, making the shop available only on www.shopnow.com/upload.</i></p>
 
 After Filezilla finishes uploading the files to the location specified, you should see the same files on both the left side(computer) and on the right side (the website); as seen in the screenshot below:
 
@@ -105,7 +105,7 @@ Uninstalling Arastta is a quick and simple process.
 1. Delete the files/folders in the location you uploaded them to in Filezilla.
 2. Delete the Arastta database from MySQL Databases or phpMyAdmin.
 
-> Once Arastta is uninstalled, all product and customer information will be lost. You can save a backup database file in case you want to reinstall Arastta at a later time. See [Backup/Restore](docs/user-manual/tools/backup-restore) for more information.
+<p class="uk-alert uk-alert-danger"><i class="uk-icon-exclamation-circle"> Once Arastta is uninstalled, all product and customer information will be lost. You can save a backup database file in case you want to reinstall Arastta at a later time. See [Backup/Restore](docs/user-manual/tools/backup-restore) for more information.</i></p>
 
 Support
 -------

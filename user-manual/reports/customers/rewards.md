@@ -13,4 +13,4 @@ The following information will be displayed about customer reward point usage:
 - **No. Orders**: The total number of orders made by this customer.
 - **Total**: The total amount purchased from this customer.
 
-Clicking "Edit" under "Action" will direct you to that specific customer's edit form under Sales > Customer. Customers can be filtered by selecting a start and end date.
+Clicking "Edit" under "Action" will direct you to that specific customer's edit form under **Sales > Customer**. Customers can be filtered by selecting a start and end date.

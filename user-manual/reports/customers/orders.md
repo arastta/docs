@@ -13,4 +13,4 @@ The following information will be displayed about customer orders:
 - **No. Products**: The total number of products purchased by this customer.
 - **Total**: The total amount purchased from this customer. Customers are arranged on the list from the highest amount to the lowest.
 
-Clicking "Edit" under "Action" will direct you to that specific customer's edit form under Sales > Customer. Customers can be filtered by selecting a start and end date.
+Clicking "Edit" under "Action" will direct you to that specific customer's edit form under **Sales > Customer**. Customers can be filtered by selecting a start and end date.

@@ -15,7 +15,7 @@ You can login to the cPanel of their default store to create a subdomain. You sh
 
 When we visit our new subdomain in our browser, the default store is visible. To customize the new store at this subdomain we need to visit the admin panel for our multi-store.
 
-> Don't worry if the default store is displayed where the new store should be, this is normal. The new store will not be visible at the subdomain's location until it has been added in the administration side of Arastta.
+<div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Don't worry if the default store is displayed where the new store should be, this is normal. The new store will not be visible at the subdomain's location until it has been added in the administration side of Arastta.</div>
 
 ### Another domain store
 

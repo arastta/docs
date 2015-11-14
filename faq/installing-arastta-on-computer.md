@@ -22,8 +22,8 @@ Before going on with this Arsatta installation tutorial, make sure that all the 
 
 * **The web server should be up and running**. You should be able to access it through your browser, by typing "127.0.0.1" in the address bar.
 
-> [http://127.0.0.1](http://127.0.0.1) is the "localhost", meaning "your computer": it is a loopback address which directs the browser to your local web server.
-In effect, [http://127.0.0.1](http://127.0.0.1) and [http://localhost](http://localhost) are synonymous: you can use one or the other interchangeably, both send you to the root folder of your local web server.
+<div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> <a href="http://127.0.0.1">http://127.0.0.1</a> is the "localhost", meaning "your computer": it is a loopback address which directs the browser to your local web server.
+In effect, <a href="http://127.0.0.1">http://127.0.0.1</a>) and <a href="http://localhost">http://localhost</a> are synonymous: you can use one or the other interchangeably, both send you to the root folder of your local web server.</div>
 
     Some web servers might not be able to start because their connexion ports (typically, port 80) are already used by another application.
     

@@ -18,7 +18,7 @@ As a first, you will need to connect to your host via FTP. In this example we wi
 
 This is a familiar picture of how things look when connected to your FTP server. You will immediately spot the public_html folder (at the top of the page). In case you are wondering what this public_html is, it is the web root for your primary domain name. It serves as a master cabinet where you put all website files and folders. Double click on the public_html so we reveal its contents. Now, we need to locate our Arastta installation folder. In this example we have named it oc1551 folder.
 
-> Disclaimer: In some cases there may not be a public_html folder or it may be named differently.
+<div class="uk-alert uk-alert-danger uk-margin-small-left uk-margin-small-right"><i class="uk-icon-exclamation-circle"></i> Disclaimer: In some cases there may not be a public_html folder or it may be named differently.</div>
 
 ![backing up files of arastta](_images/arastta-migration-3.png)
 
@@ -38,7 +38,7 @@ Next, you will see the tables of the database. Right after we verify that we hav
 
 Then, we need to select Custom Export. We need to make sure all of the tables are selected and proceed to the next title Output:
 
-> Disclaimer: In some cases there may not be a public_html folder or it may be named differently.
+<div class="uk-alert uk-alert-danger uk-margin-small-left uk-margin-small-right"><i class="uk-icon-exclamation-circle"></i> Disclaimer: In some cases there may not be a public_html folder or it may be named differently.</div>
 
 ![exporting database of arastta](_images/arastta-migration-6.png)
 
@@ -97,7 +97,7 @@ Now, we will need to edit the following lines of code (30-45) in our example, lo
     define('DIR_APPLICATION', 		DIR_ROOT . 'admin/');
     define('DIR_LOGS', 				DIR_SYSTEM . 'log/');
 
-> Notice: Please put your website Cpanel username under system username.
+<div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Notice: Please put your website Cpanel username under system username.</div>
 
 Next, we need to edit the Database entries lines (9-14) in config.php:
 

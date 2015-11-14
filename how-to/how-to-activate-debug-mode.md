@@ -5,7 +5,7 @@ When troubleshooting various issues in Arastta, you may find it beneficial to pu
 
 Go to the [Server](docs/user-manual/system/settings/server) tab under your store's settings in your admin panel and find the **Debug System** option. If enabled, diagnostic information (i.e. run time, memory) will be displayed at the bottom of every page of the store back-end and front-end.
 
-> It is not advisable to leave the debug mode activated when running a live store.
+<div class="uk-alert uk-alert-danger uk-margin-small-left uk-margin-small-right"><i class="uk-icon-exclamation-circle"></i> It is not advisable to leave the debug mode activated when running a live store.</div>
 
 ![debug system](_images/debug-system.png)
 

@@ -6,7 +6,7 @@ Options in the administration
 
 The Options section, under Catalog, lets you customize what details the customer sees when checking out a product. On the product page, the "Available Options" section is displayed under the price. The option for that product must be selected before the customer can add the product to the shopping cart.
 
-The image below displays the default options, but you can choose to edit or delete any of them. Essentially, the options can be created to fit whatever added specifications are needed for the customer to purchase the product. The "Insert" button will direct you towards creating a new option.
+The image below displays the default options, but you can choose to edit or delete any of them. Essentially, the options can be created to fit whatever added specifications are needed for the customer to purchase the product. The "**Add New**" button will direct you towards creating a new option.
 
 ![options](_images/options.png)
 
@@ -26,7 +26,7 @@ For the "size" option, three option value's were created : "Small", "Medium", an
 Adding options to products
 --------------------------
 
-To apply the options to a specific product, you will need to edit the [Option tab](docs/user-manual/catalog/products/option) under Catalog > Products. Options could to be created prior to adding a product, then added during product creation in the Options tab.
+To apply the options to a specific product, you will need to edit the [Option tab](docs/user-manual/catalog/products/option) under **Catalog > Products**. Options could to be created prior to adding a product, then added during product creation in the Options tab.
 
 Options in the store front
 --------------------------
@@ -37,7 +37,7 @@ The image below was taken from our iPod Classic product page. We can see that pr
 
 ![iPod Classic](_images/options-2.png)
 
-For the purpose of this example, we want to add more options to customize the type of iPod Classic that will be purchased by the customer. Under Catalog > Options we will insert new options with varying option values. Arastta allows for four different types of options for customers to select under Options: **Choose**, **File**, **Date**, and **Input**.
+For the purpose of this example, we want to add more options to customize the type of iPod Classic that will be purchased by the customer. Under **Catalog > Options** we will insert new options with varying option values. Arastta allows for four different types of options for customers to select under Options: **Choose**, **File**, **Date**, and **Input**.
 
 ### Choose type
 
@@ -66,7 +66,7 @@ The file type requires the customers to upload a file of their own before adding
 
 ![ipod  case custom image](_images/adding-options-3.png)
 
-When we move to the Option tab under the Catalog > Product to add the option to the product, there is only an selection to require the file or not. There isn't any option values since it is up to the user to upload their own file from their computer.
+When we move to the Option tab under the **Catalog > Product** to add the option to the product, there is only an selection to require the file or not. There isn't any option values since it is up to the user to upload their own file from their computer.
 
 ![ipod case custom image product](_images/adding-options-4.png)
 

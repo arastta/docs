@@ -20,7 +20,7 @@ The Sort Order indicates the order that the categories are displayed in the top 
 
 <p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> Leaving "Sort Order" blank will organize the sections in alphabetical order.</i></p>
 
-Clicking "Edit" under "Action" will direct the administrator to a form to change the category information. Clicking "Insert" will allow the shop owner to insert more products to the site.
+Clicking "**Edit**" under "Action" will direct the administrator to a form to change the category information. Clicking "**Add New**" will allow the shop owner to insert more categories to the site.
 
 Create a category
 -----------------
@@ -31,4 +31,4 @@ Organizing products into categories is useful for navigating a store's inventory
 
 <p class="uk-alert uk-alert-success"><i class="uk-icon-check-circle"> Before inserting products into Arastta, you should take some time to brainstorm and establish categories for your products. Think of how the products in your store can be organized into groups in a logical manner. Generally, you would want to start with creating a broad parent category, and move narrower into specification with each sub-category below it. For example, a broad category such as Electronics is a good parent category. Under the Electronics, a sub-category named "Computers" can be created; and under that category, "Laptops". You can see how each category becomes more specific as we progress. Putting effort into this task will improve a store's usability, ultimately bringing customers to other products in the store that may interest them.</i></p>
 
-Go to **Catalog > Category** in the administration. If this is your first time in the category section you will see a list of categories created for the default products. You should feel free to delete them to make room for your store's products. To create a new category for products you can click "Insert" in the upper right corner. You will be directed to the category's information page. Category information can be filled out under three tabs: "General", "Data", "Design".
+Go to **Catalog > Category** in the administration. If this is your first time in the category section you will see a list of categories created for the default products. You should feel free to delete them to make room for your store's products. To create a new category for products you can click "**Add New**" in the upper right corner. You will be directed to the category's information page. Category information can be filled out under three tabs: "General", "Data", "Design".

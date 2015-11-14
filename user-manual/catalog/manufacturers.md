@@ -4,7 +4,7 @@ Manufacturers
 Manufacturers in the administration interface
 ---------------------------------------------
 
-The Manufacturer section is used to categorize products by manufacturer. This section can be accessed under Catalog > Manufacturers.
+The Manufacturer section is used to categorize products by manufacturer. This section can be accessed under **Catalog > Manufacturers**.
 
 The Manufacturer names below came with the install. They can be deleted, and new manufacturer information can be added in its place. The manufacturer information should be created before products are added, so the manufacturer category can be selected when adding the product. Saving a product without including the manufacturer isn't advised, because customers can search for products in the store front through their manufacturer page. With the manufacturer missing from the product information, the product will not be available on those pages.
 
@@ -27,7 +27,7 @@ To insert a new manufacturer, the following information is required:
 
 To edit existing manufacturers you can locate "Edit" under "Action". Clicking edit will direct you to the form above with the previously filled-in manufacturer information.
 
-> The product will need to be reassigned to the newly changed manufacturer, if the manufacturer name is changed. If the manufacturer name remains unchanged, but any of the other information is edited, the product will automatically adopt the new manufacturer information.
+<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> The product will need to be reassigned to the newly changed manufacturer, if the manufacturer name is changed. If the manufacturer name remains unchanged, but any of the other information is edited, the product will automatically adopt the new manufacturer information.</i></p>
 
 Manufacturers in the store front
 --------------------------------
@@ -38,7 +38,7 @@ Manufacturers will always need to be assigned to products in the store inventory
 
 ![manufacturer data](_images/manufacturers-2.png)
 
-In the Catalog > Manufacturer section we created an 'Acer' manufacturer; added it to our only store ('Default'), while including an SEO keyword, manufacturer image, and sort order. Under Products we assigned the "Acer" manufacturer to the "Acer Aspire" product.
+In the **Catalog > Manufacturer** section we created an 'Acer' manufacturer; added it to our only store ('Default'), while including an SEO keyword, manufacturer image, and sort order. Under Products we assigned the "Acer" manufacturer to the "Acer Aspire" product.
 
 ### The Manufacturers page
 

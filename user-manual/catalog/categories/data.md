@@ -12,11 +12,11 @@ The Data tab asks for the following data:
 - **Image**: Select the main image for the product page and the thumbnail for product listings. See [Image Manager](docs/faq/image-manager) for more information on how to upload an image using the image manager tool.
 - **Top**: Checking this section will display this category in the top menu of every page. If no selection is made, it will not be displayed.
 
-<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> The top menu only displays parent categories. If this category is a sub-category, it will not be displayed in the top menu.</i></p>
+<div class="uk-alert uk-alert-success uk-margin-small-left uk-margin-small-right"><i class="uk-icon-check-circle"></i> The top menu only displays parent categories. If this category is a sub-category, it will not be displayed in the top menu.</div>
 
 - **Columns**: This number controls how many sub-categories are displayed when selecting the parent category.
 
-<p class="uk-alert uk-alert-danger"><i class="uk-icon-exclamation-circle"> Shop owners with many product sub-categories may need to pay special attention to how many columns are allowed. If all the available sub-categories are allowed for a product category, the entire store page in the store front will be filled with sub-categories when hovered over.</i></p>
+<div class="uk-alert uk-alert-danger uk-margin-small-left uk-margin-small-right"><i class="uk-icon-exclamation-circle"></i> Shop owners with many product sub-categories may need to pay special attention to how many columns are allowed. If all the available sub-categories are allowed for a product category, the entire store page in the store front will be filled with sub-categories when hovered over.</div>
 
 - **Sort Order**: This sort order determines the position of the category in the menu. A sorting order of 1 would be displayed before a sorting order of 2, 3, and so on.
 - **Status**: Selecting "enabled" makes the category publicly available in the store front. Selecting "disabled" will hide the category from the store front, but will still be available for editing purposes in the administration.

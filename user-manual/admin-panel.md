@@ -13,7 +13,7 @@ To access the admin panel, type in location of the store into the web browser fo
 
 If the name of the folder is changed by you during installation, the location of the admin panel is changed to that new name. For example, if the name of the admin folder is changed to admin1, the new location of the admin panel is at "www.chocolatchip.com/admin1".
 
-> Changing the name of the admin folder to another name is important for improving an online shop's security. The config.php file needs to be edited to indicate the correct file path and location. A username and password is created in [Step 3 of the auto-installer](docs/installation) during installation. This information can now be used to fill in the administrator login details.
+<div class="uk-alert uk-alert-success uk-margin-small-left uk-margin-small-right"><i class="uk-icon-check-circle"></i> Changing the name of the admin folder to another name is important for improving an online shop's security. The config.php file needs to be edited to indicate the correct file path and location. A username and password is created in <a href="docs/installation">Step 3 of the auto-installer</a> during installation. This information can now be used to fill in the administrator login details.</div>
 
 ![admin login](_images/login.png)
 
@@ -33,12 +33,12 @@ The dashboard is the first thing you will see when entering Arastta's admin. The
 
 ![dashboard](_images/dashboard-map.png)
 
-In the left side of the dashboard is the administration navigation menu. You can navigate between the "Catalog", "Sales", "Customers", "Marketing", "Reports", "Appeearance", "Marketplace", "Localisation", "System" and "Tools". These sections will be explained in further detail in the following sections of the User Guide.
+In the left side of the dashboard is the administration navigation menu. You can navigate between the "Catalog", "**Sales**", "**Customers**", "**Marketing**", "**Reports**", "**Appeearance**", "**Marketplace**", "**Localisation**", "**System**" and "**Tools**". These sections will be explained in further detail in the following sections of the User Guide.
 
 Filter
 ------
 
-Filter is a handy tool used regularly throughout the Arastta administration. You may type into one of the information field for the item on the item list. Pressing Filter will "filter out" all the items in the list that do no match the criteria entered in the space, leaving only the items that match. With Filter, you can quickly locate any information stored in list form. Products, Categories, Customers, Reports, Orders, and more all use Filter as the main search tool to locate items in a list.
+Filter is a handy tool used regularly throughout the Arastta administration. You may type into one of the information field for the item on the item list. Pressing Filter will "filter out" all the items in the list that do no match the criteria entered in the space, leaving only the items that match. With Filter, you can quickly locate any information stored in list form. **Products, Categories, Customers, Reports, Orders**, and more all use Filter as the main search tool to locate items in a list.
 
 For examples, if you would like to look up a product in the product list, you can use "Filter" as a shortcut to search for that product. This can be helpful when there is large amounts of product and you would like to edit a specific product without having to browse through every page for it. The search boxes are located in the first row above the product list.
 

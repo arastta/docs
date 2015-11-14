@@ -7,7 +7,7 @@ The Information section displays specific company information in the footer of e
 
 The Information page can be found under **Catalog > Information**. On this page the administrator will have the option to edit, delete, or insert a new Information page.
 
-<p class="uk-alert uk-alert-success"><i class="uk-icon-check-circle"> About Us, Delivery Information, Privacy Policy, and Terms & Conditions are in the default because they are the most important Information pages used in online stores. We recommend that you edit these pages rather than delete them.</i></p>
+<div class="uk-alert uk-alert-success uk-margin-small-left uk-margin-small-right"><i class="uk-icon-check-circle"></i> About Us, Delivery Information, Privacy Policy, and Terms & Conditions are in the default because they are the most important Information pages used in online stores. We recommend that you edit these pages rather than delete them.</div>
 
 ![information backend](_images/information-1.png)
 

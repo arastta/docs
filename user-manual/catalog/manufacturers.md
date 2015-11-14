@@ -27,7 +27,7 @@ To insert a new manufacturer, the following information is required:
 
 To edit existing manufacturers you can locate "Edit" under "Action". Clicking edit will direct you to the form above with the previously filled-in manufacturer information.
 
-<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> The product will need to be reassigned to the newly changed manufacturer, if the manufacturer name is changed. If the manufacturer name remains unchanged, but any of the other information is edited, the product will automatically adopt the new manufacturer information.</i></p>
+<div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> The product will need to be reassigned to the newly changed manufacturer, if the manufacturer name is changed. If the manufacturer name remains unchanged, but any of the other information is edited, the product will automatically adopt the new manufacturer information.</div>
 
 Manufacturers in the store front
 --------------------------------

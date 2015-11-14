@@ -55,7 +55,7 @@ There should now be a blank list to add individual products to. The "**Add New**
 
 Before products are added to the administration, product categories must already be established by the administrator. See Categories before continuing with this section. With the product categories created, products are now ready to be added to the catalog.
 
-<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> Arastta currently only allows products to be added one at a time, not in mass quantity. Extensions can be purchased to add large amounts of product at once. See Product import for more information.</i></p>
+<div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Arastta currently only allows products to be added one at a time, not in mass quantity. Extensions can be purchased to add large amounts of product at once. See Product import for more information.</div>
 
 Saving the product
 ------------------

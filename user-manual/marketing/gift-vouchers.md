@@ -3,7 +3,7 @@ Gift Vouchers
 
 Gift vouchers can be individually sent to customers through their email by other customers in the store front. The customer receiving the gift certificate can use the code provided in the email at the shopping cart to deduct the gift voucher amount from the order total. To manage the Gift Vouchers of the store, go to **Marketing > Gift Vouchers > Gift Vouchers**.
 
-<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> Gift Vouchers only have one use per customer. If the customer uses the same code for another order, Arastta will display the warning "Warning: Gift Voucher is either invalid or the balance has been used up!"</i></p>
+<div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Gift Vouchers only have one use per customer. If the customer uses the same code for another order, Arastta will display the warning "Warning: Gift Voucher is either invalid or the balance has been used up!"</div>
 
 General tab
 -----------

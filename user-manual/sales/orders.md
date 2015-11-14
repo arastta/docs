@@ -65,7 +65,7 @@ This section tracks the shipping address for this particular order. If the shipp
 
 Under Totals, other contributing payment factors, such as coupons and vouchers, are added/subtracted to the order total.
 
-<p class="uk-alert uk-alert-danger"><i class="uk-icon-exclamation-circle"> Shipping and payment methods must already be set up to select a method in the order form. Otherwise, there will be nothing to select under Shipping Method and Payment Method.</i></p>
+<div class="uk-alert uk-alert-danger uk-margin-small-left uk-margin-small-right"><i class="uk-icon-exclamation-circle"></i> Shipping and payment methods must already be set up to select a method in the order form. Otherwise, there will be nothing to select under Shipping Method and Payment Method.</div>
 
 ![orders totals](_images/orders-6.png)
 

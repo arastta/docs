@@ -8,4 +8,4 @@ The default version of Arastta provides several core modules in the administrati
 
 Uninstalling a module is as simple a process as installing one. Clicking "Uninstall" under the Action column is all that is necessary to remove the module information.
 
-<p class="uk-alert uk-alert-danger"><i class="uk-icon-exclamation-circle"> Uninstalling the module will delete the module information that was manually selected under "Edit". This module information cannot be recovered after it is uninstalled by re-installing it.</i></p>
+<div class="uk-alert uk-alert-danger uk-margin-small-left uk-margin-small-right"><i class="uk-icon-exclamation-circle"></i> Uninstalling the module will delete the module information that was manually selected under "Edit". This module information cannot be recovered after it is uninstalled by re-installing it.</div>

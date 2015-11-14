@@ -67,7 +67,7 @@ A list will be displayed of every addition and subtraction event in the customer
 
 An [IP Address](http://en.wikipedia.org/wiki/IP_address) will reveal the location of customer's computer network. There are many website services available to shop owners, that will give the location for an IP address.
 
-<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle">  The IP address cannot be added or modified for a customer in Arastta. The IP address will be collected from the customer automatically by Arastta and added to their customer information.</i></p>
+<div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> The IP address cannot be added or modified for a customer in Arastta. The IP address will be collected from the customer automatically by Arastta and added to their customer information.</div>
 
 Approving new customers
 -----------------------

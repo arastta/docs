@@ -1,14 +1,14 @@
 Gift Vouchers
 =============
 
-Gift vouchers can be individually sent to customers through their email by other customers in the store front. The customer receiving the gift certificate can use the code provided in the email at the shopping cart to deduct the gift voucher amount from the order total. To manage the Gift Vouchers of the store, go to Marketing > Gift Vouchers > Gift Vouchers.
+Gift vouchers can be individually sent to customers through their email by other customers in the store front. The customer receiving the gift certificate can use the code provided in the email at the shopping cart to deduct the gift voucher amount from the order total. To manage the Gift Vouchers of the store, go to **Marketing > Gift Vouchers > Gift Vouchers**.
 
-> Gift Vouchers only have one use per customer. If the customer uses the same code for another order, Arastta will display the warning "Warning: Gift Voucher is either invalid or the balance has been used up!"
+<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> Gift Vouchers only have one use per customer. If the customer uses the same code for another order, Arastta will display the warning "Warning: Gift Voucher is either invalid or the balance has been used up!"</i></p>
 
 General tab
 -----------
 
-To create a new gift voucher, click "Insert". The following information will be needed:
+To create a new gift voucher, click "**Add New**". The following information will be needed:
 
 - **Code**: The code the customer must enter in the Shopping Cart to use the gift voucher.
 - **From Name**: The name of the person sending the gift certificate.
@@ -37,7 +37,7 @@ The Voucher Themes section alters the image displayed in the email according to 
 Emailing a gift voucher to a customer
 -------------------------------------
 
-Once a gift voucher has been created, you are responsible for sending out the email to the customer receiving the gift voucher. After you make sure the customer's email information has been filled out in the General Tab, you can send the email by clicking "Send" under "Action". If the email was sent, Arastta will display the message: "Success: Gift Voucher e-mail has been sent!".
+Once a gift voucher has been created, you are responsible for sending out the email to the customer receiving the gift voucher. After you make sure the customer's email information has been filled out in the General Tab, you can send the email by clicking "Send" under "Action". If the email was sent, Arastta will display the message: "**Success: Gift Voucher e-mail has been sent!**".
 
 ![gift voucher send](_images/gift-vouchers-email-1.png)
 
@@ -50,7 +50,7 @@ The Code, From Name, Message, Amount fields from the General Tab are included in
 Purchasing a gift voucher in the store front
 --------------------------------------------
 
-Customers have the option to buy a gift voucher for their friends and family. They can purchase a gift certificate by accessing My Account > Gift Voucher from their account page, or through Extras > Gift Voucher in the footer section of any page.
+Customers have the option to buy a gift voucher for their friends and family. They can purchase a gift certificate by accessing **My Account > Gift Voucher** from their account page, or through **Extras > Gift Voucher** in the footer section of any page.
 
 ![purchase gift certificate](_images/gift-vouchers-purchase.png)
 

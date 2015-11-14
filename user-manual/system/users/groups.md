@@ -9,7 +9,7 @@ Arastta lets you customize which admin side pages can be accessed by the specifi
 
 ![user groups backend general tab](_images/user-group-general.png)
 
-> Be aware that checking sections in **Access Permission** lets the user see the information on those pages. If a page in **Access Permission** is selected, but the page in **Modify Permission** is unselected; the user will be able to view the information on the page, but will be unable to modify this information.
+<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> Be aware that checking sections in Access Permission lets the user see the information on those pages. If a page in Access Permission is selected, but the page in Modify Permission is unselected; the user will be able to view the information on the page, but will be unable to modify this information.</i></p>
 
 For the Co-worker group, we chose to allow access and permit modification to the Catalog Section only, but not the rest of the admin panel.
 

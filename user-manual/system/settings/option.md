@@ -18,7 +18,7 @@ The option tab under settings displays the following fields: Common, Products, V
 
 - **Category Product Count**: Selecting 'Yes' will display how many products are available within each subcategory of the parent categories located in the [Top Menu](docs/user-manual/store-front).
 
-> If you have lots of categories, you can gain a significant performance improvement by not displaying the Category Product Count.
+<p class="uk-alert uk-alert-info"><i class="uk-icon-info-circle"> If you have lots of categories, you can gain a significant performance improvement by not displaying the Category Product Count.</i></p>
 
 ![product count](_images/settings-option-tab-category-menu.png)
 

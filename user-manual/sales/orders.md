@@ -22,7 +22,7 @@ The following details are displayed for each order on the list:
 
 **![orders](_images/orders-1.png)**
 
-With the orders included in the list, there is an option to edit, insert, delete, search, or print an invoice of an order.
+With the orders included in the list, there is an option to edit, add new, delete, search, or print an invoice of an order.
 
 ### Searching for an order
 
@@ -31,7 +31,7 @@ The "Filter" button under Action helps you find orders based on the information 
 Manually adding/modifying an order
 ----------------------------------
 
-Customer Orders will be automatically updated to the Order section after a customer confirms checkout. Though it is automatically updated, you may want to edit or add orders manually to add new information such as a gift-voucher, or add reward points. To manually add a new order, click the "Insert" button. To modify a pre-existing order, click "Edit" under Action.
+Customer Orders will be automatically updated to the Order section after a customer confirms checkout. Though it is automatically updated, you may want to edit or add orders manually to add new information such as a gift-voucher, or add reward points. To manually add a new order, click the "**Add New**" button. To modify a pre-existing order, click "**Edit**" under Action.
 
 ### Customer details
 
@@ -53,7 +53,7 @@ If a customer wants to add a gift voucher order, it will ask them for the follow
 
 ### Payment details
 
-If an address has been added to the customer, select their address option under "Choose Address". Otherwise the customer address will need to be manually filled into the form.
+If an address has been added to the customer, select their address option under "**Choose Address**". Otherwise the customer address will need to be manually filled into the form.
 
 ![orders payment details](_images/orders-3.png)
 
@@ -65,7 +65,7 @@ This section tracks the shipping address for this particular order. If the shipp
 
 Under Totals, other contributing payment factors, such as coupons and vouchers, are added/subtracted to the order total.
 
-> Shipping and payment methods must already be set up to select a method in the order form. Otherwise, there will be nothing to select under Shipping Method and Payment Method.
+<p class="uk-alert uk-alert-danger"><i class="uk-icon-exclamation-circle"> Shipping and payment methods must already be set up to select a method in the order form. Otherwise, there will be nothing to select under Shipping Method and Payment Method.</i></p>
 
 ![orders totals](_images/orders-6.png)
 
@@ -74,13 +74,13 @@ The sections seen above (such as Coupon, Voucher, Rewards) are extensions that w
 Printing invoices
 -----------------
 
-To print an invoice, go back to the Orders page under **Sales > Orders**. Above the order list on the top right corner is the "Print Invoice" button. Select the order to be printed, and click "Print Invoice". This action will direct you to a printable page of the invoice. The invoice can be printed out and included in with the shipping.
+To print an invoice, go back to the Orders page under **Sales > Orders**. Above the order list on the top right corner is the "**Print Invoice**" button. Select the order to be printed, and click "**Print Invoice**". This action will direct you to a printable page of the invoice. The invoice can be printed out and included in with the shipping.
 
 PDF Invoices
 -----------------
 
 As an online store owner you should be aware of the importance and necessity of an efficient invoicing system and management in your eCommerce solution. So we have implemented PDF Invoice feature and from now on you and your customers can manage and download the invoices as PDF files.
 
-Go to the Orders page under **Sales > Orders**. Above the order list on the top right corner is the "PDF Invoice" button. Select the order to be printed, and click "PDF Invoice". This action will download a PDF file including details of the selected order.
+Go to the Orders page under **Sales > Orders**. Above the order list on the top right corner is the "**PDF Invoice**" button. Select the order to be printed, and click "**PDF Invoice**". This action will download a PDF file including details of the selected order.
 
 ![pdf invoice](_images/pdf-invoice.png)

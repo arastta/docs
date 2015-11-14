@@ -22,7 +22,7 @@ The following details are displayed for each return on the list:
 Adding a new return
 -------------------
 
-The Return section under **Sales > Returns** lets you manage merchandise returns. You must manually enter the product and return information to create a new return. To insert a new return, click the "Insert" button in the right corner above the returns list.
+The Return section under **Sales > Returns** lets you manage merchandise returns. You must manually enter the product and return information to create a new return. To insert a new return, click the "**Add New**" button in the right corner above the returns list.
 
 ### Return details
 
@@ -51,4 +51,4 @@ Merchandise returns are automatically added to the Returns section when submitte
 
 ![product returns](_images/returns-3.png)
 
-The information filled out in this form will be saved in Sales > Returns. The fields that the customer entered above will be included in the same fields when viewing the return in the administration. You can edit the status of the return to Awaiting Products, Pending, or Completed. When the status is updated in the administration, the customer will be able to view the status of their order under My Account > "View your return requests" in the store front.
+The information filled out in this form will be saved in **Sales > Returns**. The fields that the customer entered above will be included in the same fields when viewing the return in the administration. You can edit the status of the return to Awaiting Products, Pending, or Completed. When the status is updated in the administration, the customer will be able to view the status of their order under My Account > "View your return requests" in the store front.

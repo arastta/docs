@@ -60,6 +60,7 @@
 			* [Viewed](user-manual/reports/products/viewed)
 			* [Purchased](user-manual/reports/products/purchased)
 		* Customers
+			* [Customers Online](user-manual/reports/customers/customers-online)
 			* [Customer Activity](user-manual/reports/customers/customer-activity)
 			* [Orders](user-manual/reports/customers/orders)
 			* [Reward Points](user-manual/reports/customers/rewards)

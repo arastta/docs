@@ -19,7 +19,7 @@ Installation process
 
 Launch the Installer
 --------------------
-Open the link: `http://<your-domain>/<aarastta-directory>/` in your browser. It will start the installation wizard. 
+Open the link: *http://your-domain/arastta-directory/* in your browser. It will start the installation wizard. 
 
 ### Step 1. Language
 

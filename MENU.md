@@ -135,6 +135,7 @@
 	* [Integrate Live Chat](how-to/how-to-integrate-live-chat)
 	* [Integrate Google Analytics](how-to/how-to-integrate-google-analytics)
 	* [Enable Google reCAPTCHA](how-to/how-to-enable-google-recaptcha)
+	* [Enable Maintenance Mode](how-to/how-to-enable-maintenance-mode)
 	* [Activate Debug Mode](how-to/how-to-activate-debug-mode)
 	* [Activate Marketplace](how-to/how-to-activate-marketplace)
 	* [Activate SSL](how-to/how-to-activate-ssl)

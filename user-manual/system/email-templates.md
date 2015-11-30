@@ -9,9 +9,18 @@ As the multi-language is one of most powerful features of Arastta, emails are **
 
 ![email templates edit page](_images/email-templates-1.png)
 
+##Short codes
+
+![short codes](_images/email-templates-2.png)
+
+##HTML Preview
+
+![html preview](_images/email-templates-3.png)
+
 ##Some Predefined Tags
 
 * **{store_name}**  :  The Store Name
+* **{store_url}**  :  The Store Url
 * **{order_id}**  :  The Order ID
 * **{order_href}**  :  Order Link
 * **{account_href}**  :  My Account Link
@@ -26,13 +35,16 @@ As the multi-language is one of most powerful features of Arastta, emails are **
 * **{shipment}**  :  Shipping Method
 * **{payment_address}**  :  Payment Address
 * **{shipping_address}**  :  Shipping Address
+* **{delivery_address}**  :  Delivery Address
 * **{ip_address}**  :  IP Address
 * **{ip}**  :  IP Address
-* **{comment}**  :  The comment text
+* **{comment}**  :  The Comment text
+* **{client_comment}**  :  The Client Comment text
 * **{product_name}**  :  The Product Name
 * **{product_model}**  :  The Product Model
 * **{product_quantity}**  :  The Product Quantity
 * **{product_price}**  :  The Product Price
+* **{total}**  :  The Total
 * **{product_total}**  :  The Total
 * **{total_title}**  :  The Total Title
 * **{total_value}**  :  The Total Value

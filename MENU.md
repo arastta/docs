@@ -70,6 +70,7 @@
 			* [Affiliates](user-manual/reports/marketing/affiliates)
 			* [Affiliate Activity](user-manual/reports/marketing/affiliate-activity)
 	* Appearance
+		* [Themes](user-manual/appearance/themes)
 		* [Customizer](user-manual/appearance/customizer)
 		* [Layouts](user-manual/appearance/layouts)
 		* [Menus](user-manual/appearance/menus)

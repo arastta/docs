@@ -19,7 +19,7 @@ All product feeds will require at least a single file in each of the view and co
 
 ### Controller
 
-The first file you make will be the controller for your product feed's admin interface page. Arastta identifies existing product feeds automatically, simply by reading the admin/controller/feeds folder of your store. Any product feed files existing in this folder will automatically be shown on the [Product Feeds](docs/user-manual/marketplace/feeds) page, and on the [User Permissions](system/user/), page. You may call your controller file my_feed.php.
+The first file you make will be the controller for your product feed's admin interface page. Arastta identifies existing product feeds automatically, simply by reading the admin/controller/feeds folder of your store. Any product feed files existing in this folder will automatically be shown on the [Product Feeds](docs/user-manual/marketplace/feeds) page, and on the [User Permissions](docs/user-manual/system/users/groups), page. You may call your controller file my_feed.php.
 
 The controller file will have a function defined as public function index(). This is a publicly accessible 'page', which will be shown when the [Edit button](extension/module/edit/) is clicked, and where the view form will submit to. The submitted data will be processed in this function and saved to the `settings` database table through the controller's config object.
 

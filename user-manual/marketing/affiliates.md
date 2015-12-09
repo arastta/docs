@@ -20,7 +20,7 @@ The first form asks for general information regarding the affiliate. This inform
 
 The Payment Details tab configures the commission and payment methods to be paid to the affiliate:
 
-![affiliate payment](_images/affiliates-1.png)
+![affiliate payment](_images/affiliates-2.png)
 
 ### Editing an affiliate
 

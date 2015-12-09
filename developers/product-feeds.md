@@ -1,7 +1,7 @@
 Product Feeds
 =============
 
-Arastta includes several useful [Product Feeds](extension/feed/) in the core, but you may find you require a custom format and decide to create your own. Writing Arastta product feeds is very similar to [writing Arastta modules](developer/module/), and can be a very good way to learn how the [fundamentals of Arastta](developer/loading/) actually work. Just as the rest of Arastta, feeds follow the MVCL design pattern. This documentation guide will describe how you use each of the MVCL components to create the [admin ](administration/)and [frontend](store-front/) parts of your product feed.
+Arastta includes several useful [Product Feeds](docs/user-manual/marketplace/feeds) in the core, but you may find you require a custom format and decide to create your own. Writing Arastta product feeds is very similar to [writing Arastta extensions](docs/developers/mvc-structure), and can be a very good way to learn how the [fundamentals of Arastta](docs/developers/loading-files) actually work. Just as the rest of Arastta, feeds follow the MVCL design pattern. This documentation guide will describe how you use each of the MVCL components to create the [admin](docs/user-manual/admin-panel) and [frontend](docs/user-manual/store-front) parts of your product feed.
 
 Admin feed functionality
 ------------------------
@@ -19,11 +19,11 @@ All product feeds will require at least a single file in each of the view and co
 
 ### Controller
 
-The first file you make will be the controller for your product feed's admin interface page. Arastta identifies existing product feeds automatically, simply by reading the admin/controller/feeds folder of your store. Any product feed files existing in this folder will automatically be shown on the [Product Feeds](extension/feed/) page, and on the [User Permissions](system/user/), page. You may call your controller file my_feed.php.
+The first file you make will be the controller for your product feed's admin interface page. Arastta identifies existing product feeds automatically, simply by reading the admin/controller/feeds folder of your store. Any product feed files existing in this folder will automatically be shown on the [Product Feeds](docs/user-manual/marketplace/feeds) page, and on the [User Permissions](system/user/), page. You may call your controller file my_feed.php.
 
 The controller file will have a function defined as public function index(). This is a publicly accessible 'page', which will be shown when the [Edit button](extension/module/edit/) is clicked, and where the view form will submit to. The submitted data will be processed in this function and saved to the `settings` database table through the controller's config object.
 
-You may also have a function defined as public function install(). This function will be triggered when the install link is clicked on the [Extensions > feeds](extension/module/) page. Similarly, a function defined as public function uninstall() will be triggered when the uninstall link is clicked. You can use these functions to create and remove any structures (such as database tables or config settings) required by your feed. It is good practice to create an uninstall function to clean up any changes your feed has made.
+You may also have a function defined as public function install(). This function will be triggered when the install link is clicked on the [Extensions > feeds](docs/user-manual/appearance/modules/overview) page. Similarly, a function defined as public function uninstall() will be triggered when the uninstall link is clicked. You can use these functions to create and remove any structures (such as database tables or config settings) required by your feed. It is good practice to create an uninstall function to clean up any changes your feed has made.
 
 ### View
 
@@ -42,6 +42,6 @@ Frontend feed functionality
 
 The frontend of your feed follows the same pattern as the admin interface just described. What you will include in each of your frontend files will largely depend on what your feed is supposed to do. A feed can access any model files that already exist in Arastta, you do not need to write your own database queries if the same query already exists. For example, the catalog/product model contains many useful queries for fetching products. Using these model functions should be preferred over reinventing the wheel.
 
-A key difference in the frontend of your feed, is that your view file will be in the catalog/view/theme/(themename)/template/feed folder. This is a significantly deeper folder structure to the admin view file because of themes. An Arastta store may have many different [frontend themes](http://arastta.org/index.php?route=extension/extension&path=1) available, but only one admin template. (themename)
+A key difference in the frontend of your feed, is that your view file will be in the catalog/view/theme/(themename)/template/feed folder. This is a significantly deeper folder structure to the admin view file because of themes. An Arastta store may have many different [frontend themes]([http://themes.arastta.pro/](http://themes.arastta.pro/)) available, but only one admin template. (themename)
 
 On the frontend part of your feed you will have access to the configuration options saved by your feed, through both the controller's config object, and the $settings variable passed to the feed controller's index function. You can control aspects of the frontend display on the basis of these settings.

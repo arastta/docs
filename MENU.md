@@ -78,6 +78,7 @@
 		* Modules
 			* [Overview](user-manual/appearance/modules/overview)
 			* [Install / Uninstall](user-manual/appearance/modules/install)
+			* [Editing a Module](user-manual/appearance/modules/edit)
 	* Marketplace
 		* [Overview](user-manual/marketplace/overview)
 		* [Modifications](user-manual/marketplace/modifications)

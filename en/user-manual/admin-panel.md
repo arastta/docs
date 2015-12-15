@@ -4,6 +4,14 @@ Admin Panel
 Arastta administration
 ----------------------
 
+<div class="uk-alert-info uk-alert">
+  <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
+</div>
+<ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
+    <li><a href="">Basic Mode</a></li>
+    <li><a href="">Advanced Mode</a></li>
+</ul>
+
 Arastta's administration side of the store is where you can modify features, upload images, add products, keep track of customers, manage payments, and much more. Customization in the admin affects how the customer will interact with a store: by modifying the look, structure, and content of the store front.
 
 Accessing the admin panel
@@ -17,7 +25,7 @@ If the name of the folder is changed by you during installation, the location of
 
 ![admin login](_images/login.png)
 
-After filling in the correct username and password, pressing the "Login" button will direct you to the Arastta dashboard. When you first login to your shop, the dashboard will be blank (as seen below), because there isn't any statistical data to be analysed yet.
+After filling in the correct email and password, pressing the "Login" button will direct you to the Arastta dashboard. When you first login to your shop, the dashboard will be blank (as seen below), because there isn't any statistical data to be analysed yet.
 
 ![dashboard](_images/dashboard.png)
 
@@ -42,6 +50,14 @@ Filter is a handy tool used regularly throughout the Arastta administration. You
 
 For examples, if you would like to look up a product in the product list, you can use "Filter" as a shortcut to search for that product. This can be helpful when there is large amounts of product and you would like to edit a specific product without having to browse through every page for it. The search boxes are located in the first row above the product list.
 
-![look products filter](_images/filter.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![look products filter](_images/basic-filter.png)</li>
+    <li>![look products filter](_images/filter.png)</li>
+</ul>
 
 In the screenshot above, "nikon" is typed into the "Product Name" information field. "Filter" only displays what matches "nikon". The Nikon D300 is the only product displayed because it is the only product name containing the words "nikon" in this shop. If the "nikon" wording was present in more than one product name, the "Filter" button would display all of them.
+
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li><div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i>There is no any button named "Filter", as in advanced mode, because the button name will be changeable according what you are searching. In this example the button name is "Name", you should click on it for filtering.</div></li>
+    <li></li>
+</ul>

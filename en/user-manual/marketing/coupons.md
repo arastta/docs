@@ -1,9 +1,24 @@
 Coupons
 =======
 
+<div class="uk-alert-info uk-alert">
+  <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
+</div>
+<ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
+    <li><a href="">Basic Mode</a></li>
+    <li><a href="">Advanced Mode</a></li>
+</ul>
+
 You may create and designate coupons to specific products or product categories under **Marketing > Coupons**. The Coupons page will display a list of all the coupons created in the administration.
 
-![coupon](_images/coupons-1.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![coupon](_images/basic-coupons-1.png)
+
+### Using Bulk Actions
+
+Bulk Actions describe the process to be performed on particular Coupons. These Actions can be performed on one, or more Coupons, at one time, if those Coupons have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There is only one Bulk Action allowed, the **Delete**.</li>
+    <li>![coupon](_images/coupons-1.png)</li>
+</ul>
 
 ### General tab
 
@@ -24,7 +39,12 @@ Editing or inserting a coupon will lead the administrator to a form containing t
 - **Uses per Customer: **Limits how many times a specific customer can use the coupon.
 - **Status: **Enables or disables the coupon for use in the store front.
 
-![discount](_images/coupons-2.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![discount](_images/basic-coupons-2.png)
+
+![discount](_images/basic-coupons-3.png)</li>
+    <li>![discount](_images/coupons-2.png)</li>
+</ul>
 
 From the information in the General Tab above, we can see that this coupon gives the customer a $10 discount to the Acer Aspire product.
 

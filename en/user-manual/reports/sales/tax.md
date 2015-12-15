@@ -1,7 +1,7 @@
 Tax Report
 ==========
 
-The Tax Report can be accessed through Reports > Sales > Tax. The Tax report displays which type of tax is being paid the most by customers in the store front. Tax information is displayed in either daily, weekly, monthly, or yearly increments depending on which option you select in the "Group By" drop box.
+The Tax Report can be accessed through **Reports > Sales > Tax**. The Tax report displays which type of tax is being paid the most by customers in the store front. Tax information is displayed in either daily, weekly, monthly, or yearly increments depending on which option you select in the "Group By" drop box.
 
 The Tax Report displays the following information:
 

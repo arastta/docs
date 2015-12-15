@@ -1,7 +1,7 @@
 Orders Report
 =============
 
-The Orders Report can be accessed through Reports>Sales>Oders. Order information is displayed in either daily, weekly, monthly, or yearly increments depending on which option you select in the "Group By" drop box. The Orders report displays the following information:
+The Orders Report can be accessed through **Reports > Sales > Oders**. Order information is displayed in either daily, weekly, monthly, or yearly increments depending on which option you select in the "Group By" drop box. The Orders report displays the following information:
 
 - **Date Start:**The date of the first day of the week tracked (if set to week in Group By).
 - **Date End**: The date of the last day of the week tracked (if set to week in Group By).

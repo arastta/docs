@@ -4,6 +4,14 @@ Orders
 Managing orders
 ---------------
 
+<div class="uk-alert-info uk-alert">
+  <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
+</div>
+<ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
+    <li><a href="">Basic Mode</a></li>
+    <li><a href="">Advanced Mode</a></li>
+</ul>
+
 When a customer goes through checkout, the information on their order is automatically transferred to the Orders section for you to keep track of. In the administration, you can view all of the orders made on their site, manually add orders, or edit the details of existing orders.
 
 Viewing order details
@@ -20,7 +28,10 @@ The following details are displayed for each order on the list:
 - **Date Added**
 - **Date Modified**
 
-**![orders](_images/orders-1.png)**
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![orders](_images/basic-orders-1.png)</li>
+    <li>![orders](_images/orders-1.png)</li>
+</ul>
 
 With the orders included in the list, there is an option to edit, add new, delete, search, or print an invoice of an order.
 
@@ -37,25 +48,37 @@ Customer Orders will be automatically updated to the Order section after a custo
 
 The first section for modifying an order is called Customer Details. Typing in a customer name that has already made an account with the store will auto-complete the form by bringing up their information to fill in the blanks.
 
-![orders customer details](_images/orders-2.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![orders customer details](_images/basic-orders-2.png)</li>
+    <li>![orders customer details](_images/orders-2.png)</li>
+</ul>
 
 ### Products
 
 In "Choose Product", begin typing the product name. A drop down list will appear with products containing that name. Selecting a product from this list will bring up specific product options for this order.
 
-![orders products](_images/orders-4.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![orders products](_images/basic-orders-4.png)</li>
+    <li>![orders products](_images/orders-4.png)</li>
+</ul>
 
 ### Vouchers
 
 If a customer wants to add a gift voucher order, it will ask them for the following information.
 
-![orders vouchers](_images/orders-5.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![orders vouchers](_images/basic-orders-5.png)</li>
+    <li>![orders vouchers](_images/orders-5.png)</li>
+</ul>
 
 ### Payment details
 
 If an address has been added to the customer, select their address option under "**Choose Address**". Otherwise the customer address will need to be manually filled into the form.
 
-![orders payment details](_images/orders-3.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![orders payment details](_images/basic-orders-3.png)</li>
+    <li>![orders payment details](_images/orders-3.png)</li>
+</ul>
 
 ### Shipping details
 
@@ -67,7 +90,10 @@ Under Totals, other contributing payment factors, such as coupons and vouchers, 
 
 <div class="uk-alert uk-alert-danger uk-margin-small-left uk-margin-small-right"><i class="uk-icon-exclamation-circle"></i> Shipping and payment methods must already be set up to select a method in the order form. Otherwise, there will be nothing to select under Shipping Method and Payment Method.</div>
 
-![orders totals](_images/orders-6.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![orders totals](_images/basic-orders-6.png)</li>
+    <li>![orders totals](_images/orders-6.png)</li>
+</ul>
 
 The sections seen above (such as Coupon, Voucher, Rewards) are extensions that were enabled specifically for this form. There is an option to customize the order details included in the totals by editing, uninstalling, or enabling specific order total extensions.
 

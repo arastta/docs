@@ -4,6 +4,7 @@ How to change core files?
 While strictly modules, product feeds and extensions should be standalone and modular, some may require modifications to the Arastta core. Modifying Arastta core files greatly reduces your ability to update your store to later versions, and can affect other extensions/themes.
 
 Therefore, Arastta ships with 4 systems:
+
 1. [Translation System](docs/user-manual/system/language-overrides) for language changes
 2. [Override System](docs/developers/override-system) for HTML/CSS changes
 3. [Event System](docs/developers/event-system) for PHP changes

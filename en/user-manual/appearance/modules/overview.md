@@ -25,6 +25,6 @@ There are 18 free core modules provided with the latest version of Arastta:
 - **Specials:** Displays all the products with Specials in a product box. Specials can be added to products in the [Special tab](docs/user-manual/catalog/products/special).
 - **Store:** Creates a box for the customer to select another store to visit if there are multiple stores managed with Arastta.
 
-![core modules list](_images/modules-list.png)
+![core modules list](_images/modules.png)
 
 All of these modules can be manipulated with the Layout, Position, Status, and Sort Order tools in Modules.

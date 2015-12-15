@@ -7,7 +7,7 @@ The following information will be displayed about customer store credit:
 
 - **Customer Name**
 - **E-Mail**
-- **Customer Group:**The customer group the customer is categorized in.
+- **Customer Group**: The customer group the customer is categorized in.
 - **Status**: Shows if the customer is currently allowed to login to their store account.
 - **Total**: The total amount purchased from this customer.
 

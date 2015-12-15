@@ -37,6 +37,7 @@
 		* [Informations](user-manual/catalog/informations)
 	* Sales
 		* [Orders](user-manual/sales/orders)
+		* [Invoices](user-manual/sales/invoices)
 		* [Returns](user-manual/sales/returns)
 	* Customers
 		* [Overview](user-manual/customers/overview)
@@ -79,15 +80,20 @@
 			* [Overview](user-manual/appearance/modules/overview)
 			* [Install / Uninstall](user-manual/appearance/modules/install)
 			* [Editing a Module](user-manual/appearance/modules/edit)
+	* Extensions
+		* [Modifications](user-manual/extensions/modifications)
+		* [Extension Installer](user-manual/extensions/extension-installer)
+		* [Payments](user-manual/extensions/payments)
+		* [Shipping](user-manual/extensions/shipping)
+		* [Order Totals](user-manual/extensions/order-totals)
+		* [Facebook Store](user-manual/extensions/facebook-store)
+		* [Feeds](user-manual/extensions/feeds)
 	* Marketplace
 		* [Overview](user-manual/marketplace/overview)
-		* [Modifications](user-manual/marketplace/modifications)
-		* [Extension Installer](user-manual/marketplace/extension-installer)
-		* [Payments](user-manual/marketplace/payments)
-		* [Shipping](user-manual/marketplace/shipping)
-		* [Order Totals](user-manual/marketplace/order-totals)
-		* [Facebook Store](user-manual/marketplace/facebook-store)
-		* [Feeds](user-manual/marketplace/feeds)
+		* [Themes](user-manual/marketplace/themes)
+		* [Extensions](user-manual/marketplace/extensions)
+		* [Translations](user-manual/marketplace/translations)
+		* [Resources](user-manual/marketplace/resources)
 	* Localisation
 		* [Languages](user-manual/localisation/languages)
 		* [Currencies](user-manual/localisation/currencies)

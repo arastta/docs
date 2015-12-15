@@ -78,13 +78,13 @@ The first step is choosing which language you want to use. This is a good way fo
 
 ![arastta step2](_images/installation-step-2.png)
 
-You need to fill in the spaces by adding the database connection details (**Hostname**, **Username/Password**, **Database Name** and **Table Prefix**). Also the Advanced part (Driver) allows you to choose the database type. You can use any already created database or let Arastta create it for you during the installation.
+You need to fill in the spaces by adding the database connection details (**Hostname**, **Username/Password** and **Database Name**). Also the Advanced part (Driver) allows you to set the **Table Prefix** and choose the database type. You can use any already created database or let Arastta create it for you during the installation.
 
 ### Step 3. Settings
 
 ![arastta step3](_images/installation-step-3.png)
 
-This step allows you to add the **Store Name & E-mail** also to create a new **Admin E-mail**, **Username** and **Password** for administration access to the Arastta shop. And the Advanced part allows you to set the **Admin First & Last name**, also you can install or not the demo data.
+This step allows you to add the **Store Name & E-mail** also to create a new **Admin E-mail** and **Password** for administration access to the Arastta shop. And the Advanced part allows you to install or not the demo data.
 
 ### Step 4. Finished
 

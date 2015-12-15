@@ -1,7 +1,9 @@
 Banners
 =======
 
-Banners are pictures containing linkable images displayed in the store's store front. Banners can be utilized to catch the customer's eye and direct them to special products in the store. The Banners page under **System > Appearance > Banners** lets you customize the images and links displayed on the banners.
+Banners are pictures containing linkable images displayed in the store's store front. Banners can be utilized to catch the customer's eye and direct them to special products in the store. The Banners page under **Appearance > Banners** lets you customize the images and links displayed on the banners.
+
+![banners list](_images/banners-list.png)
 
 ### Using banners in modules
 

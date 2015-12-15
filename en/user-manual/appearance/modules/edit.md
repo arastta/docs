@@ -1,6 +1,14 @@
 Editing a Module
 ========
 
+<div class="uk-alert-info uk-alert">
+  <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
+</div>
+<ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
+    <li><a href="">Basic Mode</a></li>
+    <li><a href="">Advanced Mode</a></li>
+</ul>
+
 Modules can vary widely in purpose and function, so naturally, customizing a module to fit a particular store may vary between modules. In general, there are 4 main features of modules that can be tinkered with in the Module section:
 
 - Status
@@ -20,7 +28,10 @@ Layout
 
 The layout affects which pages the module will be included on. The pages available are listed in the screenshot below. If the module needs to be included on multiple pages, you must individually "Add Module" for each page. The Layout can only select one page at a time.
 
-![core modules list](_images/modules.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![core modules list](_images/basic-modules.png)</li>
+    <li>![core modules list](_images/modules.png)</li>
+</ul>
 
 The screenshot below shows the Featured module, which displays a list of specified products on the left side of a random Category page. This was achieved by selecting "Category" under Layout. The Featured Products box will be available on every Category page. Selecting a layout page type will add it to every page of that type. Core modules can be assigned to layout pages, but not individual pages.
 

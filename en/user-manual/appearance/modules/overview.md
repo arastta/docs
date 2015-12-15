@@ -4,6 +4,14 @@ Overview
 Core Modules Overview
 ---------------------
 
+<div class="uk-alert-info uk-alert">
+  <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
+</div>
+<ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
+    <li><a href="">Basic Mode</a></li>
+    <li><a href="">Advanced Mode</a></li>
+</ul>
+
 There are 18 free core modules provided with the latest version of Arastta:
 
 - **Account:** The User Account links (My Account, Edit Account, Order History, etc) box for the customer to access.
@@ -25,6 +33,9 @@ There are 18 free core modules provided with the latest version of Arastta:
 - **Specials:** Displays all the products with Specials in a product box. Specials can be added to products in the [Special tab](docs/user-manual/catalog/products/special).
 - **Store:** Creates a box for the customer to select another store to visit if there are multiple stores managed with Arastta.
 
-![core modules list](_images/modules.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![core modules list](_images/basic-modules.png)</li>
+    <li>![core modules list](_images/modules.png)</li>
+</ul>
 
 All of these modules can be manipulated with the Layout, Position, Status, and Sort Order tools in Modules.

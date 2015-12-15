@@ -4,9 +4,20 @@ Order Totals
 Order Totals Extensions
 -----------------------
 
-You can manage the order total extensions used for orders under Marketplace > Order Totals. These totals are extra fees that are added to the total sum of an order in the store's shopping cart. For more information on order totals, visit [Orders](docs/user-manual/sales/orders). The order total extensions below are included with the Arastta package.
+<div class="uk-alert-info uk-alert">
+  <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
+</div>
+<ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
+    <li><a href="">Basic Mode</a></li>
+    <li><a href="">Advanced Mode</a></li>
+</ul>
 
-![order totals ext](_images/order-totals.png)
+You can manage the order total extensions used for orders under **Extensions > Order Totals**. These totals are extra fees that are added to the total sum of an order in the store's shopping cart. For more information on order totals, visit [Orders](docs/user-manual/sales/orders). The order total extensions below are included with the Arastta package.
+
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![order totals ext](_images/basic-order-totals.png)</li>
+    <li>![order totals ext](_images/order-totals.png)</li>
+</ul>
 
 In the image above we can see that Coupon, Store Credit, Reward Points, Shipping, Sub-Total, Taxes, Total, and Gift Voucher extensions are enabled. These enabled order totals will be included in the checkout section. To disable any of these order total extensions, click "Edit". If you want to remove an extension, click "Uninstall".
 

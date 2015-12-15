@@ -43,11 +43,13 @@ To create a Facebook Store with Arastta you'll need to make sure that:
 
 Once your Facebook Page and App registration is complete, you can easily create a Facebook Store using the Arastta Facebook Store feature.
 
-1. Visit the Facebook Store page located in your Arastta Admin => Extensions => Feeds
-2. Click **Install** and then **Edit** buttons
+1. Visit the Facebook Store page located in your **Arastta Admin => Extensions => View All..**
+2. Change the filter to "**Type**" and select the "**Feeds**" type, then click on "Type" button
+![feeds](_images/feeds.png)
+3. Click **Install** and then **Edit** buttons
 ![facebook-admin-1](_images/facebook-admin-1.png)
-3. Add the **Facebook App ID** that you get from the Dashboard of the Facebook App.
-4. There are many options for customizing the view of the store, like Currency, Language, Category, Product Description, Product Price and more.
-5. Copy-Paste the "Generated Code" to Facebook so then your store will be integrated with Facebook.
-6. Choose modules and products you want to show on Facebook Store.
+4. Add the **Facebook App ID** that you get from the Dashboard of the Facebook App.
+5. There are many options for customizing the view of the store, like Currency, Language, Category, Product Description, Product Price and more.
+6. Copy-Paste the "**Generated Code**" to Facebook so then your store will be integrated with Facebook.
+7. Choose modules and products you want to show on Facebook Store.
 ![facebook-admin-2](_images/facebook-admin-2.png)

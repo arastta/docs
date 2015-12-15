@@ -1,18 +1,58 @@
 Shipping
 ========
 
-The shipping methods extensions can accessed under Marketplace > Shipping. The core shipping methods seen below are included with the Arastta package.
+Core shipping methods
+--------------------
 
-![shipping back end](_images/shipping.png)
+<div class="uk-alert-info uk-alert">
+  <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
+</div>
+<ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
+    <li><a href="">Basic Mode</a></li>
+    <li><a href="">Advanced Mode</a></li>
+</ul>
+
+The shipping methods extensions can accessed under **Extensions > Shipping**. The core shipping methods seen below are included with the Arastta package.
+
+- Flat Rate
+- Free Shipping
+- Per Item
+- Weight Based Shipping
+
+And these are **free** Shipping extensions provided from **Arastta Core** team:
+
+- Australia Post
+- Citylink
+- Fedex
+- Parcelforce 48
+- Pickup From Store
+- Royal Mail
+- United States Postal Service (USPS)
+- UPS
+
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![shipping back end](_images/basic-shipping.png)</li>
+    <li>![shipping back end](_images/shipping.png)</li>
+</ul>
 
 The shipping methods need to be installed before they can be enabled or disabled for the store. To Install a shipping method, click "Install" under "Action". Once the shipping method is installed, you can edit the specifications of that shipping method, or uninstall it to remove the shipping method information.
+
+Additional shipping methods can be downloaded from the Arastta [Extension Directory](http://extensions.arastta.pro/shipping-methods).
+
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>Using Bulk Actions
+--------------------
+
+Bulk Actions describe the process to be performed on particular Shipping methods. These Actions can be performed on one, or more Shipping methods, at one time, if those Shipping methods have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There are two Bulk Actions allowed, **Enable** and **Disable**.</li>
+    <li></li>
+</ul>
 
 Editing the shipping method
 ---------------------------
 
 Each shipping method needs to be individually edited to meet your shop's shipping requirements and to specify the prices for that service. There are a few details that are present across all shipping methods:
 
-- **Geo Zone**: the geographical zone that this shipping method is available to. The GeoZone can be created or configured at System > Localisation > GeoZone in the administration. For more information visit [Localisation](docs/user-manual/localisation/geo-zones).
+- **Geo Zone**: the geographical zone that this shipping method is available to. The GeoZone can be created or configured at Localisation > GeoZone in the administration. For more information visit [Localisation](docs/user-manual/localisation/geo-zones).
 - **Status**: The status determines whether the shipping method will be available in the store front.
 - **Sort Order**: The sort order affects the placement of the shipping method among other available shipping methods. A shipping method with a sort order of 1 will be positioned above another shipping method with a sorting order of 2 in the store front.
 

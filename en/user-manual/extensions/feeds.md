@@ -4,6 +4,14 @@ Feeds
 Facebook Store
 -----------------
 
+<div class="uk-alert-info uk-alert">
+  <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
+</div>
+<ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
+    <li><a href="">Basic Mode</a></li>
+    <li><a href="">Advanced Mode</a></li>
+</ul>
+
 Facebook Store is a great solution for today’s eStore owners since the social media is very important to market your products and gain more customers from all over the world. And Facebook is one of the most popular social channels where you can find millions of people from various interests. So, Facebook Store let’s you turn those people into customers by publishing your products easily on your Facebook page. You can publish any of your products, and once your visitors click any product or category, they will be redirected to your site’s relative page and they can complete the order on the site. That’s it!
 
 Here you can get more information about the [Facebook Store](docs/user-manual/extensions/facebook-store).
@@ -20,7 +28,10 @@ The Arastta package lets you connect to two product feed tools, Google Base and 
 
 In the edit section of Product Feeds, you must link to the store's Data feed urls obtained from the Google Merchant center.
 
-![feeds](_images/feeds.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![feeds](_images/basic-feeds.png)</li>
+    <li>![feeds](_images/feeds.png)</li>
+</ul>
 
 ### Support
 

@@ -4,33 +4,59 @@ Payments
 Core payment methods
 --------------------
 
-The Arastta package offers a variety of payment methods, from bank transfers to online payment gateways. The following core payment methods are available with an Arastta installation:
+<div class="uk-alert-info uk-alert">
+  <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
+</div>
+<ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
+    <li><a href="">Basic Mode</a></li>
+    <li><a href="">Advanced Mode</a></li>
+</ul>
 
-- AlertPay
-- Authorize.Net (AIM)
+The Payments methods extensions can accessed under **Extensions > Payments**. The Arastta package offers a variety of payment methods, from bank transfers to online payment gateways. The following core payment methods are available with an Arastta installation:
+
 - Bank Transfer
-- Cheque / Money Order
 - Cash On Delivery
 - Free Checkout
+- PayPal Payments Standard
+
+And these are **free** Payment extensions provided from **Arastta Core** team:
+
+- 2Checkout
+- Amazon Checkout
+- Authorize.Net (AIM - SIM)
+- BluePay (Hosted - Redirect)
+- Cheque / Money Order
+- First Data
+- Klarna (Account - Invoice)
 - LIQPAY
-- Moneybookers
 - NOCHEX
 - Paymate
+- PayPal Express
+- PayPal Payflow Pro
+- PayPal Payment Pro
 - PayPoint
+- Payza
 - Perpetual Payments
-- PayPal Website Payment Pro
-- PayPal Website Payment Pro (UK)
-- PayPal Standard
-- SagePay
-- SagePay Direct
-- SagePay (US)
-- 2Checkout
+- Realex (Redirect - Remote)
+- SagePay (Direct & SERVER)
+- Sage Payment Solutions (US)
 - Web Payment Software
 - WorldPay
 
-![payments](_images/payments.png)
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>![payments](_images/basic-payments.png)</li>
+    <li>![payments](_images/payments.png)</li>
+</ul>
 
 Additional payment methods can be downloaded from the Arastta [Extension Directory.](http://extensions.arastta.pro/payment-gateways)
+
+<ul id="doc-tabs" class="uk-switcher uk-margin">
+    <li>Using Bulk Actions
+--------------------
+
+Bulk Actions describe the process to be performed on particular Payment methods. These Actions can be performed on one, or more Payment methods, at one time, if those Payment methods have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There are two Bulk Actions allowed, **Enable** and **Disable**.</li>
+    <li></li>
+</ul>
 
 Editing a payment method
 ------------------------

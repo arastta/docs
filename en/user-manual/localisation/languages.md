@@ -20,7 +20,7 @@ You can also download the language pack from [Translations Directory](http://tra
 Settings
 --------
 
-Languages can be set up from Localisation > Languages page. The following information will be needed to save the language:
+Languages can be set up from **Localisation > Languages** page. The following information will be needed to save the language:
 
 - **Name**: The name in native language.
 - **Code**: The ISO language code. [W3Schools](http://www.w3schools.com/tags/ref_language_codes.asp) has a complete list of ISO codes.
@@ -34,7 +34,7 @@ Languages can be set up from Localisation > Languages page. The following inform
 Language determination in store front
 -------------------------------------
 
-Arastta will try to determine the store front language based on the visitor's browser settings and your installed languages. If not able to match, the one set from the Settings => Local page will be loaded as per default.
+Arastta will try to determine the store front language based on the visitor's browser settings and your installed languages. If not able to match, the one set from the **Settings > Local** page will be loaded as per default.
 
 Contribute
 ----------

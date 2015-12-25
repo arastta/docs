@@ -1,7 +1,7 @@
 Modules
 =======
 
-Writing Arastta modules can be a very good way to learn how the [fundamentals of Arastta](developer/loading/) actually work. Just as the rest of Arastta, modules follow the MVCL design pattern. Before starting, it's important to understand the [MVC Structure](http://arastta.org/docs/developers/mvc-structure) of Arastta.
+Writing Arastta modules can be a very good way to learn how the [fundamentals of Arastta](docs/developers/loading-files) actually work. Just as the rest of Arastta, modules follow the MVCL design pattern. Before starting, it's important to understand the [MVC Structure](http://arastta.org/docs/developers/mvc-structure) of Arastta.
 
 Admin module functionality
 --------------------------
@@ -19,15 +19,15 @@ All modules will require at least a single file in each of the view and controll
 
 ### Controller
 
-The first file you make will be the controller for your module's admin interface page. Arastta identifies existing modules automatically, simply by reading the admin/controller/module folder of your store. Any modules existing in this folder will automatically be shown on the [Modules](extension/module/) page, and on the [User Permissions](system/user/), page. You may call your controller file my_module.php.
+The first file you make will be the controller for your module's admin interface page. Arastta identifies existing modules automatically, simply by reading the admin/controller/module folder of your store. Any modules existing in this folder will automatically be shown on the [Modules](docs/user-manual/appearance/modules/overview) page, and on the [User Permissions](docs/user-manual/system/users/overview), page. You may call your controller file my_module.php.
 
-The controller file is the place where you can load the language files to convert text into variables to be utilized in the template file. In the diagram above, you can see the $_['text'] variable being handled by the controller, then sent as $text to the view. You will also utilize multiple model files and their class functions here, including your module's model file if it has one. For more information on loading files see [Loading files in the controller](developer/loading/).
+The controller file is the place where you can load the language files to convert text into variables to be utilized in the template file. In the diagram above, you can see the $_['text'] variable being handled by the controller, then sent as $text to the view. You will also utilize multiple model files and their class functions here, including your module's model file if it has one. For more information on loading files see [Loading files in the controller](docs/developers/loading-files).
 
-You may also have a function defined as public function install(). This function will be triggered when the install link is clicked on the [Extensions > Modules](extension/module/) page. Similarly, a function defined as public function uninstall() will be triggered when the uninstall link is clicked. You can use these functions to create and remove any structures (such as database tables or config settings) required by your module. It is good practice to create an uninstall function to clean up any changes your module has made. To see the specific code for an install(), uninstall(), visit [Install/Uninstall a module](extension/module/install/).
+You may also have a function defined as public function install(). This function will be triggered when the install link is clicked on the [Extensions > Modules](docs/user-manual/appearance/modules/overview) page. Similarly, a function defined as public function uninstall() will be triggered when the uninstall link is clicked. You can use these functions to create and remove any structures (such as database tables or config settings) required by your module. It is good practice to create an uninstall function to clean up any changes your module has made. To see the specific code for an install(), uninstall(), visit [Install/Uninstall a module](docs/user-manual/appearance/modules/install).
 
 #### Accessed via URL
 
-The controller is the only file in the MVC-L framework to be accessed by URL in Arastta. In the administration, the URL will look like /admin/index.php?route=module/my_module&token. The admin adds a token to the URL, whereas the link in the catalog will not have it. As a result, the controller file will have a function defined as public function index(). This is a publicly accessible 'page' that is loaded by the URL, which will be shown when the [Edit button](extension/module/edit/) is clicked, and where the view form will submit to. The submitted data will be processed in this function and saved to the `settings` database table through the controller's config object.
+The controller is the only file in the MVC-L framework to be accessed by URL in Arastta. In the administration, the URL will look like /admin/index.php?route=module/my_module&token. The admin adds a token to the URL, whereas the link in the catalog will not have it. As a result, the controller file will have a function defined as public function index(). This is a publicly accessible 'page' that is loaded by the URL, which will be shown when the [Edit button](docs/user-manual/appearance/modules/edit) is clicked, and where the view form will submit to. The submitted data will be processed in this function and saved to the `settings` database table through the controller's config object.
 
 ### View
 
@@ -44,6 +44,6 @@ Frontend module functionality
 
 The frontend of your module follows the same pattern as the admin interface just described. What you will include in each of your frontend files will largely depend on what your module is supposed to do. A module can access any model files that already exist in Arastta, you do not need to write your own database queries if the same query already exists. For example, the catalog/product model contains many useful queries for fetching products. Using these model functions should be preferred over reinventing the wheel.
 
-A key difference in the frontend of your module, is that your view file will be in the catalog/view/theme/(themename)/template/module folder. This is a significantly deeper folder structure to the admin view file because of themes. An Arastta store may have many different [frontend themes](http://arastta.org/index.php?route=extension/extension&path=1) available, but only one admin template. (themename)
+A key difference in the frontend of your module, is that your view file will be in the catalog/view/theme/(themename)/template/module folder. This is a significantly deeper folder structure to the admin view file because of themes. An Arastta store may have many different [frontend themes](https://themes.arastta.pro/) available, but only one admin template. (themename)
 
 On the frontend part of your module you will have access to the configuration options saved by your module, through both the controller's config object, and the $settings variable passed to the module controller's index function. You can control aspects of the frontend display on the basis of these settings.

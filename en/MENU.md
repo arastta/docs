@@ -88,6 +88,7 @@
 		* [Order Totals](user-manual/extensions/order-totals)
 		* [Facebook Store](user-manual/extensions/facebook-store)
 		* [Feeds](user-manual/extensions/feeds)
+		* [View All..](user-manual/extensions/view-all)
 	* Marketplace
 		* [Overview](user-manual/marketplace/overview)
 		* [Themes](user-manual/marketplace/themes)

@@ -17,12 +17,12 @@ Arastta has a build-in module for creating tracking links for your marketing cam
 To create your first marketing tracking link, please login your Arastta admin dashboard and refer to the Marketing section via the main navigation menu.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![campaigns list backend](_images/basic-campaigns-list.png)
+    <li markdown="1">![campaigns list backend](_images/basic-campaigns-list.png)
 
 ### Using Bulk Actions
 
 Bulk Actions describe the process to be performed on particular Coupons. These Actions can be performed on one, or more Coupons, at one time, if those Coupons have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There is only one Bulk Action allowed, the **Delete**.</li>
-    <li>![campaigns list backend](_images/campaigns-list.png)</li>
+    <li markdown="1">![campaigns list backend](_images/campaigns-list.png)</li>
 </ul>
 
 From the Marketing Tracking List page click on the Add icon to proceed with the configuration of your tracking link. Here you need to configure several settings to create your link:
@@ -34,8 +34,8 @@ From the Marketing Tracking List page click on the Add icon to proceed with the 
 **Tracking Code:** This can be any random generated string. This string will be added to the end of your URL links.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![campaigns edit backend](_images/basic-campaigns.png)</li>
-    <li>![campaigns edit backend](_images/campaigns.png)</li>
+    <li markdown="1">![campaigns edit backend](_images/basic-campaigns.png)</li>
+    <li markdown="1">![campaigns edit backend](_images/campaigns.png)</li>
 </ul>
 
 Last, you can copy the example of your tracking links. For example, if you would like to point a link to your Arastta home page and track the referrals and orders via it, you may use:

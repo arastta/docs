@@ -15,7 +15,7 @@ Catalog → Reviews
 Product reviews can be both submitted and viewed by customers on the product page. A customer can fill out a review form and submit it to be approved for publication on the site.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![reviews](_images/basic-reviews.png)
+    <li markdown="1">![reviews](_images/basic-reviews.png)
 
 In the Dashboard the administrator can view how many customer reviews are awaiting approval in the Overview section. To approve these reviews, the administrator may visit **Catalog > Reviews**, select the review, and click "edit".
 
@@ -34,7 +34,7 @@ Edit a review
  Arastta will display the author, product, and text review in separate text boxes. Selecting "enabled" under status will make the review publicly available on the product page.
 
 ![reviews](_images/basic-reviews-edit.png)</li>
-    <li>In the Dashboard the administrator can view how many customer reviews are awaiting approval in the Overview section. To approve these reviews, the administrator may visit **Catalog > Reviews**, select the review, and click "edit". Arastta will display the author, product, and text review in separate text boxes. Selecting "enabled" under status will make the review publicly available on the product page.
+    <li markdown="1">In the Dashboard the administrator can view how many customer reviews are awaiting approval in the Overview section. To approve these reviews, the administrator may visit **Catalog > Reviews**, select the review, and click "edit". Arastta will display the author, product, and text review in separate text boxes. Selecting "enabled" under status will make the review publicly available on the product page.
 
 ![reviews](_images/reviews.png)</li>
 </ul>
@@ -43,8 +43,4 @@ Edit a review
 
 The result of a customer review approval can be seen in the screenshot below. Every review is made publicly available on the product's main page after administrative approval. The average rating per product is tabulated by Arastta and shown out of 5 stars under 'Available Options'.
 
-<ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![reviews product page](_images/basic-reviews-1.png)</li>
-    <li>![reviews product page](_images/reviews-1.png)</li>
-</ul>
-
+![reviews product page](_images/reviews-1.png)

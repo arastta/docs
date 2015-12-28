@@ -31,8 +31,8 @@ And these are **free** Shipping extensions provided from **Arastta Core** team:
 - UPS
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![shipping back end](_images/basic-shipping.png)</li>
-    <li>![shipping back end](_images/shipping.png)</li>
+    <li markdown="1">![shipping back end](_images/basic-shipping.png)</li>
+    <li markdown="1">![shipping back end](_images/shipping.png)</li>
 </ul>
 
 The shipping methods need to be installed before they can be enabled or disabled for the store. To Install a shipping method, click "Install" under "Action". Once the shipping method is installed, you can edit the specifications of that shipping method, or uninstall it to remove the shipping method information.
@@ -40,7 +40,7 @@ The shipping methods need to be installed before they can be enabled or disabled
 Additional shipping methods can be downloaded from the Arastta [Extension Directory](http://extensions.arastta.pro/shipping-methods).
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>Using Bulk Actions
+    <li markdown="1">Using Bulk Actions
 --------------------
 
 Bulk Actions describe the process to be performed on particular Shipping methods. These Actions can be performed on one, or more Shipping methods, at one time, if those Shipping methods have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There are two Bulk Actions allowed, **Enable** and **Disable**.</li>

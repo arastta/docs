@@ -34,8 +34,8 @@ There are 18 free core modules provided with the latest version of Arastta:
 - **Store:** Creates a box for the customer to select another store to visit if there are multiple stores managed with Arastta.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![core modules list](_images/basic-modules.png)</li>
-    <li>![core modules list](_images/modules.png)</li>
+    <li markdown="1">![core modules list](_images/basic-modules.png)</li>
+    <li markdown="1">![core modules list](_images/modules.png)</li>
 </ul>
 
 All of these modules can be manipulated with the Layout, Position, Status, and Sort Order tools in Modules.

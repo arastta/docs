@@ -23,8 +23,8 @@ To create a new affiliate, you may click the **Add New** button on the Affiliate
 The first form asks for general information regarding the affiliate. This information can be obtained directly from the affiliate through email, or will be added automatically if they filled out a form on the Affiliate page:
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![affiliate general tab](_images/basic-affiliates-1.png)</li>
-    <li>![affiliate general tab](_images/affiliates-1.png)</li>
+    <li markdown="1">![affiliate general tab](_images/basic-affiliates-1.png)</li>
+    <li markdown="1">![affiliate general tab](_images/affiliates-1.png)</li>
 </ul>
 
 ### Payment details tab
@@ -32,8 +32,8 @@ The first form asks for general information regarding the affiliate. This inform
 The Payment Details tab configures the commission and payment methods to be paid to the affiliate:
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![affiliate payment](_images/basic-affiliates-2.png)</li>
-    <li>![affiliate payment](_images/affiliates-2.png)</li>
+    <li markdown="1">![affiliate payment](_images/basic-affiliates-2.png)</li>
+    <li markdown="1">![affiliate payment](_images/affiliates-2.png)</li>
 </ul>
 
 ### Editing an affiliate

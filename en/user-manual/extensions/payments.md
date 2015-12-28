@@ -44,14 +44,14 @@ And these are **free** Payment extensions provided from **Arastta Core** team:
 - WorldPay
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![payments](_images/basic-payments.png)</li>
-    <li>![payments](_images/payments.png)</li>
+    <li markdown="1">![payments](_images/basic-payments.png)</li>
+    <li markdown="1">![payments](_images/payments.png)</li>
 </ul>
 
 Additional payment methods can be downloaded from the Arastta [Extension Directory.](http://extensions.arastta.pro/payment-gateways)
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>Using Bulk Actions
+    <li markdown="1">Using Bulk Actions
 --------------------
 
 Bulk Actions describe the process to be performed on particular Payment methods. These Actions can be performed on one, or more Payment methods, at one time, if those Payment methods have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There are two Bulk Actions allowed, **Enable** and **Disable**.</li>

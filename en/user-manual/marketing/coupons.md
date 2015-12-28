@@ -12,12 +12,12 @@ Coupons
 You may create and designate coupons to specific products or product categories under **Marketing > Coupons**. The Coupons page will display a list of all the coupons created in the administration.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![coupon](_images/basic-coupons-1.png)
+    <li markdown="1">![coupon](_images/basic-coupons-1.png)
 
 ### Using Bulk Actions
 
 Bulk Actions describe the process to be performed on particular Coupons. These Actions can be performed on one, or more Coupons, at one time, if those Coupons have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There is only one Bulk Action allowed, the **Delete**.</li>
-    <li>![coupon](_images/coupons-1.png)</li>
+    <li markdown="1">![coupon](_images/coupons-1.png)</li>
 </ul>
 
 ### General tab
@@ -40,10 +40,10 @@ Editing or inserting a coupon will lead the administrator to a form containing t
 - **Status: **Enables or disables the coupon for use in the store front.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![discount](_images/basic-coupons-2.png)
+    <li markdown="1">![discount](_images/basic-coupons-2.png)
 
 ![discount](_images/basic-coupons-3.png)</li>
-    <li>![discount](_images/coupons-2.png)</li>
+    <li markdown="1">![discount](_images/coupons-2.png)</li>
 </ul>
 
 From the information in the General Tab above, we can see that this coupon gives the customer a $10 discount to the Acer Aspire product.

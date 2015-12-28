@@ -12,8 +12,8 @@ Banners
 Banners are pictures containing linkable images displayed in the store's store front. Banners can be utilized to catch the customer's eye and direct them to special products in the store. The Banners page under **Appearance > Banners** lets you customize the images and links displayed on the banners.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![banners list](_images/basic-banners-list.png)</li>
-    <li>![banners list](_images/banners-list.png)</li>
+    <li markdown="1">![banners list](_images/basic-banners-list.png)</li>
+    <li markdown="1">![banners list](_images/banners-list.png)</li>
 </ul>
 
 ### Using banners in modules
@@ -27,10 +27,10 @@ If you want to create a new carousel banner displaying all the manufacturer logo
 - **Image:** add an image using the [Image Manager](docs/faq/image-manager).
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![banners](_images/basic-banners.png)
+    <li markdown="1">![banners](_images/basic-banners.png)
 
 ![banners](_images/basic-banners.png)</li>
-    <li>![banners](_images/banners.png)</li>
+    <li markdown="1">![banners](_images/banners.png)</li>
 </ul>
 
 You may add as many banners to the banner as necessary. Under [Modules](docs/user-manual/appearance/modules/overview), you can edit the Carousel to display the "Manufacturers Banner". The image below is the screenshot of the home page after the Carousel was assigned the Manufacturers banner. All the manufacturer logos that were added to the Manufacturers banner in the administration can be scrolled through in the store front.

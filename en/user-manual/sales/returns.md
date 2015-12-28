@@ -26,13 +26,13 @@ The following details are displayed for each return on the list:
 - **Date Modified**
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![product returns](_images/basic-returns.png)
+    <li markdown="1">![product returns](_images/basic-returns.png)
 
 Using Bulk Actions
 -----------------------------
 
 Bulk Actions describe the process to be performed on particular Returns. These Actions can be performed on one, or more Returns, at one time, if those Returns have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There is only one Bulk Action allowed, the **Delete**.</li>
-    <li>![product returns](_images/returns.png)</li>
+    <li markdown="1">![product returns](_images/returns.png)</li>
 </ul>
 
 Adding a new return
@@ -53,8 +53,8 @@ Filling in the Returns Details tab is the first step in creating a new return. T
 - **Telephone**
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![orders return details](_images/basic-returns-1.png)</li>
-    <li>![orders return details](_images/returns-1.png)</li>
+    <li markdown="1">![orders return details](_images/basic-returns-1.png)</li>
+    <li markdown="1">![orders return details](_images/returns-1.png)</li>
 </ul>
 
 ### Products
@@ -62,8 +62,8 @@ Filling in the Returns Details tab is the first step in creating a new return. T
 The Products section fills out more information about the product that was returned, and why it was returned. You will need to manually type in the product that the customer returned. Typing in "Apple" will bring up all the apple products in the store. We selected the Apple Cinema 30" from the drop down, and the "Model" space was auto-completed for us. You may also include the quantity, the return reason, whether or not the product was opened, the customer's comments, the return action (credit issued, refunded, replacement sent), and return status (awaiting products, complete, pending). The return status names can be added in the [return statuses](docs/user-manual/localisation/returns) section.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![orders return products](_images/basic-returns-2.png)</li>
-    <li>![orders return products](_images/returns-2.png)</li>
+    <li markdown="1">![orders return products](_images/basic-returns-2.png)</li>
+    <li markdown="1">![orders return products](_images/returns-2.png)</li>
 </ul>
 
 Editing a return

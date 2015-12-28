@@ -14,10 +14,10 @@ Managing the in's and out's of the admin side of an online store can be quite th
 With the user groups set up, the individual users can be saved to the administration side of your store under **System → Users → Users**. Clicking "**Add New**" will bring you to the user form below. Aside from the basic user information, a password must be created for the user to login to the dashboard. The User Group selected from the drop down box will assign specific permissions to the user. The status lets you choose to enable the user to be able to login, or disable the user from logging in to the dashboard.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![user detail back end](_images/basic-user-detail.png)
+    <li markdown="1">![user detail back end](_images/basic-user-detail.png)
 
 ![user detail back end](_images/basic-user-detail-1.png)</li>
-    <li>![user detail back end](_images/user-detail.png)</li>
+    <li markdown="1">![user detail back end](_images/user-detail.png)</li>
 </ul>
 
 ### Permission denied

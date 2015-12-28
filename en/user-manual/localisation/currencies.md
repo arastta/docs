@@ -14,8 +14,8 @@ The currency sections lets you select which currencies are available for use in 
 In the store below, we have enabled the Euro, Pound, and US Dollar.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![currency backend page](_images/basic-currencies-1.png)</li>
-    <li>![currency backend page](_images/currencies-1.png)</li>
+    <li markdown="1">![currency backend page](_images/basic-currencies-1.png)</li>
+    <li markdown="1">![currency backend page](_images/currencies-1.png)</li>
 </ul>
 
 The following information is needed about a currency to add it to your store:
@@ -29,6 +29,6 @@ The following information is needed about a currency to add it to your store:
 - **Status:** Enables or disables the currency in the store front.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![adding currencey](_images/basic-currencies-2.png)</li>
-    <li>![adding currencey](_images/currencies-2.png)</li>
+    <li markdown="1">![adding currencey](_images/basic-currencies-2.png)</li>
+    <li markdown="1">![adding currencey](_images/currencies-2.png)</li>
 </ul>

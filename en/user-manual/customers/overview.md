@@ -34,12 +34,12 @@ When a customer creates an account or completes the checkout process, Arastta wi
 In the case of locating a specific customer, type in the necessary customer information in the spaces below. Clicking "**Filter**" will locate specific customers matching the information typed in. This saves you the time of sorting through pages of customers to find a specific person.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![customer filter](_images/basic-customers-1.png)
+    <li markdown="1">![customer filter](_images/basic-customers-1.png)
 
 ### Using Bulk Actions
 
 Bulk Actions describe the process to be performed on particular Customers. These Actions can be performed on one, or more Customers, at one time, if those Customers have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There is only one Bulk Action allowed, the **Delete**.</li>
-    <li>![customer filter](_images/customers-1.png)</li>
+    <li markdown="1">![customer filter](_images/customers-1.png)</li>
 </ul>
 
 ### Manually adding a new customer
@@ -51,8 +51,8 @@ Customer accounts usually don't need to be created in the administration panel, 
 The general tab asks for the customer's basic information: "**First Name**", "**Last Name**", "**E-Mail**", and "**Telephone**". A password must be submitted for the customer to access the site privately. Under "Confirm", retype the password. Enabling "Newsletter" will put this customer on the e-mail newsletter list. Later on, you can categorize this customer into a specific customer group. The customer will be categorized into "**Default**" if there isn't a defined customer group available. The status determines whether or not this customer will be allowed to access the store's login.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![customers general](_images/basic-customers-2.png)</li>
-    <li>![customers general](_images/customers-2.png)</li>
+    <li markdown="1">![customers general](_images/basic-customers-2.png)</li>
+    <li markdown="1">![customers general](_images/customers-2.png)</li>
 </ul>
 
 ### Adding an address
@@ -60,8 +60,8 @@ The general tab asks for the customer's basic information: "**First Name**", "**
 Obtaining the customer's address is important for shipping products to the customer. Clicking the Green '+' button will add the "Address 1" address form. You may add as many addresses as needed with the green button, or remove them with the red '-' button. The "**First Name**", "**Last Name**", "**Address 1**", "**City**", "**Postcode**", "**Country**", and "**Region/State**" are required fields in the address form.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![customers address](_images/basic-customers-3.png)</li>
-    <li>![customers address](_images/customers-3.png)</li>
+    <li markdown="1">![customers address](_images/basic-customers-3.png)</li>
+    <li markdown="1">![customers address](_images/customers-3.png)</li>
 </ul>
 
 When the above fields have been filled in, click "Save" to save the form to the administration. You don't need to worry about the customer's IP address for keeping track of credits, unless you need to know your customer's regional location.
@@ -75,8 +75,8 @@ The Customer section will mostly be used to modify existing customer information
 The Credits tab is where you may manually add a credit to the customer. To do so, enter in the description of the credit, the amount paid, and click "**Add Credit**". Every credit added will be listed in the Credits tab.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![customers credits](_images/basic-customers-4.png)</li>
-    <li>![customers credits](_images/customers-4.png)</li>
+    <li markdown="1">![customers credits](_images/basic-customers-4.png)</li>
+    <li markdown="1">![customers credits](_images/customers-4.png)</li>
 </ul>
 
 ### Adding reward points
@@ -84,8 +84,8 @@ The Credits tab is where you may manually add a credit to the customer. To do so
 If you choose to enable reward points for the store, points may be manually added to specific customers in the admin side of your store. Reward points can be added to products, which will be assigned to customers once they purchase that product. If you choose to add reward points directly to customers, you can include a reason in the description and the amount of points under the Reward Points tab. If you need to subtract points from a customer, you can enter in a negative number into the points field.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![customers rewards](_images/basic-customers-5.png)</li>
-    <li>![customers rewards](_images/customers-5.png)</li>
+    <li markdown="1">![customers rewards](_images/basic-customers-5.png)</li>
+    <li markdown="1">![customers rewards](_images/customers-5.png)</li>
 </ul>
 
 A list will be displayed of every addition and subtraction event in the customer's profile. The balance will display the total reward points accumulated by the customer. Arastta calculates the balance of negative and positive numbers to subtract from or add to the total.

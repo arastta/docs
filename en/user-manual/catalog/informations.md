@@ -21,14 +21,14 @@ The Information page can be found under **Catalog > Information**. On this page 
 <div class="uk-alert uk-alert-success uk-margin-small-left uk-margin-small-right"><i class="uk-icon-check-circle"></i> About Us, Delivery Information, Privacy Policy, and Terms & Conditions are in the default because they are the most important Information pages used in online stores. We recommend that you edit these pages rather than delete them.</div>
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![information backend](_images/basic-information-1.png)</li>
-    <li>![information backend](_images/information-1.png)</li>
+    <li markdown="1">![information backend](_images/basic-information-1.png)</li>
+    <li markdown="1">![information backend](_images/information-1.png)</li>
 </ul>
 
 When editing or inserting these pages a description may be added, pages enabled or disabled, and SEO keywords created. There is an option to remove the page from the bottom of the footer.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>### Using Bulk Actions
+    <li markdown="1">### Using Bulk Actions
 
 Bulk Actions describe the process to be performed on particular Informations. These Actions can be performed on one, or more Informations, at one time, if those Informations have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There are three Bulk Actions allowed, **Enable**, **Disable**, and **Delete**.</li>
     <li></li>
@@ -41,8 +41,8 @@ In the screenshot below, the "Delivery Information" page is being edited in the 
 The Data tab requires you to check the store that the Information page will be located in, if you have multiple stores. It also asks for a SEO keyword, a status option enabled (or disabled) to make the page public or not, and a sorting order.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![information backend](_images/basic-information-2.png)</li>
-    <li>![information backend](_images/information-2.png)</li>
+    <li markdown="1">![information backend](_images/basic-information-2.png)</li>
+    <li markdown="1">![information backend](_images/information-2.png)</li>
 </ul>
 
 The screenshot below is the result of saving the edited Delivery Information. A customer can access this page from the footer of any page in the store front by clicking "Delivery Information". There is an option in the Data tab above to remove a link to this page from the footer.

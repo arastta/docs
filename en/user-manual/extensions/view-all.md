@@ -19,11 +19,11 @@ This section contains all extensions in a list. All types of extensions like Pay
 Additional extensions can also be downloaded to the store from [Extension Directory](http://extensions.arastta.pro/).
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![marketplace](_images/basic-view-all.png)
+    <li markdown="1">![marketplace](_images/basic-view-all.png)
 
 Using Bulk Actions
 --------------------
 
 Bulk Actions describe the process to be performed on particular extensions. These Actions can be performed on one, or more extensions, at one time, if those extensions have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There are two Bulk Actions allowed, **Enable** and **Disable**.</li>
-    <li>![marketplace](_images/view-all.png)</li>
+    <li markdown="1">![marketplace](_images/view-all.png)</li>
 </ul>

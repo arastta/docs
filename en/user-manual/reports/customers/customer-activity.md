@@ -20,6 +20,6 @@ The customer activity report displays the following information:
 - **Date Added**: The date of the activity.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![customer activity report](_images/basic-customer-activity-report.png)</li>
-    <li>![customer activity report](_images/customer-activity-report.png)</li>
+    <li markdown="1">![customer activity report](_images/basic-customer-activity-report.png)</li>
+    <li markdown="1">![customer activity report](_images/customer-activity-report.png)</li>
 </ul>

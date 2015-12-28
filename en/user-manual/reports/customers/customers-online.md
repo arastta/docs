@@ -22,6 +22,6 @@ The customers online report displays the following information:
 - **Last Click**: The last click date & time activity.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![customers online report](_images/basic-customers-online-report.png)</li>
-    <li>![customers online report](_images/customers-online-report.png)</li>
+    <li markdown="1">![customers online report](_images/basic-customers-online-report.png)</li>
+    <li markdown="1">![customers online report](_images/customers-online-report.png)</li>
 </ul>

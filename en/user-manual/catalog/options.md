@@ -17,7 +17,7 @@ The Options section, under Catalog, lets you customize what details the customer
 The image below displays the default options, but you can choose to edit or delete any of them. Essentially, the options can be created to fit whatever added specifications are needed for the customer to purchase the product. The "**Add New**" button will direct you towards creating a new option.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![options](_images/basic-options.png)
+    <li markdown="1">![options](_images/basic-options.png)
 
 Using Bulk Actions
 ------------------
@@ -25,7 +25,7 @@ Using Bulk Actions
 Bulk Actions describe the process to be performed on particular Options. These Actions can be performed on one, or more Options, at one time, if those Options have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. The only Bulk Action allowed is **Delete**.
 
 ![options bulk action](_images/basic-options-bulk-action.png)</li>
-    <li>![options](_images/options.png)</li>
+    <li markdown="1">![options](_images/options.png)</li>
 </ul>
 
 For example, if you wanted the customer to choose a size for a particular product before checking out, you can create a "Size" option.
@@ -38,8 +38,8 @@ The "Type" dropbox will show a variety of ways to display this option:
 - **Date**: Date", Time", Date & Time"
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![options size](_images/basic-options-1.png)</li>
-    <li>![options size](_images/options-1.png)</li>
+    <li markdown="1">![options size](_images/basic-options-1.png)</li>
+    <li markdown="1">![options size](_images/options-1.png)</li>
 </ul>
 
 For the "size" option, three option value's were created : "**Small**", "**Medium**", and "**Large**". Images could be added for the option, but since it is referring to size the option value name will suffice. If the option was "**Color**", having images of the color would be appropriate.
@@ -70,14 +70,14 @@ The "Choose" Type lets the customer select specific option values. Among these c
 - **Image**: Gives a radio selection next to small uploaded images.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>In our stock we have different colors of classic iPods: black, silver, and white. The Option Name to describe these colors will be "Color". We decided that we want to use a radio type option to display the color options. We want this option to be the first option in the list, so we gave it a sort order of 1. We added 3 option value names for our colors: **Black**, **White**, **Silver**. If we wanted to, we could have uploaded an image of the iPods in their different colors next to their respective value names using the [Image Manager](docs/faq/image-manager).
+    <li markdown="1">In our stock we have different colors of classic iPods: black, silver, and white. The Option Name to describe these colors will be "Color". We decided that we want to use a radio type option to display the color options. We want this option to be the first option in the list, so we gave it a sort order of 1. We added 3 option value names for our colors: **Black**, **White**, **Silver**. If we wanted to, we could have uploaded an image of the iPods in their different colors next to their respective value names using the [Image Manager](docs/faq/image-manager).
 
 ![option color](_images/basic-adding-options.png)
 
 Next we will move to the [Options tab](docs/user-manual/catalog/products/option) to add our option to a product under **Catalog > Products**. This section is different than the Options section under Catalog because it will directly assign a previously created option to a product. We clicked the green '+' icon and typed in Color to bring up our "Color" option that we made under **Catalog > Options**. In the Option Value column, we added 3 values to enable the Black, Silver, and White option values to be displayed. We could add an increase or decrease in price for select colors, but we choose not to.
 
 ![option color product](_images/basic-adding-options-1.png)</li>
-    <li>In our stock we have different colors of classic iPods: black, silver, and white. The Option Name to describe these colors will be "Color". We decided that we want to use a radio type option to display the color options. We want this option to be the first option in the list, so we gave it a sort order of 1. We added 3 option value names for our colors: Black, White, Silver. If we wanted to, we could have uploaded an image of the iPods in their different colors next to their respective value names using the [Image Manager](docs/faq/image-manager).
+    <li markdown="1">In our stock we have different colors of classic iPods: black, silver, and white. The Option Name to describe these colors will be "Color". We decided that we want to use a radio type option to display the color options. We want this option to be the first option in the list, so we gave it a sort order of 1. We added 3 option value names for our colors: Black, White, Silver. If we wanted to, we could have uploaded an image of the iPods in their different colors next to their respective value names using the [Image Manager](docs/faq/image-manager).
 
 ![option color](_images/adding-options.png)
 
@@ -95,15 +95,15 @@ Saving this Color option under the Options tab will automatically change how thi
 The file type requires the customers to upload a file of their own before adding the product to their cart. In our example, we want the customer to upload an image file before checking out so that we can add the image to a custom iPod case. There is only one option under File Type called File.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![ipod case custom image](_images/basic-adding-options-3.png)</li>
-    <li>![ipod case custom image](_images/adding-options-3.png)</li>
+    <li markdown="1">![ipod case custom image](_images/basic-adding-options-3.png)</li>
+    <li markdown="1">![ipod case custom image](_images/adding-options-3.png)</li>
 </ul>
 
 When we move to the Option tab under the **Catalog > Product** to add the option to the product, there is only an selection to require the file or not. There isn't any option values since it is up to the user to upload their own file from their computer.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![ipod case custom image product](_images/basic-adding-options-4.png)</li>
-    <li>![ipod case custom image product](_images/adding-options-4.png)</li>
+    <li markdown="1">![ipod case custom image product](_images/basic-adding-options-4.png)</li>
+    <li markdown="1">![ipod case custom image product](_images/adding-options-4.png)</li>
 </ul>
 
 The result of saving this option can be seen on the iPod Classic product page. The sort order of 2 set the file type option below the Color option. When the customer clicks on the "Upload File" button, they can select a file from their computer that will be included in the checkout.
@@ -117,16 +117,16 @@ The Date type allows for three different types of selection: Date, Time, or Date
 For our product, we want the customer to include a specified date for delivery, so we title the Option Name as "Delivery Date". We select the Date type because we don't want the exact time to be included. We added a sort order of 4 because we want this to be the last option viewed before the customer adds the product to their cart.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![delivery date](_images/basic-adding-options-6.png)</li>
-    <li>![delivery date](_images/adding-options-6.png)</li>
+    <li markdown="1">![delivery date](_images/basic-adding-options-6.png)</li>
+    <li markdown="1">![delivery date](_images/adding-options-6.png)</li>
 </ul>
 
 
 In the Option tab we can determine if it is a required option and what date we want included in the space. The customer can change the date using the calendar on the product page, so the date of the option value doesn't matter too much.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![delivery date porduct](_images/basic-adding-options-7.png)</li>
-    <li>![delivery date porduct](_images/adding-options-7.png)</li>
+    <li markdown="1">![delivery date porduct](_images/basic-adding-options-7.png)</li>
+    <li markdown="1">![delivery date porduct](_images/adding-options-7.png)</li>
 </ul>
 
 
@@ -139,15 +139,15 @@ The result of the date type can be seen in the product page image below. The Del
 The Input type allows for a text or text area option. The difference between text and text area is that text is one line of blank text to be filled in, while text area gives more space for longer comments. For our iPod Classic we decided that we need an Engraved Name option to engrave the name of the customer on the iPod. We need the customer to type in their first and last name, so we chose the text type. We gave a sort order of 3 because we want the Engraved Name option to be above the Delivery Date.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![engraved name](_images/basic-adding-options-9.png)</li>
-    <li>![engraved name](_images/adding-options-9.png)</li>
+    <li markdown="1">![engraved name](_images/basic-adding-options-9.png)</li>
+    <li markdown="1">![engraved name](_images/adding-options-9.png)</li>
 </ul>
 
 In the Options Tab under Products we decided that this option doesn't need to be required to check out. In the Option Value we filled in "First and Last Name" so the customer knows to enter their first and last name in the box.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![engraved name product](_images/basic-adding-options-10.png)</li>
-    <li>![engraved name product](_images/adding-options-10.png)</li>
+    <li markdown="1">![engraved name product](_images/basic-adding-options-10.png)</li>
+    <li markdown="1">![engraved name product](_images/adding-options-10.png)</li>
 </ul>
 
 When the option is saved to the product, we can see the Engrave Name section under Ipod Case Custom Image and above Delivery Date. The red asterick is missing because we chose "No" under "Required". The option value shows "First and Last Name" in the box, but the customer can type their own name in that area.

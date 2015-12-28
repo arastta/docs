@@ -22,7 +22,7 @@ The Product section, accessed under Catalog, will display all the products avail
 Every row of product will contain the following information:
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>- **Image**
+    <li markdown="1">- **Image**
 - **Product Name**
 - **Price**
 - **Quantity**
@@ -31,7 +31,7 @@ Every row of product will contain the following information:
 Checking an individual box in the first column will select the product information within the same row. Once selected, you can choose to "**Enable**", "**Disable**" or "**Delete**" the product.
 
 ![products](_images/basic-products.png)</li>
-    <li>- **Image**
+    <li markdown="1">- **Image**
 - **Product Name**
 - **Model**
 - **Category**
@@ -47,7 +47,7 @@ Checking an individual box in the first column will select the product informati
 If you would like to look up a product in the product list, you can use "Filter" as a shortcut to search for it. For more information on the Filter tool, visit Filter. Pressing "**Add New**" in the top right corner will direct the administrator to a form to add new products.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>Using Bulk Actions and Quick Edit
+    <li markdown="1">Using Bulk Actions and Quick Edit
 -----------------------------
 
 Bulk Actions describe the process to be performed on particular Products. These Actions can be performed on one, or more Products, at one time, if those Products have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There are three Bulk Actions allowed, **Enable**, **Disable**, and **Delete**.
@@ -70,8 +70,8 @@ To delete the default products:
 3. Press "OK" when a window pops up asking "Delete/Install cannot be undone! Are you sure you want to do this?".
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>There should now be a blank list to add individual products to. The "**Add New**" button directs the administrator to a page requiring product information.</li>
-    <li>There should now be a blank list to add individual products to. The "**Add New**" button directs the administrator to a page requiring product information under the following tabs:
+    <li markdown="1">There should now be a blank list to add individual products to. The "**Add New**" button directs the administrator to a page requiring product information.</li>
+    <li markdown="1">There should now be a blank list to add individual products to. The "**Add New**" button directs the administrator to a page requiring product information under the following tabs:
 
 - [General](docs/user-manual/catalog/products/general)
 - [Data](docs/user-manual/catalog/products/data/)
@@ -92,7 +92,7 @@ Before products are added to the administration, product categories must already
 <div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Arastta currently only allows products to be added one at a time, not in mass quantity. Extensions can be purchased to add large amounts of product at once. See Product import for more information.</div>
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>Create a product
+    <li markdown="1">Create a product
 ------------------
 
 There are five sections of information associated with each new Product: the General, Image, Data, Enabled, Publish, Links, and Option. 

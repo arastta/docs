@@ -29,8 +29,8 @@ The Arastta package lets you connect to two product feed tools, Google Base and 
 In the edit section of Product Feeds, you must link to the store's Data feed urls obtained from the Google Merchant center.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![feeds](_images/basic-feeds.png)</li>
-    <li>![feeds](_images/feeds.png)</li>
+    <li markdown="1">![feeds](_images/basic-feeds.png)</li>
+    <li markdown="1">![feeds](_images/feeds.png)</li>
 </ul>
 
 ### Support

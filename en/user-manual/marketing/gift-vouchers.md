@@ -6,7 +6,7 @@ Gift vouchers can be individually sent to customers through their email by other
 <div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Gift Vouchers only have one use per customer. If the customer uses the same code for another order, Arastta will display the warning "Warning: Gift Voucher is either invalid or the balance has been used up!"</div>
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>### Using Bulk Actions
+    <li markdown="1">### Using Bulk Actions
 
 Bulk Actions describe the process to be performed on particular Gift Vouchers. These Actions can be performed on one, or more Gift Vouchers, at one time, if those Gift Vouchers have been previously selected. Bulk Actions are available, when appropriate, as choices in the Actions pulldown box, above each Table. There is only one Bulk Action allowed, the **Delete**.</li>
     <li></li>
@@ -28,8 +28,8 @@ To create a new gift voucher, click "**Add New**". The following information wil
 - **Status**: Enables or disables the gift voucher.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![gift voucher general](_images/basic-gift-vouchers.png)</li>
-    <li>![gift voucher general](_images/gift-vouchers.png)</li>
+    <li markdown="1">![gift voucher general](_images/basic-gift-vouchers.png)</li>
+    <li markdown="1">![gift voucher general](_images/gift-vouchers.png)</li>
 </ul>
 
 Voucher history tab
@@ -43,8 +43,8 @@ Voucher themes
 The Voucher Themes section alters the image displayed in the email according to the theme. In the store front, customers purchasing the voucher for a person can choose a theme for voucher.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![gift voucher theme](_images/basic-gift-vouchers-theme.png)</li>
-    <li>![gift voucher theme](_images/gift-vouchers-theme.png)</li>
+    <li markdown="1">![gift voucher theme](_images/basic-gift-vouchers-theme.png)</li>
+    <li markdown="1">![gift voucher theme](_images/gift-vouchers-theme.png)</li>
 </ul>
 
 Emailing a gift voucher to a customer
@@ -53,8 +53,8 @@ Emailing a gift voucher to a customer
 Once a gift voucher has been created, you are responsible for sending out the email to the customer receiving the gift voucher. After you make sure the customer's email information has been filled out in the General Tab, you can send the email by clicking "Send" under "Action". If the email was sent, Arastta will display the message: "**Success: Gift Voucher e-mail has been sent!**".
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![gift voucher send](_images/basic-gift-vouchers-email-1.png)</li>
-    <li>![gift voucher send](_images/gift-vouchers-email-1.png)</li>
+    <li markdown="1">![gift voucher send](_images/basic-gift-vouchers-email-1.png)</li>
+    <li markdown="1">![gift voucher send](_images/gift-vouchers-email-1.png)</li>
 </ul>
 
 The screenshot below is how the customer will view the Gift Voucher email in their email:

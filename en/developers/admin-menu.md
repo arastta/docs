@@ -9,7 +9,7 @@ Example
 ```
 <?php
 
-class EventAppDemo extends Event {
+class EventMenuDemo extends Event {
 
 	public function preAdminMenuRender(&$menu) {
 		$p_test = $this->user->hasPermission('access','catalog/category');
@@ -27,6 +27,8 @@ class EventAppDemo extends Event {
 	}
 }
 ```
+
+You should put this *demo.php* file into the *admin/event/menu* folder.
 
 Live
 ----

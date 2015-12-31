@@ -42,6 +42,12 @@ admin/event/app/
 
 **app** folder is general folder. Listeners under that folder can listen all of the events, no matter from where they're being fired.
 
+You can also add custom folders located under the *event* folder, before triggering the event:
+
+```
+$this->trigger->addFolder('myfolder');
+```
+
 You're totally free with the file name and so on the suffix of the class, the trigger system will fire all of the files/listeners under the "proper" and "app" folders.
 
 A listener file/class can listen unlimited events.
@@ -57,13 +63,13 @@ admin/event/module/foo.php
 ```
 class EventModuleFoo extends Event {
 
-    public function preAdminCdAdd(&$data) {
-        $data['name'] = 'My Foo';
+    public function preAdminCdAdd(&$artist, &producer) {
+        $artist['name'] = 'My Foo';
     }
 }
 ```
 
-As shown above, the *pre.admin.cd.add* turned into *preAdminCdAdd* as event. Because of the $data variable is being [passed by reference](http://php.net/manual/en/language.references.pass.php), the original source will be automatically changed. In our case, we're changing the name of the CD before being stored in library/database!
+As shown above, the *pre.admin.cd.add* turned into *preAdminCdAdd* as event. Because of the $artist variable is being [passed by reference](http://php.net/manual/en/language.references.pass.php), the original source will be automatically changed. In our case, we're changing the artist name of the CD before being stored in library/database!
 
 The *Event* class is similar as Controller/Model so you can use registry/config there.
 
@@ -80,11 +86,11 @@ catalog/event/account/demo.php
 Triggering events is pretty easy thanks to the Trigger class as shown via the following code:
 
 ```
-$this->trigger->fire('pre.admin.cd.add', $data);
+$results = $this->trigger->fire('pre.admin.cd.add', array(&$artist, &producer));
 ```
 
 Events can be fired only from controller and/or model files.
 
-The $data parameter is automatically passed by reference which allows the listeners to change the variables passed in. All listeners will receive these parameters, process them and optionally pass back information. The calling code can access the returned values via the array $results (each element corresponds to the result of one event).
+Here we have passed in the artist and producer of the CD. Which and how many parameters you pass is up to you. Passing parameters by reference (using an &) allows the listeners to change the variables passed in. All listeners will receive these parameters, process them and optionally pass back information. The calling code can access the returned values via the array $results (each element corresponds to the result of one listener).
 
 > The trigger system applicable for both **admin** and **catalog** sides.

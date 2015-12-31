@@ -63,8 +63,8 @@ admin/event/module/foo.php
 ```
 class EventModuleFoo extends Event {
 
-    public function preAdminCdAdd(&$artist, &producer) {
-        $artist['name'] = 'My Foo';
+    public function preAdminCdAdd(&$artist, $producer) {
+        $artist['name'] = 'My Foo ' . $producer['name'];
     }
 }
 ```
@@ -86,7 +86,7 @@ catalog/event/account/demo.php
 Triggering events is pretty easy thanks to the Trigger class as shown via the following code:
 
 ```
-$results = $this->trigger->fire('pre.admin.cd.add', array(&$artist, &producer));
+$results = $this->trigger->fire('pre.admin.cd.add', array(&$artist, $producer));
 ```
 
 Events can be fired only from controller and/or model files.

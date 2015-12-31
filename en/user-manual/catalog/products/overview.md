@@ -46,7 +46,7 @@ Checking an individual box in the first column will select the product informati
 
 If you would like to look up a product in the product list, you can use "Filter" as a shortcut to search for it. For more information on the Filter tool, visit Filter. Pressing "**Add New**" in the top right corner will direct the administrator to a form to add new products.
 
-<ul id="doc-tabs" class="uk-switcher uk-margin">
+<ul id="doc-tabs1" class="uk-switcher uk-margin">
     <li markdown="1">Using Bulk Actions and Quick Edit
 -----------------------------
 
@@ -55,7 +55,7 @@ Bulk Actions describe the process to be performed on particular Products. These 
 The following fields can be change via the Quick Edit Action: **Image**, **Product Name**, **Price**, **Quantity**, **Status**.
 
 ![products bulk action](_images/basic-products-bulk-action.png)</li>
-    <li></li>
+    <li> </li>
 </ul>
 
 Managing and adding products in the catalog
@@ -69,7 +69,7 @@ To delete the default products:
 2. Click the "Delete" button on the top right side.
 3. Press "OK" when a window pops up asking "Delete/Install cannot be undone! Are you sure you want to do this?".
 
-<ul id="doc-tabs" class="uk-switcher uk-margin">
+<ul id="doc-tabs2" class="uk-switcher uk-margin">
     <li markdown="1">There should now be a blank list to add individual products to. The "**Add New**" button directs the administrator to a page requiring product information.</li>
     <li markdown="1">There should now be a blank list to add individual products to. The "**Add New**" button directs the administrator to a page requiring product information under the following tabs:
 
@@ -91,7 +91,7 @@ Before products are added to the administration, product categories must already
 
 <div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Arastta currently only allows products to be added one at a time, not in mass quantity. Extensions can be purchased to add large amounts of product at once. See Product import for more information.</div>
 
-<ul id="doc-tabs" class="uk-switcher uk-margin">
+<ul id="doc-tabs3" class="uk-switcher uk-margin">
     <li markdown="1">Create a product
 ------------------
 

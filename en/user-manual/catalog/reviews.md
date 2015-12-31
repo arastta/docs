@@ -26,7 +26,7 @@ Bulk Actions describe the process to be performed on particular Reviews. These A
 
 The following fields can be change via the Quick Edit Action: **Author**, **Rating**, **Status**, **Date Added**.
 
-![manufacturers bulk action](_images/reviews-bulk-action.png)
+![reviews bulk action](_images/basic-reviews-bulk-action.png)
 
 Edit a review
 ------------

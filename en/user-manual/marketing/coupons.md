@@ -32,6 +32,9 @@ Editing or inserting a coupon will lead the administrator to a form containing t
 - **Customer Login: **Selecting 'yes' requires the customer to be logged into their store account to use the coupon. Selecting 'no' will let a customer use the coupon as a guest.
 - **Free Shipping: **Selecting 'yes' gives the customer free shipping for using the discount code.
 - **Products: **Individual products can be selected by entering in the product name in the space provided. To remove a product from the discount, click the red minus button in the product list below it.
+
+<div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> <b>Update in version 1.2.7 :</b> It will let you select products by searching the Model and Title in <b>Products</b> field. This will be very helpful if you are using same title on different products. See <a href="https://github.com/arastta/arastta/issues/353">Github</a> for more information.</div>
+
 - **Category: **Selecting a product category will apply the discount to all products within that category. See [Categories](docs/user-manual/catalog/categories/overview) for more information on how to create a new product category.
 - **Date Start: **The first day that the discount can be used.
 - **Date End: **The last day the discount can be used.

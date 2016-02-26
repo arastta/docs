@@ -62,6 +62,8 @@ In "Choose Product", begin typing the product name. A drop down list will appear
     <li markdown="1">![orders products](_images/orders-4.png)</li>
 </ul>
 
+<div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> <b>Update in version 1.2.7 :</b> It will let you select products by searching the Model and Title in <b>Choose Product</b> field. This will be very helpful if you are using same title on different products. See <a href="https://github.com/arastta/arastta/issues/353">Github</a> for more information.</div>
+
 ### Vouchers
 
 If a customer wants to add a gift voucher order, it will ask them for the following information.

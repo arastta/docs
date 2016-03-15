@@ -34,8 +34,8 @@ Dashboard
 
 The dashboard is the first thing you will see when entering Arastta's admin. The main function of the dashboard is to give the shop owner an overview of how the shop is performing. There are 3 sections of the dashboard that can help you understand the statistical data collected by your store:
 
-- **Top:** Arastta calculates the numerical values for "Total Sales", "Total Orders", "Total Customers", "People Online" to alert you to approvals and keeping track of sales.
-- **Sales Analytics:** A graph is provided to track the chronological progress of the store relative to the amount of Sales, Orders, Customers, Affiliates, Reviews and Rewards over time. The x value is time; which can be hours, days, or months depending on the range selected. The y value displays the number of total.
+- **Top:** Arastta calculates the numerical values for "*Total Sales*", "*Total Orders*", "*Total Customers*" and "*People Online*" to alert you to approvals and keeping track of sales.
+- **Sales Analytics:** A graph is provided to track the chronological progress of the store relative to the amount of *Sales*, *Orders*, *Customers*, *Affiliates*, *Reviews* and *Rewards* over time. The x value is time; which can be hours, days, or months depending on the range selected. The y value displays the number of total sales(blue), total orders(green), total customers(red), total affiliates(purple), total reviews(orange) and total affiliates(brown).
 - **Sales and Products:** A list that displays the last 10 orders, best & less 5 sellers, and most 5 viewed products.
 - **World Map:** It shows the total orders and sales based on countries.
 
@@ -51,13 +51,13 @@ Filter is a handy tool used regularly throughout the Arastta administration. You
 For examples, if you would like to look up a product in the product list, you can use "Filter" as a shortcut to search for that product. This can be helpful when there is large amounts of product and you would like to edit a specific product without having to browse through every page for it. The search boxes are located in the first row above the product list.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li>![look products filter](_images/basic-filter.png)</li>
-    <li>![look products filter](_images/filter.png)</li>
+    <li markdown="1">![look products filter](_images/basic-filter.png)</li>
+    <li markdown="1">![look products filter](_images/filter.png)</li>
 </ul>
 
 In the screenshot above, "nikon" is typed into the "Product Name" information field. "Filter" only displays what matches "nikon". The Nikon D300 is the only product displayed because it is the only product name containing the words "nikon" in this shop. If the "nikon" wording was present in more than one product name, the "Filter" button would display all of them.
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
-    <li><div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i>There is no any button named "Filter", as in advanced mode, because the button name will be changeable according what you are searching. In this example the button name is "Name", you should click on it for filtering.</div></li>
-    <li></li>
+    <li markdown="1"><div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i>There is no any button named "Filter", as in advanced mode, because the button name will be changeable according what you are searching. In this example the button name is "Name", you should click on it for filtering.</div></li>
+    <li markdown="1"></li>
 </ul>

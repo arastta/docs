@@ -8,7 +8,7 @@ Here you can get general information about the [API](https://en.wikipedia.org/wi
 
 ![apis backend](_images/apis.png)
 
-Thanks to API you can connect your Arastta store to different services. One of the most important services to connect your Arastta store with is the Arastta Mobile App. Thanks to [Arastta mobile apps](https://arastta.org/mobile), you can manage and update your store from anywhere and at anytime. 
+Thanks to API you can connect your Arastta store to different services. One of the most important services to connect your Arastta store with is the Arastta Mobile App. Thanks to [Arastta mobile apps](https://arastta.org/mobile), you can manage and update your store from anywhere and at anytime.
 
 Also, API allows store admins to manage all "Cart" processes from admin panel. For example:
 
@@ -31,7 +31,7 @@ If you already have an API generated, you can see it on this page listed. Click 
 
 To generate a new API item, click on the **plus** icon at the top-right of the page.
 
-![API menu](_images/api-details.jpg)
+![API menu](_images/api-details.png)
 
 Fill in the **Username** and **Password** fields and make sure that you have enabled the API item. Click on the save button.
 

@@ -21,11 +21,11 @@ Create new API item
 
 You can generate an API username and password from your Arastta store's admin panel. Just login your [admin panel](https://arastta.org/docs/user-manual/admin-panel) and click on the **cogs** icon located in the top right corner of the page to reveal settings-related menus.
 
-![admin settings menu](_images/admin-menu.jpg)
+![admin settings menu](_images/admin-menu.png)
 
 Under **System** menu, click on the **API** menu to open API management page.
 
-![API menu](_images/api-menu.jpg)
+![API menu](_images/api-menu.png)
 
 If you already have an API generated, you can see it on this page listed. Click on the **pen** icon to edit your API details. You can enable or disable any API items or edit its username and password.
 

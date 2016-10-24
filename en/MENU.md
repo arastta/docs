@@ -71,7 +71,8 @@
 			* [Affiliates](user-manual/reports/marketing/affiliates)
 			* [Affiliate Activity](user-manual/reports/marketing/affiliate-activity)
 	* Appearance
-		* [Themes](user-manual/appearance/themes)
+		* [Themes](user-manual/appearance/themes/overview)
+			* [Second Theme](user-manual/appearance/themes/second)
 		* [Customizer](user-manual/appearance/customizer)
 		* [Layouts](user-manual/appearance/layouts)
 		* [Menus](user-manual/appearance/menus)

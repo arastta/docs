@@ -145,6 +145,7 @@
 	* [Increase the security](how-to/how-to-increase-the-security)
 	* [Integrate Live Chat](how-to/how-to-integrate-live-chat)
 	* [Integrate Google Analytics](how-to/how-to-integrate-google-analytics)
+	* [Enable Two-Factor Authentication](how-to/how-to-enable-two-factor-authentication)
 	* [Enable Google reCAPTCHA](how-to/how-to-enable-google-recaptcha)
 	* [Enable Maintenance Mode](how-to/how-to-enable-maintenance-mode)
 	* [Activate Debug Mode](how-to/how-to-activate-debug-mode)

@@ -24,7 +24,7 @@ With the user groups set up, the individual users can be saved to the administra
 
 Since Arastta 1.3 version, you can set some specific options for the specific users.
 
-![User Options](_images/user-options-jpg)
+![User Options](_images/user-options.jpg)
 
 **Theme:** Choose a theme which will be used as default theme for that user.
 

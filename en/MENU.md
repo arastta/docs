@@ -82,6 +82,8 @@
 			* [Overview](user-manual/appearance/modules/overview)
 			* [Install / Uninstall](user-manual/appearance/modules/install)
 			* [Editing a Module](user-manual/appearance/modules/edit)
+			* Extension Specific
+				* [Cart module](user-manual/appearance/modules/extension-specific/cart)
 	* Extensions
 		* [Modifications](user-manual/extensions/modifications)
 		* [Extension Installer](user-manual/extensions/extension-installer)

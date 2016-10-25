@@ -27,7 +27,7 @@ You need to choose **Yes** for ***Modal after Addtocart*** option to use the mod
 
 ###Default cart module settings###
 
-[Cart module settings](_images/cart-settings.jpg)
+![Cart module settings](_images/cart-settings.jpg)
 
 There are **2** types of themes: **Mini Cart** and **Full Cart**.
 

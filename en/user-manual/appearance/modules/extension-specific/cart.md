@@ -4,17 +4,13 @@ Cart module
 One of the free modules comes with Arastta core out of the box is the **Cart** module. This default module can be used in different ways.
 
 <div class="uk-grid" data-uk-grid-margin>
-  <div class="uk-width-medium-1-2" markdown="1">
+  <div class="uk-width-medium-1-2" markdown="1">![Modal Cart Module Example](_images/modal-cart-example.jpg)
 
-  ![Modal Cart Module Example](_images/modal-cart-example.jpg)
-
-  <small markdown="1">Modal Cart Module Example Usage</small>
+  <small>Modal Cart Module Example Usage</small>
   </div>
-  <div class="uk-width-medium-1-2" markdown="1">
+  <div class="uk-width-medium-1-2" markdown="1">![Default Cart Module Example](_images/default-cart-example.jpg)
 
-  ![Default Cart Module Example](_images/default-cart-example.jpg)
-
-  <small markdown="1">Default Cart Module Example Usage</small>
+  <small>Default Cart Module Example Usage</small>
   </div>  
 </div>
 

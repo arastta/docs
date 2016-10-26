@@ -18,7 +18,7 @@ There are 18 free core modules provided with the latest version of Arastta:
 - **Affiliate:** Links for the store's affiliate program is made available in a box for affiliates to access.
 - **Banners**: Adds an image banner with icons linking to different products or manufacturers in the store.
 - **Bestsellers:** Adds a window displaying the best sellers wherever position/page it is specified.
-- **Cart:** Adds a cart module in any module position. There are 2 different cart types are available: **mini cart** and **full cart**.
+- [**Cart:**](docs/user-manual/appearance/modules/extension-specific/cart) Adds a cart module in any module position. There are 2 different cart types are available: **mini cart** and **full cart**.
 - **Carousel:** Displays banner that can be navigated through as a slideshow.
 - **Categories (Wall):** Displays a module on the top below the header. It contains selected categories and subcategories of the store.
 - **Category:** Displays a module containing all the categories and subcategories of the store.

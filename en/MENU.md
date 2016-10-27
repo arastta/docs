@@ -166,9 +166,9 @@
 	* [Images not Uploading](faq/images-not-uploading)
 * Designers
 	* Customizer
-		*[Overview](designers/customizer/overview)
-		*[Groups](designers/customizer/groups)
-		*[Options](designers/customizer/options)
+		* [Overview](designers/customizer/overview)
+		* [Groups](designers/customizer/groups)
+		* [Options](designers/customizer/options)
 * Developers
 	* [Quick Start](developers/quick-start)
 	* [MVC Structure](developers/mvc-structure)

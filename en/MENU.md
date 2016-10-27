@@ -165,7 +165,10 @@
 	* [Image Manager](faq/image-manager)
 	* [Images not Uploading](faq/images-not-uploading)
 * Designers
-	* [Customizer](designers/customizer)
+	* Customizer
+		*[Overview](designers/customizer/overview)
+		*[Groups](designers/customizer/groups)
+		*[Options](designers/customizer/options)
 * Developers
 	* [Quick Start](developers/quick-start)
 	* [MVC Structure](developers/mvc-structure)

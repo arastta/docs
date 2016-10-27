@@ -63,7 +63,7 @@ So, you can name your option and then put an underscore and type the CSS propert
 
 Then you need to register properties of this option. As you can see, the first property is the **type**. There are lots of option types you can choose from. You can see the complete list of the types from [Arastta Form component's GitHub page](https://github.com/arastta/form/tree/master/Element). In the example we used **color** as the type, so in this option a color palette will be displayed to the user and users can choose their desired colors from the palette.
 
-[Color Palette Option Example](_images/color-palette.jpg)
+![Color Palette Option Example](_images/color-palette.jpg)
 
 ### Label ###
 

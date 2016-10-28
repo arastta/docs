@@ -1,6 +1,9 @@
 Overview
 ========
 
+Products in the administration
+------------------------------
+
 <div class="uk-alert-info uk-alert">
   <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
 </div>
@@ -14,8 +17,14 @@ Overview
 
     <li markdown="1">
 
-        Products in the administration
-        ------------------------------
+        Products are the bread and butter of the average Arastta store. Therefore, it is essential that you learn how to manage your store's product inventory using the Arastta administration side. Before adding products, you must make sure that you have all the necessary information about the product you are adding to the store. To get detailed information of your products to your customer, Arastta requires this information to be gathered beforehand. The more information given to Arastta about a specific product, the more informed the customer will be about that particular product when purchasing it from your store.
+
+        Products overview
+        -----------------
+
+        The Product section, accessed under Catalog, will display all the products available in the store.
+
+        Every row of product will contain the following information:
 
         - **Ordering**
         - **Checkbox**    
@@ -132,8 +141,14 @@ Overview
 
     <li markdown="1">
     
-        Products in the administration
-        ------------------------------
+        Products are the bread and butter of the average Arastta store. Therefore, it is essential that you learn how to manage your store's product inventory using the Arastta administration side. Before adding products, you must make sure that you have all the necessary information about the product you are adding to the store. To get detailed information of your products to your customer, Arastta requires this information to be gathered beforehand. The more information given to Arastta about a specific product, the more informed the customer will be about that particular product when purchasing it from your store.
+
+        Products overview
+        -----------------
+
+        The Product section, accessed under Catalog, will display all the products available in the store.
+
+        Every row of product will contain the following information:
 
         - **Image**
         - **Product Name**
@@ -178,6 +193,7 @@ Overview
         Before products are added to the administration, product categories must already be established by the administrator. See Categories before continuing with this section. With the product categories created, products are now ready to be added to the catalog.
 
         <div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Arastta currently only allows products to be added one at a time, not in mass quantity. Extensions can be purchased to add large amounts of product at once. See Product import for more information.</div>
+
 
         Saving the product
         ------------------

@@ -75,4 +75,4 @@ You can define a default value for your option, so users can _undo_ or _reset_ t
 
 ### Selector ###
 
-This is where you define the **CSS Selector***, so Customizer finds this selector in the DOM and apply the changes and customizations to that selector.
+This is where you define the **CSS Selector**, so Customizer finds this selector in the DOM and apply the changes and customizations to that selector.

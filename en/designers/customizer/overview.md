@@ -3,7 +3,8 @@ Customizer Overview
 
 Customizer is one of the most powerful features of Arastta which allows end-users (and even advanced ones) to easily customize and modify their theme's specific elements without any CSS and coding effort.
 
-** How to implement Customizer feature into a theme?
+How to implement Customizer feature into a theme?
+--------------------------
 
 It's very easy to make your theme customizable.  Just create a JSON file named _customizer.json_ in your theme's **root** directory. Here is where Second Theme's customizer file is located: `catalog/view/theme/second/customizer.json`
 

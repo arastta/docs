@@ -71,7 +71,9 @@
 			* [Affiliates](user-manual/reports/marketing/affiliates)
 			* [Affiliate Activity](user-manual/reports/marketing/affiliate-activity)
 	* Appearance
-		* [Themes](user-manual/appearance/themes)
+		* Themes
+			* [Overview](user-manual/appearance/themes/overview)
+			* [Second Theme](user-manual/appearance/themes/second)
 		* [Customizer](user-manual/appearance/customizer)
 		* [Layouts](user-manual/appearance/layouts)
 		* [Menus](user-manual/appearance/menus)
@@ -80,6 +82,8 @@
 			* [Overview](user-manual/appearance/modules/overview)
 			* [Install / Uninstall](user-manual/appearance/modules/install)
 			* [Editing a Module](user-manual/appearance/modules/edit)
+			* Extension Specific
+				* [Cart module](user-manual/appearance/modules/extension-specific/cart)
 	* Extensions
 		* [Modifications](user-manual/extensions/modifications)
 		* [Extension Installer](user-manual/extensions/extension-installer)
@@ -143,6 +147,7 @@
 	* [Increase the security](how-to/how-to-increase-the-security)
 	* [Integrate Live Chat](how-to/how-to-integrate-live-chat)
 	* [Integrate Google Analytics](how-to/how-to-integrate-google-analytics)
+	* [Enable Two-Factor Authentication](how-to/how-to-enable-two-factor-authentication)
 	* [Enable Google reCAPTCHA](how-to/how-to-enable-google-recaptcha)
 	* [Enable Maintenance Mode](how-to/how-to-enable-maintenance-mode)
 	* [Activate Debug Mode](how-to/how-to-activate-debug-mode)
@@ -160,7 +165,10 @@
 	* [Image Manager](faq/image-manager)
 	* [Images not Uploading](faq/images-not-uploading)
 * Designers
-	* [Customizer](designers/customizer)
+	* Customizer
+		* [Overview](designers/customizer/overview)
+		* [Groups](designers/customizer/groups)
+		* [Options](designers/customizer/options)
 * Developers
 	* [Quick Start](developers/quick-start)
 	* [MVC Structure](developers/mvc-structure)

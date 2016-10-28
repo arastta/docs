@@ -20,6 +20,20 @@ With the user groups set up, the individual users can be saved to the administra
     <li markdown="1">![user detail back end](_images/user-detail.png)</li>
 </ul>
 
+### Options
+
+Since Arastta 1.3 version, you can set some specific options for the specific users.
+
+![User Options](_images/user-options.jpg)
+
+**Theme:** Choose a theme which will be used as default theme for that user.
+
+**Admin Language:** Choose a language which will be used as default language for that user.
+
+**Editor:** Choose an editor which will be used as default editor for that user.
+
+**Two-Factor Authentication:** Choose the Two-Factor Authentication type for that users. Get more details from [How to Enable Two-Factor Authentication?](docs/how-to/how-to-enable-two-factor-authentication) doc.
+
 ### Permission denied
 
 The user can access the dashboard the same way the administrator would, with the exception of entering their specific username and password. See [Admin interface](docs/user-manual/admin-panel) for more information.

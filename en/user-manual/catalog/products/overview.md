@@ -30,7 +30,7 @@ Every row of product will contain the following information:
 
 Checking an individual box in the first column will select the product information within the same row. Once selected, you can choose to "**Enable**", "**Disable**" or "**Delete**" the product.
 
-![products](_images/basic-products.png)</li>
+![products](_images/basic-products.jpg)</li>
     <li markdown="1">- **Image**
 - **Product Name**
 - **Model**

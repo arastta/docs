@@ -4,6 +4,7 @@ Overview
 <div class="uk-alert-info uk-alert">
   <span class="uk-icon-info-circle"></span> You can switch between Basic and Advanced modes from the tabs below.
 </div>
+
 <ul class="uk-tab" data-uk-tab="{connect:'#doc-tabs', animation: 'fade'}">
     <li><a href="">Basic Mode</a></li>
     <li><a href="">Advanced Mode</a></li>
@@ -11,7 +12,6 @@ Overview
 
 <ul id="doc-tabs" class="uk-switcher uk-margin">
 
-    <!-- Basic Content -->
     <li markdown="1">
 
         Products in the administration
@@ -128,9 +128,8 @@ Overview
 
         At this point in the guide, you will have completed all the steps and filled out all the appropriate information for the product. To complete the process of adding this product, click "Save & Close". When you return to the Products page under Catalog, you will now see this product listed. You can choose to modify any of this information included above, at any time, by clicking "Edit" across from the product.
 
-    </li><!-- // Basic End -->
+    </li>
 
-    <!-- Advanced Content -->
     <li markdown="1">
     
         Products in the administration
@@ -185,6 +184,6 @@ Overview
 
         At this point in the guide, you will have completed all the steps and filled out all the appropriate information for the product. To complete the process of adding this product, click "Save & Close". When you return to the Products page under Catalog, you will now see this product listed. You can choose to modify any of this information included above, at any time, by clicking "Edit" across from the product.
 
-    </li><!-- // Advanced End -->
+    </li>
 
 </ul>

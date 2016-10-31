@@ -14,7 +14,7 @@ Overview
 <ul id="doc-tabs" class="uk-switcher uk-margin">
 
     <li>
-    <div>
+    <div markdown="1">
 
 
     Products in the administration
@@ -71,7 +71,7 @@ Overview
 
     <div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Arastta currently only allows products to be added one at a time, not in mass quantity. Extensions can be purchased to add large amounts of product at once. See Product import for more information.</div>
 
-    <div>
+    <div markdown="1">
 
     Create a product
     ------------------
@@ -148,7 +148,7 @@ Overview
     </li>
 
     <li>
-    <div>
+    <div markdown="1">
 
 
     Products in the administration
@@ -209,7 +209,7 @@ Overview
 
     <div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Arastta currently only allows products to be added one at a time, not in mass quantity. Extensions can be purchased to add large amounts of product at once. See Product import for more information.</div>
 
-    <div>
+    <div markdown="1">
 
     Saving the product
     ------------------

@@ -14,6 +14,8 @@ Overview
 <ul id="doc-tabs" class="uk-switcher uk-margin">
 
     <li>
+    <span markdown="1">
+
 
     Products in the administration
     ------------------------------
@@ -138,9 +140,12 @@ Overview
 
     At this point in the guide, you will have completed all the steps and filled out all the appropriate information for the product. To complete the process of adding this product, click "Save & Close". When you return to the Products page under Catalog, you will now see this product listed. You can choose to modify any of this information included above, at any time, by clicking "Edit" across from the product.
 
+    <span markdown="1">
     </li>
-
+    <span markdown="1">
     <li>
+    <span markdown="1">
+
 
     Products in the administration
     ------------------------------
@@ -203,6 +208,7 @@ Overview
 
     At this point in the guide, you will have completed all the steps and filled out all the appropriate information for the product. To complete the process of adding this product, click "Save & Close". When you return to the Products page under Catalog, you will now see this product listed. You can choose to modify any of this information included above, at any time, by clicking "Edit" across from the product.
 
+    <span markdown="1">
     </li>
 
 </ul>

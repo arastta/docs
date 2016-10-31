@@ -67,6 +67,7 @@ Overview
 
     Before products are added to the administration, product categories must already be established by the administrator. See Categories before continuing with this section. With the product categories created, products are now ready to be added to the catalog.
 
+
     <div class="uk-alert uk-alert-info uk-margin-small-left uk-margin-small-right"><i class="uk-icon-info-circle"></i> Arastta currently only allows products to be added one at a time, not in mass quantity. Extensions can be purchased to add large amounts of product at once. See Product import for more information.</div>
 
     Create a product
@@ -140,9 +141,9 @@ Overview
 
     At this point in the guide, you will have completed all the steps and filled out all the appropriate information for the product. To complete the process of adding this product, click "Save & Close". When you return to the Products page under Catalog, you will now see this product listed. You can choose to modify any of this information included above, at any time, by clicking "Edit" across from the product.
 
-    <span markdown="1">
+    </span>
     </li>
-    <span markdown="1">
+
     <li>
     <span markdown="1">
 
@@ -208,7 +209,7 @@ Overview
 
     At this point in the guide, you will have completed all the steps and filled out all the appropriate information for the product. To complete the process of adding this product, click "Save & Close". When you return to the Products page under Catalog, you will now see this product listed. You can choose to modify any of this information included above, at any time, by clicking "Edit" across from the product.
 
-    <span markdown="1">
+    </span>
     </li>
 
 </ul>

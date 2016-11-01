@@ -10,6 +10,6 @@ How to enable Search reports
 
 By default, tracking the search data is not enabled on Arastta. You need to activate this feature if you want to track the searches. You can navigate to `System > Settings` page and open **Option** tab.
 
-There, you need to choose **Yes** for `Customers Searchs`option.
+There, you need to choose **Yes** for `Customers Searches`option.
 
 ![Customers Search option](_images/customers-searches.jpg)

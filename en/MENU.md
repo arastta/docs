@@ -66,6 +66,7 @@
 			* [Orders](user-manual/reports/customers/orders)
 			* [Reward Points](user-manual/reports/customers/rewards)
 			* [Credit](user-manual/reports/customers/credit)
+			* [Search](user-manual/reports/customers/search)
 		* Marketing
 			* [Campaigns](user-manual/reports/marketing/campaigns)
 			* [Affiliates](user-manual/reports/marketing/affiliates)

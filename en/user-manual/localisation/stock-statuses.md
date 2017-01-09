@@ -28,3 +28,7 @@ This feature comes with Arastta 1.2.0 version. It allows you to set different co
 </ul>
 
 ![stock statuses front-end](_images/stock-statuses-2.png)
+
+##Allow Pre-Order
+
+Since Arastta 1.5, it possible to allow customers order the products even if their stock status is "out". If you want to allow "pre-order" feature for specific stock statuses, then you can choose _Yes_ from **Pre-Order** option for that statuses. All products have that status can be ordered by the customers even if their stock value is 0 (zero).

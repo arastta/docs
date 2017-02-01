@@ -26,14 +26,4 @@ You will now see your newly created tracking ID.
 
 ###STEP 2:  Implementing the Tracking ID in Arastta
 
-Login to your Arastta admin dashboard and navigate to **System>Settings**.
-
-![Accessing the Settings Menu in Arastta](_images/google-recaptcha-4.png)
-
-Select the **SEO** tab and scroll down until you see the option **Google Analytics Code**.
-
-![Pasting the keys in order to Enable repcaptcha](_images/google-analytics-4.png)
-
-Do not worry, if you already have a script in that field like the Zopim Live Chat widget. The two scripts will not interfere with each other and will both work correctly.
- 
-You have successfully activate Google Analytics tracking service for Arastta Store.
+Please refer to the [Analytics](docs/user-manual/extensions/analytics) documentation for the Google Analytics integration.

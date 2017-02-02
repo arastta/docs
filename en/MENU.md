@@ -92,6 +92,7 @@
 		* [Shipping](user-manual/extensions/shipping)
 		* [Order Totals](user-manual/extensions/order-totals)
 		* [Analytics](user-manual/extensions/analytics)
+		* [Two-Factor Authenticator](user-manual/extensions/two-factor-authenticator)
 		* [Facebook Store](user-manual/extensions/facebook-store)
 		* [Feeds](user-manual/extensions/feeds)
 		* [View All..](user-manual/extensions/view-all)

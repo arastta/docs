@@ -31,3 +31,10 @@ You can click on this extension to edit its details. There are 3 options availab
 ![Google ReCaptcha](_images/google-recaptcha.jpg)
 
 If you don't have a Google ReCaptcha account or don't know how to get it, please refer to [Google's documentation](https://developers.google.com/recaptcha/intro).
+
+Choosing the Default Editor for Your Store
+------------------------------------------
+
+As described above, after enabling the desired captcha extension, you can choose your default captcha service. To do so, open right side menu of the admin panel (by clicking on the cogs icon which is located at the top right of the page) and navigate to **System** > **Settings** page. Click on the **Security** tab and choose your captcha service from the dropdown list.
+
+If your service is not listed in the list, please read the above instructions to enable your captcha extension.

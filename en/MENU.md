@@ -94,6 +94,7 @@
 		* [Analytics](user-manual/extensions/analytics)
 		* [Two-Factor Authenticator](user-manual/extensions/two-factor-authenticator)
 		* [Captcha](user-manual/extensions/captcha)
+		* [Anti-Fraud](user-manual/extensions/anti-fraud)
 		* [Facebook Store](user-manual/extensions/facebook-store)
 		* [Feeds](user-manual/extensions/feeds)
 		* [View All..](user-manual/extensions/view-all)

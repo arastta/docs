@@ -29,14 +29,4 @@ Once you have entered the correct information hit the **Register** button. Now y
 
 ###STEP 2: Enable reCAPTCHA
 
-Login to the admin dashboard of your Arastta website and navigate to the **System>Settings** section of the main admin panel.
-
-![Navigating to the Settings Menu in Arastta](_images/google-recaptcha-4.png)
-
-Access the **Security** tab and scroll to the bottom of the page.
-
-![Pasting the keys in order to Enable repcaptcha](_images/google-recaptcha-5.png)
-
-Copy your **Public** key in the **Site key** field and your **Private** key to the **Secret key** field and change the status to **Enable**.
-
-Congratulations, your Arastta store is now safer against bots and abuse thanks to Google’s human verification service reCAPTCHA.
+Please refer to [Captcha](https://arastta.org/docs/user-manual/extensions/captcha) documentation for more information.

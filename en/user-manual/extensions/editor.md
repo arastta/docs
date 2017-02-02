@@ -1,24 +1,36 @@
-Anti-Fraud
+Editor
 ==========
 
-Arastta comes with anti-fraud extension type since 1.5 version and [MaxMind](https://www.maxmind.com) (a third party anti-fraud service) extension is available out of the box.
+Since Arastta 1.3 version, thanks to **Editor** extension, it's possible to choose your desired editor as default for your store. And Arastta comes with 2 different editors out of the box: **TinyMCE (Default)** and **Summernote**.
 
-If you are not familiar with Fraud or Anti-Fraud terminologies, this (article)[https://en.wikipedia.org/wiki/Internet_fraud] can be a good start (especially Purchase Fraud section).
+You need to enable at least one of them, thus they will be available in the store's settings to choose as the default editor.
 
-As mentioned above, there is one anti-fraud extension in Arastta by default and you can enable it by opening the right configuration menu (click on the cogs icon at the top right of the admin page). Then click on the **Extensions** > **View All...** menu.
+In your admin panel, click on the cogs icon at the top right of the page to open configuration menu of your Arastta and navigate to **Extensions** > **View All...**.
 
 ![View All Extensions](_images/view-all.jpg)
 
-All available extensions will be listed on the page and you can look for anti-fraud extensions in this list. An easy way to find anti-fraud extensions specifically is to filtering the extensions. To filter anti-fraud extensions, first, choose **Type** from the filter area at the top of the page.
+All available extensions will be listed on the page and you can look for editor extensions in this list. An easy way to find editor extensions specifically is to filtering the extensions. To filter, first, choose **Type** from the filter area at the top of the page.
 
 ![Extension Type](_images/extension-type.jpg)
 
-Then you can click in the search field, a dropdown list will be opened which lists all available extension types and choose **Anti-Fraud**. The page will be refreshed and all anti-fraud extensions will be displayed in the list.
+Then you can click in the search field, a dropdown list will be opened which lists all available extension types and choose **Editor**. The page will be refreshed and all editor extensions will be displayed in the list.
 
-You can enable **MaxMind** extension, but before using it, make sure that you fill all the fields in extension's detail page.
+You can enable all of them or the desired one.
 
-MaxMind Configuration
----------------------
+Also, you can edit any of those extensions to change their settings according to your needs.
 
-* **Risk Score**: You can refer to MaxMind documentation for [Risk Score](https://support.maxmind.com/minfraud-faq/minfraud-services/what-is-a-riskscore/) details
-* **Fraud Order Status**: Order Status will be applied to the order in your store in case the score which is set in your MaxMind account is greater than the Risk Score set in the extension options.
+TinyMCE (default editor)
+------------------------
+
+Once you open TinyMCE editor to edit, you will see that 2 tabs are available:
+
+* **General** tab, where you can enable and set the general settings for the editor.
+* **Advanced** tab, where you can change TinyMCE settings. If you want to enable some of the editor buttons (like Bold, Italic, Code view etc) you can find them here. Or you can disable some of the features or options here, too.
+
+Summernote
+------------------------
+
+Once you open Summernote editor to edit, you will see that 2 tabs are available:
+
+* **General** tab, where you can enable and set the general settings for the editor.
+* **Advanced** tab, where you can change Summernote settings. If you want to enable some of the editor buttons (like Bold, Italic, Code view etc) you can find them here. Or you can disable some of the features or options here, too.

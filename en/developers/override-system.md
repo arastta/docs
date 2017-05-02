@@ -38,4 +38,6 @@ Copy the followings in order to override the output:
 
 Open the `catalog/view/theme/mycustomtheme/template/common/header.tpl` file, find and replace all references to `default` with `mycustomtheme` in that file.
 
+Now go back to template folder 'mycustomtheme' and open the info.json file. Adapt any information like name of the theme, author, e-mail contact, description of the theme etc. to your needs. Later on you can open the other files within that folder to adjust more features of your theme.
+
 Finally, go to admin panel, then settings page and change the theme from `default` to `mycustomtheme`.

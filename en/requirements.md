@@ -6,7 +6,7 @@ When selecting a hosting company, you should check if the following requirements
 **Environment**
 
 - Web Server (Apache, Nginx, IIS)
-- PHP 5.3.10 or higher
+- PHP 5.6 (Recommended) or PHP 7.0  - Minimum PHP 5.3.10 (Not recommended)
 - MySQLi 5.1 or higher
 
 **Libraries**
